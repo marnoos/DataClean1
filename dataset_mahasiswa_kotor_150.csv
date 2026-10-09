@@ -1,0 +1,151 @@
+﻿NIM,Nama,Jenis_Kelamin,Program_Studi,Angkatan,IPK,Umur,Status_Mahasiswa
+TI20240001,Wahyu Pratama,L,Manajemen,2023.0,3.37,21.0,Aktif
+TI20240002,Alya Pratama,L,Akuntansi,2022.0,3.09,18.0,Aktif
+TI20240003,Gita Wijaya,L,Sistem Informasi,2025.0,3.44,21.0,Cuti
+TI20240004,Tono Nugroho,L,Sistem Informasi,2025.0,,23.0,Cuti
+TI20240005,,P,Teknik Informatika,2022.0,3.04,24.0,Aktif
+TI20240006,Lina Setiawan,Laki-laki,Manajemen,2022.0,3.04,25.0,Nonaktif
+TI20240007,Dewi Wulandari,P,Teknik Informatika,2024.0,3.86,23.0,Nonaktif
+,Gita Anggraini,L,Teknik Informatika,2023.0,3.5,22.0,Aktif
+TI20240009,Rani Wijaya,L,Akuntansi,2024.0,2.94,25.0,Nonaktif
+TI20240010,Intan Permata,L,Manajemen,2024.0,3.39,21.0,Nonaktif
+TI20240010,Intan Permata,L,Manajemen,2024.0,3.39,21.0,Nonaktif
+TI20240012,Maya Nugroho,L,Manajemen,2022.0,2.94,21.0,Aktif
+TI20240013,Dimas Permata,P,Manajemen,2022.0,3.26,,Nonaktif
+TI20240014,Sari Anggraini,P,Sistem Informasi,2025.0,2.29,24.0,Nonaktif
+TI20240015,Oki Lestari,P,Sistem Informasi,2023.0,2.37,22.0,Nonaktif
+TI20240016,Tono Hidayat,,Manajemen,2023.0,2.9,20.0,Nonaktif
+TI20240017,Putri Pratama,perempuan,Teknik Informatika,2023.0,2.69,20.0,Nonaktif
+TI20240018,Nanda Ramadhan,L,Akuntansi,2025.0,3.29,25.0,Nonaktif
+TI20240019,Indra Purnama,L,Teknik Informatika,2024.0,,23.0,Aktif
+TI20240020,Joko Hidayat,L,Akuntansi,2022.0,2.51,22.0,Nonaktif
+TI20240021,Bagas Lestari,L,Manajemen,2023.0,9.75,20.0,Cuti
+TI20240022,Bagas Lestari,L,Manajemen,2025.0,3.05,18.0,Aktif
+TI20240023,Yoga Permata,P,,2022.0,3.18,21.0,Nonaktif
+TI20240024,Citra Pratama,P,Teknik Informatika,2023.0,2.51,20.0,Nonaktif
+TI20240025,Putri Purnama,L,Manajemen,2025.0,2.91,21.0,Nonaktif
+TI20240026,Bagas Anggraini,L,Manajemen,2025.0,3.2,23.0,Cuti
+TI20240027,Sari Purnama,P,Teknik Informatika,2023.0,2.63,21.0,
+TI20240028,Kiki Saputra,L,Sistem Informasi,2022.0,3.32,19.0,Nonaktif
+TI20240029,Wahyu Saputra,L,Teknik Informatika,2022.0,2.88,23.0,Aktif
+TI20240030,,P,Akuntansi,2023.0,3.02,20.0,Nonaktif
+TI20240031,Yoga Wulandari,P,Sistem Informasi,2025.0,2.88,24.0,Aktif
+TI20240032,Dewi Pratama,P,Manajemen,,3.98,24.0,Cuti
+TI20240033,Rani Anggraini,L,Teknik Informatika,2022.0,3.14,24.0,Nonaktif
+TI20240034,Kiki Firmansyah,L,Sistem Informasi,2023.0,2.67,21.0,Nonaktif
+TI20240035,Oki Lestari,P,Sistem Informasi,2024.0,3.52,25.0,Aktif
+TI20240035,Oki Lestari,P,Sistem Informasi,2024.0,3.52,25.0,Aktif
+TI20240037,Sinta Setiawan,L,Teknik Informatika,2023.0,3.24,20.0,Cuti
+TI20240038,Putri Kusuma,L,Akuntansi,2022.0,2.27,20.0,Cuti
+TI20240039,Andi Hidayat,Pria,Akuntansi,2024.0,2.55,24.0,Nonaktif
+TI20240040,Alya Firmansyah,P,Sistem Informasi,2023.0,3.24,22.0,Aktif
+TI20240041,Budi Ramadhan,L,Manajemen,2022.0,3.48,18.0,Nonaktif
+TI20240042,Putri Purnama,L,Teknik Informatika,2022.0,3.23,20.0,Aktif
+TI20240043,Vina Pratama,L,Akuntansi,2022.0,3.1,21.0,Nonaktif
+TI20240044,Vina Saputra,L,Akuntansi,2024.0,3.01,22.0,Aktif
+TI20240045,Yuni Anggraini,P,Sistem Informasi,2024.0,,24.0,Aktif
+TI20240046,Yuni Maulana,P,Akuntansi,2024.0,2.83,19.0,Aktif
+TI20240047,Oki Ramadhan,L,Teknik Informatika,2023.0,2.94,22.0,Aktif
+TI20240048,Yoga Permata,L,Sistem Informasi,2024.0,3.63,22.0,Aktif
+TI20240049,Oki Setiawan,P,Teknik Informatika,2024.0,-0.5,19.0,Aktif
+TI20240050,Indra Pratama,L,Sistem Informasi,2024.0,2.36,22.0,Nonaktif
+TI20240051,Gita Anggraini,P,Sistem Informasi,2024.0,3.3,,Cuti
+TI20240052,Sari Wulandari,L,Teknik Informatika,2025.0,2.98,22.0,Aktif
+TI20240053,Andi Permata,L,Manajemen,2023.0,2.85,25.0,Nonaktif
+TI20240054,Zaki Hidayat,L,Teknik Informatika,2022.0,3.43,20.0,Nonaktif
+TI20240055,Budi Setiawan,,Sistem Informasi,2025.0,3.61,20.0,Aktif
+TI20240056,Joko Permata,L,Manajemen,2023.0,3.57,21.0,Nonaktif
+TI20240057,Dewi Permata,P,Sistem Informasi,2023.0,2.77,20.0,Aktif
+TI20240058,Sari Hidayat,L,Sistem Informasi,2024.0,3.01,24.0,Nonaktif
+TI20240059,Rani Anggraini,L,Manajemen,2023.0,3.3,19.0,Cuti
+TI20240060,Rani Saputra,P,Sistem Informasi,2023.0,3.59,25.0,Cuti
+TI20240061,Joko Setiawan,L,Sistem Informasi,2022.0,2.93,21.0,Cuti
+TI20240062,Kiki Nugroho,L,TI,2024.0,3.07,24.0,Nonaktif
+TI20240063,Intan Purnama,P,Teknik Informatika,2022.0,2.65,22.0,
+TI20240064,Tono Nugroho,L,Teknik Informatika,2025.0,2.61,23.0,Nonaktif
+TI20240065,Dimas Permata,P,Teknik Informatika,2025.0,3.52,21.0,Cuti
+TI20240066,Budi Anggraini,P,Teknik Informatika,2023.0,3.76,23.0,Cuti
+TI20240067,Citra Maulana,P,Manajemen,2022.0,3.12,22.0,Nonaktif
+TI20240068,Joko Maulana,P,,2025.0,3.6,22.0,Nonaktif
+TI20240069,Eko Wijaya,P,Akuntansi,2023.0,3.31,22.0,Cuti
+TI20240070,Sinta Setiawan,L,Manajemen,2024.0,2.86,21.0,Cuti
+TI20240070,Sinta Setiawan,L,Manajemen,2024.0,2.86,21.0,Cuti
+TI20240072,Gita Purnama,P,Sistem Informasi,2022.0,3.84,22.0,Nonaktif
+TI20240073,Yuni Maulana,P,Teknik Informatika,2023.0,3.13,22.0,Aktif
+TI20240074,Dimas Wijaya,L,Teknik informatika,2022.0,3.85,21.0,Cuti
+TI20240075,Vina Setiawan,L,Akuntansi,2025.0,1.97,21.0,Nonaktif
+TI20230076,Zaki Hidayat,P,Akuntansi,2023.0,3.52,20.0,Nonaktif
+TI20230077,Zaki Saputra,L,Akuntansi,,3.19,20.0,Nonaktif
+TI20230078,Rizky Kusuma,L,Sistem Informasi,2022.0,3.02,25.0,Aktif
+TI20230079,Dimas Kusuma,P,Akuntansi,2025.0,3.19,25.0,Aktif
+TI20230080,Alya Setiawan,P,Akuntansi,2024.0,2.26,21.0,Nonaktif
+TI20230081,Indra Firmansyah,P,Sistem Informasi,2024.0,3.05,25.0,Aktif
+TI20230082,Zaki Nugroho,L,Manajemen,2024.0,3.31,23.0,Nonaktif
+,Citra Lestari,L,Sistem Informasi,2025.0,3.82,20.0,Nonaktif
+TI20230084,Gita Pratama,P,Akuntansi,2024.0,2.92,25.0,Cuti
+TI20230085,Budi Wijaya,P,Akuntansi,2022.0,2.79,24.0,Cuti
+TI20230086,Andi Permata,P,Akuntansi,2025.0,2.92,21.0,Cuti
+TI20230087,Hana Nugroho,P,Akuntansi,2022.0,3.56,24.0,Cuti
+TI20230088,Yuni Maulana,P,Sistem Informasi,2025.0,3.3,20.0,Nonaktif
+TI20230089,Sinta Saputra,P,Teknik Informatika,2022.0,2.91,145.0,Aktif
+TI20230090,Rani Kusuma,L,Teknik Informatika,2024.0,,24.0,Cuti
+TI20230091,Gita Kusuma,P,Manajemen,2025.0,3.19,22.0,Cuti
+TI20230092,,L,Akuntansi,2022.0,3.59,18.0,Cuti
+TI20230093,Hana Maulana,L,Teknik Informatika,2022.0,2.83,21.0,Aktif
+TI20230094,Intan Saputra,L,Sistem Informasi,2023.0,3.0,25.0,Nonaktif
+TI20230095,Dewi Ramadhan,L,Sistem Informasi ,2024.0,2.97,23.0,Aktif
+TI20230096,Vina Ramadhan,L,Sistem Informasi,2024.0,2.49,19.0,Nonaktif
+TI20230097,Andi Wulandari,P,Akuntansi,2025.0,3.28,21.0,Aktif
+TI20230098,Tono Anggraini,L,Teknik Informatika,2024.0,3.27,,Nonaktif
+TI20230099,Dimas Saputra,P,Akuntansi,2024.0,3.15,19.0,Nonaktif
+TI20230100,Wahyu Permata,L,Akuntansi,2025.0,3.04,19.0,Cuti
+TI20230100,Wahyu Permata,L,Akuntansi,2025.0,3.04,19.0,Cuti
+TI20230102,Rizky Maulana,P,Akuntansi,2025.0,2.96,24.0,Nonaktif
+TI20230103,Tono Nugroho,P,Sistem Informasi,2022.0,3.0,22.0,Cuti
+TI20230104,Hana Firmansyah,P,Akuntansi,2024.0,2.79,18.0,Cuti
+TI20230105,Rani Permata,L,Akuntansi,2023.0,3.08,23.0,
+TI20230106,Kiki Nugroho,P,Teknik Informatika,2023.0,3.33,19.0,Aktif
+TI20230107,Alya Hidayat,P,Sistem Informasi,2025.0,4.0,25.0,Cuti
+TI20230108,Dimas Saputra,L,Manajemen,2023.0,3.23,24.0,aktif
+TI20230109,Hana Nugroho,P,Akuntansi,2024.0,3.27,24.0,Nonaktif
+TI20230110,Sinta Permata,P,Akuntansi,2024.0,3.12,22.0,Cuti
+TI20230111,Hana Pratama,,Manajemen,2022.0,2.29,20.0,Aktif
+TI20230112,Gita Anggraini,P,Manajemen,2024.0,3.14,19.0,Aktif
+TI20230113,Joko Wijaya,P,Sistem Informasi,2024.0,3.18,18.0,Nonaktif
+TI20230114,Sinta Lestari,P,Teknik Informatika,2022.0,4.0,22.0,Nonaktif
+TI20230115,Eko Maulana,P,Teknik Informatika,2022.0,3.06,22.0,Cuti
+TI20230116,Putri Kusuma,P,Sistem Informasi,2022.0,3.29,12.0,Cuti
+TI20230117,Dewi Setiawan,L,Akuntansi,2025.0,3.13,19.0,Nonaktif
+TI20230118,Wahyu Maulana,L,Sistem Informasi,2023.0,2.62,22.0,Aktif
+TI20230119,Hana Pratama,P,Sistem Informasi,2025.0,3.66,25.0,Cuti
+TI20230120,Joko Setiawan,P,,2022.0,3.49,19.0,Aktif
+TI20230121,Wahyu Wijaya,P,Teknik Informatika,2023.0,3.51,21.0,Aktif
+TI20230122,Sinta Pratama,L,Teknik Informatika,2025.0,2.74,25.0,AKTIF
+TI20230123,Vina Kusuma,P,Teknik Informatika,2023.0,3.78,22.0,Nonaktif
+TI20230124,Joko Anggraini,P,Teknik Informatika,2023.0,2.52,22.0,Nonaktif
+TI20230125,Tono Maulana,L,Akuntansi,2022.0,3.41,21.0,Nonaktif
+TI20230125,Tono Maulana,L,Akuntansi,2022.0,3.41,21.0,Nonaktif
+TI20230127,Dimas Nugroho,P,Akuntansi,2022.0,2.7,25.0,Nonaktif
+TI20230128,Joko Anggraini,P,Manajemen,2025.0,2.9,25.0,Aktif
+TI20230129,Vina Saputra,P,Manajemen,2024.0,,18.0,Aktif
+TI20230130,Hana Maulana,L,Manajemen,2022.0,2.92,20.0,Cuti
+TI20230131,Rizky Maulana,P,Manajemen,2023.0,2.45,24.0,Nonaktif
+TI20230132,Intan Kusuma,L,Akuntansi,2024.0,3.18,24.0,Cuti
+TI20230133,Kiki Maulana,L,Sistem Informasi,2024.0,2.67,24.0,Nonaktif
+TI20230134,,P,Teknik Informatika,2025.0,3.36,19.0,Cuti
+TI20230135,Indra Permata,L,Akuntansi,2022.0,2.74,25.0,Cuti
+TI20230136,Budi Wijaya,P,Akuntansi,2025.0,3.85,18.0,Aktif
+TI20230137,Indra Purnama,L,Manajemen,2025.0,2.8,25.0,Aktif
+TI20230138,Andi Maulana,L,Sistem Informasi,2024.0,3.01,,Nonaktif
+TI20230139,Nanda Pratama,L,Teknik Informatika,2025.0,3.52,19.0,Nonaktif
+TI20230140,Intan Lestari,P,Manajemen,2024.0,2.6,24.0,Cuti
+TI20230141,Putri Wijaya,P,Sistem Informasi,,3.25,21.0,Nonaktif
+TI20230142,Rizky Anggraini,L,Teknik Informatika,2024.0,3.74,24.0,Cuti
+TI20230143,Yoga Firmansyah,P,Teknik Informatika,1900.0,2.43,22.0,Nonaktif
+TI20230144,Tono Maulana,P,Sistem Informasi,2025.0,3.23,25.0,Active
+TI20230145,Kiki Purnama,P,Akuntansi,2024.0,3.27,21.0,Nonaktif
+TI20230146,Hana Ramadhan,P,Sistem Informasi,2025.0,3.5,18.0,Cuti
+TI20230147,Alya Kusuma,P,Akuntansi,2023.0,,25.0,Aktif
+TI20230148,Eko Purnama,P,Teknik Informatika,2025.0,2.56,19.0,Nonaktif
+TI20230149,Yoga Kusuma,L,Sistem Informasi,2025.0,3.38,20.0,Aktif
+TI20230150,Putri Firmansyah,P,Manajemen,2025.0,3.28,19.0,Cuti
