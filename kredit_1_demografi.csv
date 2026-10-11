@@ -1,0 +1,1226 @@
+ID_Nasabah,Usia,Jenis_Kelamin,Pendidikan,Status_Pernikahan,Pekerjaan,Jumlah_Tanggungan,Kota
+N0647,41,Perempuan,SMA,Menikah,PNS,0,Medan
+N0147,22,Laki-laki,SMA,Belum Menikah,Profesional,1,Bandung
+N0613,56,L,S1,Belum Menikah,Wiraswasta,1,Denpasar
+N0356,65,Perempuan,S2,Menikah,,0,Jakarta
+N0743,49,Laki-laki,D3,Belum Menikah,Wiraswasta,2,Jakarta
+N0963,58,Perempuan,SMA,Belum Menikah,PNS,1,Jakarta
+N0836,55,Perempuan,S1,Menikah,Karyawan Swasta,2,Denpasar
+N0058,27,Laki-laki,D3,Menikah,Karyawan Swasta,2,Surabaya
+N0329,27,Perempuan,SMA,Menikah,Karyawan Swasta,0,Semarang
+N0331,45,Laki-laki,SMA,Cerai,Profesional,1,Yogyakarta
+N0709,42,Laki-laki,S1,Menikah,Wiraswasta,0,Makassar
+N0382,63,Perempuan,S2,Belum Menikah,Profesional,1,Jakarta
+N0304,61,Laki-laki,S2,Cerai,Karyawan Swasta,0,Makassar
+N0684,64,Perempuan,D3,Menikah,Karyawan Swasta,3,Jakarta
+N0959,64,Perempuan,S1,Menikah,Karyawan Swasta,1,Jakarta
+N1148,55,Laki-laki,S1,Belum Menikah,Profesional,4,Jakarta
+N0211,32,Laki-laki,SMA,Menikah,Karyawan Swasta,1,Surabaya
+N0579,61,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,0,Yogyakarta
+N0682,27,Laki-laki,SMA,Menikah,Wiraswasta,4,Bandung
+N0120,26,Perempuan,S2,Menikah,Karyawan Swasta,2,Bandung
+N0472,57,Perempuan,S1,Menikah,Karyawan Swasta,0,Yogyakarta
+N0489,55,Laki-laki,SMA,Menikah,Buruh,3,Jakarta
+N1090,27,Laki-laki,SMA,Menikah,Wiraswasta,4,Makassar
+N0470,62,Laki-laki,S2,Cerai,Karyawan Swasta,0,Surabaya
+N0670,26,Laki-laki,D3,Menikah,Wiraswasta,2,Denpasar
+N0934,50,Perempuan,,Menikah,Karyawan Swasta,3,Bandung
+N0655,45,Laki-laki,S1,Menikah,PNS,3,Jakarta
+N0561,150,Laki-laki,S2,Belum Menikah,,0,Surabaya
+N0593,31,Perempuan,D3,Belum Menikah,Karyawan Swasta,3,Medan
+N0665,47,Perempuan,SMA,Menikah,Wiraswasta,0,Yogyakarta
+N0363,31,Laki-laki,D3,Belum Menikah,Karyawan Swasta,3,Bandung
+N0730,50,Laki-laki,S1,Belum Menikah,,3,Jakarta
+N0032,31,Perempuan,S2,Menikah,PNS,1,Makassar
+N0244,50,Laki-laki,S2,Menikah,Buruh,1,Semarang
+N0973,42,Perempuan,S2,Menikah,Profesional,5,Makassar
+N0522,27,Laki-laki,SMA,Belum Menikah,Wiraswasta,2,Surabaya
+N0020,41,Laki-laki,,Menikah,Wiraswasta,1,Bandung
+N0614,38,Laki-laki,S1,Belum Menikah,,4,Surabaya
+N0964,30,Perempuan,D3,Menikah,Karyawan Swasta,1,Medan
+N0962,39,Perempuan,S2,Menikah,Buruh,2,Medan
+N0236,53,Perempuan,S1,Menikah,Wiraswasta,4,Surabaya
+N0678,24,Laki-laki,SMA,Menikah,Wiraswasta,3,Makassar
+N1146,42,Perempuan,S1,Menikah,PNS,2,Yogyakarta
+N0839,21,perempuan ,S2,Belum Menikah,Buruh,1,Jakarta
+N0515,64,Perempuan,D3,Cerai,Wiraswasta,0,Denpasar
+N1099,22,Perempuan,S1,Belum Menikah,Karyawan Swasta,5,Bandung
+N0506,41,Perempuan,,Menikah,Karyawan Swasta,1,Bandung
+N0181,63,Laki-laki,S2,Cerai,Wiraswasta,1,Surabaya
+N0124,,Perempuan,D3,Menikah,PNS,2,Jakarta
+N0538,26,Laki-laki,D3,Belum Menikah,PNS,2,Jakarta
+N0850,48,Laki-laki,S2,Menikah,Pensiunan,2,Medan
+N0589,58,Laki-laki,S1,Belum Menikah,PNS,3,Semarang
+N0459,58,Laki-laki,SMA,Menikah,Wiraswasta,0,Semarang
+N0353,34,Laki-laki,S1,Menikah,PNS,1,Jakarta
+N0638,34,Laki-laki,S1,Menikah,PNS,4,Makassar
+N0701,44,L,SMA,Belum Menikah,Wiraswasta,2,Surabaya
+N0720,47,Perempuan,SMA,Menikah,Karyawan Swasta,4,Denpasar
+N0752,27,Perempuan,S1,Menikah,Profesional,0,Semarang
+N0540,21,P,SMA,Menikah,Wiraswasta,2,Surabaya
+N0145,65,Laki-laki,S2,Belum Menikah,Profesional,2,Jakarta
+N0952,34,Laki-laki,S1,Cerai,PNS,0,Yogyakarta
+N0233,21,Laki-laki,D3,Menikah,Profesional,0,Makassar
+N0883,41,Perempuan,SMA,Belum Menikah,Karyawan Swasta,1,Jakarta
+N0288,46,Laki-laki,D3,Menikah,PNS,1,Jakarta
+N0202,61,Laki-laki,S1,Cerai,Profesional,1,Jakarta
+N0981,47,Perempuan,SMA,Menikah,Wiraswasta,1,Medan
+N0098,51,Perempuan,D3,Menikah,Wiraswasta,2,Surabaya
+N0351,44,Laki-laki,S1,Menikah,PNS,1,Semarang
+N0898,23,Perempuan,SMA,Menikah,,1,Surabaya
+N0619,23,Perempuan,SMA,Menikah,Wiraswasta,0,Surabaya
+N0830,22,Laki-laki,SMA,Belum Menikah,PNS,3,Yogyakarta
+N0848,23,Laki-laki,S1,Belum Menikah,Profesional,3,Jakarta
+N0637,31,Laki-laki,S1,Belum Menikah,PNS,1,Surabaya
+N0931,45,Laki-laki,SMA,Menikah,,0,Jakarta
+N0664,30,Perempuan,S1,Belum Menikah,Profesional,2,Jakarta
+N0640,63,Laki-laki,S1,Menikah,Karyawan Swasta,3,Surabaya
+N0191,51,Laki-laki,SMA,Menikah,Karyawan Swasta,4,Surabaya
+N0788,51,Laki-laki,SMA,Menikah,Karyawan Swasta,1,Jakarta
+N0924,27,Perempuan,S1,Cerai,Wiraswasta,1,Denpasar
+N0122,51,Laki-laki,D3,Menikah,Wiraswasta,0,Denpasar
+N0158,46,Perempuan,SMA,Menikah,Karyawan Swasta,2,Jakarta
+N1009,54,Laki-laki,SMA,Menikah,PNS,1,Jakarta
+N0473,40,Laki-laki,S1,Menikah,PNS,1,Bandung
+N0661,28,Laki-laki,S2,Menikah,Wiraswasta,1,Denpasar
+N0823,27,Laki-laki,SMA,Menikah,Buruh,2,Surabaya
+N1053,,Laki-laki,S2,Menikah,Karyawan Swasta,2,Medan
+N1154,61,Perempuan,S2,Menikah,Wiraswasta,4,Medan
+N0886,54,Laki-laki,S1,Menikah,Karyawan Swasta,1,Jakarta
+N0108,50,Perempuan,SMA,Belum Menikah,Karyawan Swasta,1,Surabaya
+N0073,41,Perempuan,S3,Belum Menikah,Profesional,2,Jakarta
+N0867,57,Laki-laki,S2,Menikah,Wiraswasta,1,Jakarta
+N1010,44,Laki-laki,SMA,Belum Menikah,PNS,2,Yogyakarta
+N0780,59,Laki-laki,S2,Cerai,Buruh,0,Makassar
+N0062,54,Perempuan,S3,Menikah,Buruh,1,Bandung
+N0978,46,Perempuan,S1,Menikah,PNS,2,Bandung
+N1170,62,Perempuan,SMA,Menikah,Karyawan Swasta,3,Makassar
+N0993,29,laki-laki,S1,Menikah,PNS,1,Surabaya
+N0469,29,Laki-laki,S1,Menikah,Buruh,1,Jakarta
+N1199,57,Perempuan,S3,Menikah,Wiraswasta,1,Semarang
+N0059,54,L,D3,Menikah,Pensiunan,3,Surabaya
+N0381,21,Perempuan,S1,Menikah,Wiraswasta,2,Makassar
+N0416,51,Laki-laki,SMA,Menikah,Karyawan Swasta,1,Semarang
+N1067,62,Perempuan,S1,Menikah,Karyawan Swasta,1,Surabaya
+N0270,47,perempuan ,S1,Menikah,Karyawan Swasta,1,Makassar
+N0228,47,Laki-laki,D3,Menikah,PNS,1,Medan
+N0318,53,Laki-laki,SMA,Menikah,Karyawan Swasta,3,Bandung
+N0598,56,Perempuan,SMA,Belum Menikah,Karyawan Swasta,2,Bandung
+N0174,53,Perempuan,D3,Cerai,,1,Jakarta
+N0457,27,Perempuan,S2,Cerai,Buruh,1,Surabaya
+N0954,40,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,0,Jakarta
+N0151,59,Laki-laki,S2,Menikah,Karyawan Swasta,4,Bandung
+N1072,,Perempuan,S1,Belum Menikah,Buruh,4,Medan
+N0553,58,Laki-laki,SMA,Menikah,Karyawan Swasta,1,Jakarta
+N1124,31,Perempuan,S1,Menikah,PNS,0,Jakarta
+N0344,44,Laki-laki,S2,Menikah,Wiraswasta,1,Surabaya
+N0086,52,Laki-laki,D3,Menikah,Karyawan Swasta,2,Bandung
+N0144,39,Laki-laki,SMA,Menikah,Karyawan Swasta,4,Jakarta
+N1108,61,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,2,Jakarta
+N0680,63,Perempuan,S2,Menikah,Karyawan Swasta,0,Denpasar
+N0960,39,Perempuan,S1,Menikah,Karyawan Swasta,4,Semarang
+N1008,43,Laki-laki,S1,Menikah,Buruh,0,Surabaya
+N0312,51,Perempuan,S1,Cerai,Wiraswasta,3,Jakarta
+N0161,65,Perempuan,S1,Cerai,Karyawan Swasta,3,Medan
+N0104,21,Perempuan,SMA,Belum Menikah,Karyawan Swasta,1,Bandung
+N1122,24,perempuan ,SMA,Belum Menikah,Wiraswasta,2,Bandung
+N0856,59,Laki-laki,S2,Menikah,Karyawan Swasta,2,Medan
+N0601,48,Perempuan,S1,Menikah,Karyawan Swasta,1,Denpasar
+N0240,49,Laki-laki,S1,Menikah,Karyawan Swasta,0,Medan
+N1049,51,Perempuan,S1,Menikah,PNS,2,Jakarta
+N1070,21,Perempuan,SMA,Menikah,Wiraswasta,3,Denpasar
+N0885,57,Perempuan,D3,Cerai,Buruh,1,Makassar
+N0387,24,Laki-laki,S2,Menikah,Wiraswasta,4,Denpasar
+N0719,31,Perempuan,S1,Cerai,Buruh,1,Surabaya
+N0422,52,Perempuan,S1,Menikah,Buruh,4,Semarang
+N0684,64,Perempuan,D3,Menikah,Karyawan Swasta,3,Jakarta
+N0432,54,Perempuan,S1,Menikah,Karyawan Swasta,2,Makassar
+N0716,56,Perempuan,S2,Belum Menikah,Profesional,3,Surabaya
+N0683,64,Laki-laki,SMA,Menikah,Wiraswasta,1,Semarang
+N0004,40,Perempuan,S1,Belum Menikah,Wiraswasta,0,Bandung
+N1086,58,Laki-laki,SMA,Cerai,PNS,1,Jakarta
+N0926,63,Laki-laki,S1,Menikah,PNS,2,Jakarta
+N0096,33,Laki-laki,SMA,Menikah,Karyawan Swasta,1,Bandung
+N1102,42,Perempuan,S2,Belum Menikah,Wiraswasta,2,Yogyakarta
+N0860,57,Laki-laki,SMA,Menikah,PNS,2,Semarang
+N0250,22,Perempuan,D3,Menikah,PNS,0,Yogyakarta
+N0417,64,Perempuan,SMA,Belum Menikah,PNS,1,Semarang
+N0169,36,Laki-laki,S1,Menikah,Karyawan Swasta,1,Bandung
+N1160,36,laki-laki,S2,Menikah,,4,Jakarta
+N1033,53,Perempuan,S1,Belum Menikah,Karyawan Swasta,1,Semarang
+N0165,39,Perempuan,S1,Belum Menikah,Profesional,3,Surabaya
+N0862,62,Laki-laki,D3,Menikah,Karyawan Swasta,0,Surabaya
+N0148,31,Laki-laki,S2,Belum Menikah,Buruh,0,Jakarta
+N0625,48,Laki-laki,S2,Belum Menikah,Karyawan Swasta,1,Surabaya
+N0358,61,Laki-laki,D3,Menikah,Profesional,5,Bandung
+N0446,50,Laki-laki,SMA,Menikah,Pensiunan,0,Bandung
+N0074,,Perempuan,S3,Belum Menikah,Buruh,0,Jakarta
+N0717,44,Perempuan,SMA,Belum Menikah,Profesional,3,Yogyakarta
+N0584,23,Laki-laki,SMA,Belum Menikah,Wiraswasta,3,Yogyakarta
+N0478,21,Laki-laki,SMA,Cerai,PNS,1,Semarang
+N0902,22,Perempuan,S1,Belum Menikah,Karyawan Swasta,2,Semarang
+N0138,22,Laki-laki,S1,Menikah,PNS,3,Makassar
+N0199,36,P,S2,Menikah,Karyawan Swasta,1,Medan
+N0922,46,Laki-laki,S2,Belum Menikah,Karyawan Swasta,4,Bandung
+N1091,,Perempuan,SMA,Menikah,Karyawan Swasta,0,Denpasar
+N0092,57,Perempuan,S1,Cerai,PNS,1,Jakarta
+N0291,57,Laki-laki,D3,Menikah,Wiraswasta,1,Medan
+N0377,54,Laki-laki,S1,Menikah,Profesional,4,Jakarta
+N0378,54,Laki-laki,S2,Cerai,PNS,1,Yogyakarta
+N0289,45,Laki-laki,S1,Menikah,Karyawan Swasta,0,Denpasar
+N0795,40,Perempuan,D3,Menikah,Wiraswasta,0,Makassar
+N0891,25,Laki-laki,S2,Menikah,Karyawan Swasta,1,Jakarta
+N0955,56,Laki-laki,S2,Menikah,PNS,0,Jakarta
+N1179,32,Laki-laki,S1,Belum Menikah,Karyawan Swasta,5,Jakarta
+N0645,55,Laki-laki,S1,Menikah,Karyawan Swasta,2,Denpasar
+N0116,46,Laki-laki,SMA,Belum Menikah,Wiraswasta,0,Jakarta
+N0920,49,Laki-laki,S1,Menikah,Wiraswasta,2,Yogyakarta
+N0488,44,Perempuan,S1,Belum Menikah,Karyawan Swasta,0,Jakarta
+N0350,28,Laki-laki,SMA,Menikah,Karyawan Swasta,1,Makassar
+N0879,45,Laki-laki,S1,Menikah,Karyawan Swasta,5,Denpasar
+N0500,40,Laki-laki,S1,Belum Menikah,Profesional,2,Jakarta
+N1074,44,Laki-laki,SMA,Menikah,Buruh,0,Jakarta
+N0028,,Laki-laki,S1,Belum Menikah,Karyawan Swasta,2,Semarang
+N0892,52,laki-laki,D3,Belum Menikah,Profesional,0,Medan
+N0530,62,Perempuan,S1,Menikah,Karyawan Swasta,2,Jakarta
+N0392,29,Perempuan,S1,Belum Menikah,Wiraswasta,0,Jakarta
+N0906,52,Laki-laki,S1,Belum Menikah,Karyawan Swasta,1,Medan
+N0843,61,Laki-laki,S1,Belum Menikah,Karyawan Swasta,0,Denpasar
+N1133,56,Perempuan,S1,Menikah,Karyawan Swasta,3,Surabaya
+N0239,34,Laki-laki,S1,Menikah,Karyawan Swasta,0,Jakarta
+N0438,,Laki-laki,D3,Menikah,Wiraswasta,1,Semarang
+N1060,34,Laki-laki,S1,Belum Menikah,Karyawan Swasta,1,Surabaya
+N0781,60,Laki-laki,SMA,Menikah,Buruh,0,Bandung
+N0132,45,Laki-laki,S1,Cerai,Buruh,4,Denpasar
+N1007,59,Perempuan,D3,Menikah,PNS,3,Semarang
+N0775,59,Perempuan,S1,Belum Menikah,Wiraswasta,1,Denpasar
+N1152,43,Laki-laki,S1,Menikah,Profesional,1,Semarang
+N0721,27,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,1,Jakarta
+N0315,,Perempuan,SMA,Menikah,PNS,0,Jakarta
+N0324,62,Laki-laki,SMA,Belum Menikah,Buruh,2,Jakarta
+N0136,34,L,SMA,Belum Menikah,PNS,5,Makassar
+N0575,21,Laki-laki,D3,Menikah,PNS,0,Yogyakarta
+N0985,47,Perempuan,SMA,Menikah,PNS,2,Medan
+N1123,33,Perempuan,SMA,Belum Menikah,Buruh,3,Yogyakarta
+N0760,53,Laki-laki,SMA,Menikah,Wiraswasta,3,Makassar
+N1023,,Perempuan,,Menikah,PNS,5,Medan
+N0198,26,Laki-laki,D3,Menikah,Profesional,1,Makassar
+N0649,64,LAKI-LAKI,S1,Menikah,PNS,4,Semarang
+N0894,65,Perempuan,S3,Menikah,Karyawan Swasta,0,Makassar
+N0603,54,Perempuan,S1,Menikah,PNS,3,Semarang
+N0887,23,Perempuan,SMA,Cerai,Profesional,2,Surabaya
+N0893,44,LAKI-LAKI,,Menikah,Karyawan Swasta,3,Surabaya
+N1167,21,Perempuan,D3,Menikah,Karyawan Swasta,1,Denpasar
+N0527,62,Laki-laki,SMA,Menikah,Profesional,0,Medan
+N0217,24,Perempuan,D3,Menikah,Wiraswasta,0,Jakarta
+N0687,39,Laki-laki,S1,Menikah,PNS,3,Makassar
+N1014,35,Laki-laki,SMA,Menikah,Buruh,3,Jakarta
+N0977,25,Perempuan,S1,Menikah,Karyawan Swasta,1,Bandung
+N0543,29,Perempuan,S1,Belum Menikah,Profesional,2,Jakarta
+N0390,27,Perempuan,S2,Menikah,,0,Medan
+N0322,25,Perempuan,SMA,Menikah,Karyawan Swasta,0,Yogyakarta
+N0793,53,Laki-laki,S1,Menikah,Wiraswasta,1,Medan
+N0763,63,Perempuan,S1,Menikah,Wiraswasta,2,Medan
+N0639,,P,S1,Belum Menikah,PNS,0,Jakarta
+N0194,37,L,SMA,Belum Menikah,Wiraswasta,1,Makassar
+N0066,35,Perempuan,S2,Menikah,Wiraswasta,2,Jakarta
+N0689,41,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,0,Surabaya
+N0176,41,Perempuan,SMA,Menikah,Karyawan Swasta,1,Jakarta
+N1005,26,Laki-laki,SMA,Menikah,Karyawan Swasta,0,Bandung
+N0081,63,Laki-laki,S1,Menikah,PNS,2,Medan
+N0499,62,Perempuan,SMA,Menikah,Wiraswasta,2,Jakarta
+N0748,35,Laki-laki,SMA,Belum Menikah,Profesional,1,Surabaya
+N0632,35,Perempuan,S1,Cerai,Karyawan Swasta,2,Jakarta
+N0923,41,Perempuan,D3,Menikah,Karyawan Swasta,1,Jakarta
+N0294,35,Laki-laki,,Menikah,PNS,1,Surabaya
+N0267,41,Perempuan,S1,Menikah,Karyawan Swasta,0,Makassar
+N0084,58,Laki-laki,S1,Belum Menikah,PNS,2,Bandung
+N0951,25,Laki-laki,SMA,Menikah,Wiraswasta,1,Denpasar
+N0264,62,Perempuan,SMA,Menikah,Pensiunan,0,Makassar
+N0699,23,Perempuan,S2,Menikah,Buruh,3,Denpasar
+N0941,52,Perempuan,SMA,Menikah,Wiraswasta,1,Bandung
+N0857,32,Laki-laki,D3,Belum Menikah,Wiraswasta,1,Yogyakarta
+N0529,62,Perempuan,S1,Belum Menikah,Wiraswasta,0,Bandung
+N0005,40,Perempuan,S1,Menikah,Profesional,1,Surabaya
+N0052,29,Perempuan,S2,Menikah,Karyawan Swasta,0,Yogyakarta
+N0336,57,Laki-laki,S1,Menikah,PNS,1,Yogyakarta
+N1096,24,Laki-laki,SMA,Menikah,Wiraswasta,1,Medan
+N0904,60,Laki-laki,S2,Menikah,Wiraswasta,2,Semarang
+N0430,53,Laki-laki,S1,Belum Menikah,Karyawan Swasta,1,Yogyakarta
+N0315,,Perempuan,SMA,Menikah,PNS,0,Jakarta
+N0127,24,Laki-laki,D3,Menikah,PNS,0,Semarang
+N0451,64,L,S1,Belum Menikah,Buruh,2,Jakarta
+N0140,40,Laki-laki,SMA,Menikah,Profesional,1,Jakarta
+N0002,55,Perempuan,S1,Belum Menikah,Profesional,1,Bandung
+N0082,40,Laki-laki,S1,Menikah,Karyawan Swasta,0,Jakarta
+N0742,55,Perempuan,S1,Menikah,PNS,3,Surabaya
+N0679,44,Perempuan,D3,Menikah,Karyawan Swasta,5,Jakarta
+N0610,59,Laki-laki,S2,Menikah,Wiraswasta,3,Bandung
+N0481,33,Laki-laki,S1,Menikah,Pensiunan,2,Denpasar
+N0163,39,Laki-laki,S1,Menikah,Wiraswasta,1,Bandung
+N0567,31,Perempuan,D3,Belum Menikah,Wiraswasta,0,Surabaya
+N0256,27,Laki-laki,,Belum Menikah,Karyawan Swasta,0,Surabaya
+N0170,22,Perempuan,S1,Belum Menikah,Karyawan Swasta,1,Semarang
+N0538,26,Laki-laki,D3,Belum Menikah,PNS,2,Jakarta
+N0558,,Laki-laki,S1,Cerai,Pensiunan,3,Medan
+N1194,,L,S1,Belum Menikah,Karyawan Swasta,4,Jakarta
+N0371,36,Laki-laki,S1,Belum Menikah,Karyawan Swasta,1,Surabaya
+N0305,45,Perempuan,S1,Belum Menikah,PNS,3,Medan
+N0650,59,Perempuan,S1,Belum Menikah,Profesional,2,Surabaya
+N1118,47,Perempuan,S2,Belum Menikah,,1,Denpasar
+N0222,41,Perempuan,SMA,Belum Menikah,Karyawan Swasta,2,Bandung
+N0100,27,Laki-laki,SMA,Menikah,,1,Bandung
+N0441,,Laki-laki,D3,Menikah,Karyawan Swasta,0,Medan
+N0791,25,Perempuan,S1,Menikah,PNS,2,Jakarta
+N0325,64,Laki-laki,D3,Belum Menikah,Profesional,1,Surabaya
+N0710,41,Perempuan,S1,Belum Menikah,Karyawan Swasta,2,Jakarta
+N0133,25,Laki-laki,S1,Menikah,PNS,2,Jakarta
+N0943,,Laki-laki,SMA,Menikah,Karyawan Swasta,0,Medan
+N0851,65,Perempuan,S3,Menikah,Karyawan Swasta,5,Yogyakarta
+N0008,52,Laki-laki,S1,Menikah,PNS,2,Makassar
+N0207,55,Perempuan,S1,Menikah,Buruh,1,Yogyakarta
+N1166,25,L,S1,Menikah,Pensiunan,0,Makassar
+N0629,43,Perempuan,S1,Belum Menikah,Profesional,0,Bandung
+N0205,41,Laki-laki,SMA,Cerai,Karyawan Swasta,3,Surabaya
+N1142,36,Laki-laki,SMA,Menikah,PNS,3,Denpasar
+N0778,26,Perempuan,S2,Menikah,Karyawan Swasta,3,Makassar
+N1141,60,Laki-laki,S3,Menikah,Karyawan Swasta,2,Jakarta
+N0770,37,Laki-laki,S3,Belum Menikah,Wiraswasta,0,Jakarta
+N0029,45,Perempuan,S2,Belum Menikah,Wiraswasta,1,Makassar
+N1062,51,Perempuan,S1,Belum Menikah,,1,Semarang
+N0449,44,Perempuan,D3,Menikah,Karyawan Swasta,3,Bandung
+N0693,62,Perempuan,SMA,Menikah,Karyawan Swasta,4,Yogyakarta
+N0190,34,Perempuan,SMA,Menikah,Wiraswasta,1,Jakarta
+N0109,42,Laki-laki,S2,Menikah,Buruh,2,Semarang
+N0821,22,Perempuan,S2,Belum Menikah,Buruh,0,Surabaya
+N0853,64,Perempuan,S2,Menikah,Wiraswasta,3,Jakarta
+N0229,45,Perempuan,S1,Belum Menikah,Karyawan Swasta,2,Jakarta
+N0476,56,Laki-laki,SMA,Menikah,Karyawan Swasta,0,Semarang
+N0023,29,Perempuan,S1,Menikah,Karyawan Swasta,1,Jakarta
+N0820,65,Perempuan,S2,Belum Menikah,Karyawan Swasta,0,Bandung
+N0571,63,Laki-laki,S1,Belum Menikah,Wiraswasta,1,Bandung
+N1114,34,Perempuan,S1,Menikah,Wiraswasta,1,Yogyakarta
+N0541,52,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,2,Bandung
+N1019,22,Perempuan,S1,Menikah,Karyawan Swasta,1,Semarang
+N0094,38,Laki-laki,SMA,Cerai,Wiraswasta,1,Jakarta
+N0555,65,Laki-laki,S1,Menikah,Buruh,0,Medan
+N0225,53,Perempuan,S1,Menikah,Wiraswasta,2,Surabaya
+N0896,48,Perempuan,SMA,Belum Menikah,Wiraswasta,2,Bandung
+N0559,56,Laki-laki,S3,Belum Menikah,PNS,1,Denpasar
+N0688,47,Laki-laki,S2,Cerai,Wiraswasta,2,Makassar
+N0676,53,Laki-laki,SMA,Belum Menikah,Wiraswasta,3,Denpasar
+N0524,58,Laki-laki,SMA,Menikah,Wiraswasta,1,Jakarta
+N0949,63,Laki-laki,S1,Belum Menikah,Buruh,1,Yogyakarta
+N0453,43,Laki-laki,D3,Menikah,PNS,2,Bandung
+N0379,38,Laki-laki,D3,Menikah,Wiraswasta,3,Makassar
+N1000,44,Laki-laki,S1,Menikah,Wiraswasta,5,Denpasar
+N0828,61,Laki-laki,D3,Menikah,Karyawan Swasta,1,Makassar
+N0340,63,Laki-laki,S2,Menikah,Karyawan Swasta,4,Semarang
+N0179,61,Perempuan,S1,Menikah,Buruh,2,Jakarta
+N0999,64,Perempuan,S1,Menikah,Profesional,4,Jakarta
+N0071,56,Laki-laki,D3,Menikah,Pensiunan,1,Semarang
+N0961,27,Perempuan,S1,Menikah,Pensiunan,0,Medan
+N1055,24,Perempuan,S1,Belum Menikah,Profesional,2,Surabaya
+N0618,32,Perempuan,S1,Menikah,Wiraswasta,0,Jakarta
+N1132,51,Laki-laki,SMA,Belum Menikah,Profesional,0,Denpasar
+N0129,46,Laki-laki,SMA,Belum Menikah,Buruh,0,Yogyakarta
+N0549,44,Laki-laki,SMA,Menikah,Buruh,3,Surabaya
+N0875,52,Laki-laki,S1,Cerai,Pensiunan,2,Medan
+N0049,51,Perempuan,S1,Cerai,Karyawan Swasta,0,Medan
+N0550,51,Perempuan,SMA,Belum Menikah,PNS,3,Semarang
+N0807,45,laki-laki,S1,Belum Menikah,Profesional,0,Yogyakarta
+N0088,35,Perempuan,SMA,Menikah,Karyawan Swasta,3,Surabaya
+N0958,49,Laki-laki,S1,Cerai,Wiraswasta,1,Denpasar
+N0712,44,Perempuan,S1,Belum Menikah,Karyawan Swasta,2,Semarang
+N1117,65,L,SMA,Belum Menikah,PNS,3,Jakarta
+N0870,22,Laki-laki,S1,Menikah,Wiraswasta,1,Bandung
+N0479,50,Perempuan,S2,Cerai,PNS,1,Makassar
+N0131,46,Laki-laki,S1,Menikah,PNS,0,Bandung
+N0569,49,Perempuan,D3,Belum Menikah,Karyawan Swasta,1,Bandung
+N0992,45,Laki-laki,SMA,Menikah,Wiraswasta,1,Denpasar
+N0271,,Perempuan,S2,Cerai,Buruh,0,Denpasar
+N0328,22,Perempuan,D3,Belum Menikah,Wiraswasta,1,Surabaya
+N1119,53,Perempuan,SMA,Menikah,,3,Surabaya
+N0806,56,Laki-laki,SMA,Menikah,Karyawan Swasta,0,Surabaya
+N0494,48,Laki-laki,D3,Belum Menikah,Buruh,2,Surabaya
+N0957,39,Perempuan,S2,Cerai,Karyawan Swasta,0,Jakarta
+N1054,64,Laki-laki,D3,Menikah,Profesional,1,Surabaya
+N0825,49,Laki-laki,S1,Belum Menikah,Wiraswasta,0,Bandung
+N0747,44,Laki-laki,S2,Menikah,Wiraswasta,2,Medan
+N0156,50,Laki-laki,S3,Menikah,Wiraswasta,3,Jakarta
+N1162,43,Laki-laki,S2,Menikah,PNS,2,Denpasar
+N0429,22,Perempuan,SMA,Cerai,Karyawan Swasta,2,Surabaya
+N1189,46,Perempuan,SMA,Menikah,Karyawan Swasta,2,Denpasar
+N1128,49,Perempuan,S1,Menikah,Buruh,2,Denpasar
+N0031,41,Perempuan,S1,Belum Menikah,Pensiunan,1,Denpasar
+N0620,27,Laki-laki,S2,Cerai,Wiraswasta,2,Bandung
+N0450,33,Laki-laki,D3,Belum Menikah,Karyawan Swasta,2,Yogyakarta
+N0594,65,LAKI-LAKI,SMA,Menikah,Pensiunan,3,Jakarta
+N0784,26,Perempuan,SMA,Menikah,Karyawan Swasta,1,Surabaya
+N0195,64,Laki-laki,S1,Belum Menikah,Karyawan Swasta,0,Bandung
+N0872,30,Laki-laki,S1,Menikah,Karyawan Swasta,2,Jakarta
+N1093,58,Laki-laki,S1,Belum Menikah,Buruh,1,Bandung
+N1078,28,Laki-laki,S1,Menikah,Wiraswasta,4,Medan
+N1158,59,Perempuan,SMA,Menikah,Karyawan Swasta,2,Jakarta
+N0180,43,Perempuan,SMA,Menikah,PNS,0,Makassar
+N1182,150,Perempuan,D3,Menikah,Wiraswasta,0,Surabaya
+N0990,56,Laki-laki,D3,Cerai,Wiraswasta,0,Medan
+N1079,39,Perempuan,S1,Menikah,Karyawan Swasta,1,Semarang
+N0011,44,LAKI-LAKI,SMA,Menikah,Wiraswasta,2,Semarang
+N0355,64,Perempuan,S1,Menikah,Karyawan Swasta,2,Jakarta
+N0068,37,Perempuan,SMA,Menikah,Profesional,2,Bandung
+N0616,49,Laki-laki,SMA,Belum Menikah,PNS,1,Surabaya
+N0210,56,Perempuan,S1,Menikah,Karyawan Swasta,1,Semarang
+N0146,59,Laki-laki,S2,Belum Menikah,Pensiunan,3,Makassar
+N0440,38,Laki-laki,S1,Belum Menikah,Karyawan Swasta,2,Surabaya
+N0284,43,perempuan ,SMA,Menikah,Karyawan Swasta,1,Yogyakarta
+N0972,39,Perempuan,S1,Menikah,Wiraswasta,1,Bandung
+N0882,59,Laki-laki,S2,Cerai,Wiraswasta,1,Medan
+N0797,64,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,0,Medan
+N0093,58,Laki-laki,S1,Belum Menikah,PNS,0,Medan
+N1121,21,Laki-laki,S3,Cerai,PNS,1,Makassar
+N0215,54,Laki-laki,S1,Menikah,Karyawan Swasta,1,Jakarta
+N0360,54,Laki-laki,SMA,Belum Menikah,Wiraswasta,1,Jakarta
+N0686,57,Perempuan,D3,Menikah,Buruh,0,Denpasar
+N0858,23,Laki-laki,,Menikah,Wiraswasta,0,Makassar
+N0196,24,Laki-laki,S1,Menikah,Karyawan Swasta,4,Surabaya
+N0297,59,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,0,Semarang
+N1068,49,Laki-laki,S1,Belum Menikah,Buruh,2,Denpasar
+N0408,,L,S1,Menikah,Karyawan Swasta,0,Surabaya
+N0523,29,Perempuan,S1,Menikah,Karyawan Swasta,4,Makassar
+N1036,54,Laki-laki,S1,Menikah,Wiraswasta,1,Jakarta
+N0361,59,Laki-laki,S1,Menikah,Pensiunan,2,Yogyakarta
+N0621,,Laki-laki,SMA,Belum Menikah,Wiraswasta,3,Yogyakarta
+N0947,64,Laki-laki,SMA,Menikah,Buruh,3,Surabaya
+N0503,64,perempuan ,S1,Menikah,Karyawan Swasta,0,Medan
+N1113,29,Perempuan,S1,Belum Menikah,Karyawan Swasta,2,Semarang
+N0386,26,Perempuan,SMA,Belum Menikah,Profesional,2,Makassar
+N0189,31,Perempuan,S3,Menikah,Profesional,1,Bandung
+N0564,29,Laki-laki,S2,Menikah,Wiraswasta,1,Semarang
+N0998,37,Laki-laki,D3,Menikah,Karyawan Swasta,5,Semarang
+N0087,25,Laki-laki,SMA,Menikah,Buruh,1,Yogyakarta
+N0035,60,Laki-laki,SMA,Cerai,PNS,0,Surabaya
+N0200,64,P,S1,Cerai,Profesional,1,Jakarta
+N0588,25,Perempuan,SMA,Menikah,Profesional,1,Bandung
+N1069,36,Laki-laki,S2,Cerai,Buruh,2,Bandung
+N1100,40,Perempuan,S1,Cerai,PNS,2,Semarang
+N0348,63,Perempuan,S3,Belum Menikah,Karyawan Swasta,1,Makassar
+N0412,31,Perempuan,S1,Menikah,Karyawan Swasta,2,Bandung
+N0401,65,Laki-laki,SMA,Menikah,Wiraswasta,0,Jakarta
+N0046,64,Perempuan,S1,Cerai,Karyawan Swasta,2,Jakarta
+N0510,31,Laki-laki,S2,Menikah,Karyawan Swasta,1,Jakarta
+N1031,42,Laki-laki,SMA,Menikah,Profesional,3,Semarang
+N0987,48,Laki-laki,S1,Menikah,PNS,2,Jakarta
+N0547,40,Perempuan,S2,Menikah,Karyawan Swasta,1,Makassar
+N0834,27,Laki-laki,S1,Menikah,Wiraswasta,2,Medan
+N0944,42,Laki-laki,S1,Belum Menikah,Buruh,1,Makassar
+N0001,25,Laki-laki,S1,Belum Menikah,Karyawan Swasta,1,Jakarta
+N0852,57,Perempuan,S1,Menikah,Karyawan Swasta,0,Medan
+N0551,57,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,1,Medan
+N0424,47,Laki-laki,SMA,Menikah,Buruh,0,Bandung
+N0465,21,Laki-laki,S1,Belum Menikah,Wiraswasta,1,Semarang
+N1077,53,P,D3,Belum Menikah,Wiraswasta,1,Jakarta
+N0604,27,Perempuan,S2,Menikah,Karyawan Swasta,4,Jakarta
+N0785,42,Perempuan,SMA,Menikah,Karyawan Swasta,5,Surabaya
+N0102,29,Laki-laki,SMA,Menikah,Wiraswasta,1,Jakarta
+N0448,64,Perempuan,S1,Belum Menikah,Karyawan Swasta,0,Jakarta
+N0040,49,perempuan ,S1,Belum Menikah,Wiraswasta,2,Medan
+N0507,44,Laki-laki,S1,Menikah,PNS,3,Surabaya
+N0017,44,Perempuan,S1,Cerai,Wiraswasta,0,Semarang
+N0753,24,Laki-laki,S1,Menikah,Karyawan Swasta,0,Jakarta
+N0428,57,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,1,Yogyakarta
+N0637,31,Laki-laki,S1,Belum Menikah,PNS,1,Surabaya
+N0149,57,Perempuan,SMA,Belum Menikah,Wiraswasta,3,Makassar
+N0754,63,Laki-laki,S2,Belum Menikah,Pensiunan,3,Jakarta
+N0178,28,Laki-laki,S2,Menikah,Karyawan Swasta,3,Surabaya
+N0137,48,Laki-laki,,Belum Menikah,PNS,0,Semarang
+N0337,64,Perempuan,D3,Menikah,Wiraswasta,0,Semarang
+N0746,37,Perempuan,D3,Belum Menikah,Profesional,3,Yogyakarta
+N0119,32,LAKI-LAKI,S1,Menikah,Buruh,0,Surabaya
+N0854,31,Perempuan,S1,Menikah,PNS,2,Makassar
+N0734,55,Perempuan,SMA,Menikah,Karyawan Swasta,1,Medan
+N1137,53,Perempuan,D3,Menikah,Wiraswasta,2,Semarang
+N0718,43,Laki-laki,SMA,Belum Menikah,Wiraswasta,1,Surabaya
+N0065,39,Laki-laki,S1,Menikah,Wiraswasta,2,Surabaya
+N0779,33,Perempuan,SMA,Belum Menikah,Profesional,2,Jakarta
+N0624,5,Perempuan,SMA,Belum Menikah,Wiraswasta,0,Surabaya
+N0113,46,Perempuan,S2,Belum Menikah,Karyawan Swasta,2,Jakarta
+N0193,,Laki-laki,D3,Menikah,Wiraswasta,2,Surabaya
+N0769,27,Laki-laki,S1,Belum Menikah,PNS,1,Semarang
+N0394,47,Laki-laki,SMA,Menikah,Karyawan Swasta,2,Makassar
+N0657,55,Perempuan,S1,Menikah,Karyawan Swasta,1,Jakarta
+N0563,43,Perempuan,S1,Cerai,Buruh,1,Semarang
+N1159,,Perempuan,SMA,Menikah,Karyawan Swasta,0,Jakarta
+N0737,53,Laki-laki,S1,Menikah,Karyawan Swasta,1,Jakarta
+N1006,62,Laki-laki,SMA,Menikah,PNS,5,Semarang
+N0042,55,Perempuan,S1,Cerai,Profesional,1,Surabaya
+N0212,53,Laki-laki,D3,Belum Menikah,PNS,1,Makassar
+N0187,28,Perempuan,D3,Belum Menikah,Karyawan Swasta,1,Bandung
+N0125,59,Laki-laki,SMA,Menikah,Karyawan Swasta,4,Semarang
+N0359,25,Laki-laki,S1,Belum Menikah,PNS,3,Jakarta
+N0153,62,Laki-laki,S1,Menikah,Wiraswasta,0,Jakarta
+N0298,40,Laki-laki,S1,Menikah,Wiraswasta,0,Jakarta
+N1111,49,Perempuan,S1,Menikah,Karyawan Swasta,2,Makassar
+N1066,38,Perempuan,SMA,Belum Menikah,PNS,3,Surabaya
+N0247,55,Laki-laki,S1,Menikah,Karyawan Swasta,0,Semarang
+N0006,59,Perempuan,S1,Belum Menikah,Profesional,2,Makassar
+N0832,31,Perempuan,S1,Belum Menikah,Buruh,0,Semarang
+N0047,41,Laki-laki,D3,Menikah,Buruh,0,Surabaya
+N0302,58,Laki-laki,SMA,Menikah,Karyawan Swasta,1,Jakarta
+N1015,44,Perempuan,SMA,Menikah,Karyawan Swasta,2,Jakarta
+N0466,64,Perempuan,SMA,Belum Menikah,Karyawan Swasta,0,Jakarta
+N0411,28,Perempuan,S3,Belum Menikah,Buruh,3,Surabaya
+N1030,36,Laki-laki,S1,Cerai,Karyawan Swasta,3,Jakarta
+N0935,150,Laki-laki,D3,Menikah,Buruh,2,Denpasar
+N1178,29,Laki-laki,S1,Cerai,Profesional,0,Yogyakarta
+N1076,28,Perempuan,SMA,Menikah,Profesional,1,Jakarta
+N0675,48,Laki-laki,D3,Belum Menikah,Wiraswasta,0,Makassar
+N1034,,Perempuan,S2,Menikah,Karyawan Swasta,2,Jakarta
+N0727,,Laki-laki,S2,Cerai,Karyawan Swasta,1,Yogyakarta
+N0817,22,Laki-laki,SMA,Menikah,Wiraswasta,1,Semarang
+N0989,32,Laki-laki,S2,Cerai,Buruh,3,Bandung
+N0750,28,Laki-laki,D3,Menikah,Wiraswasta,1,Surabaya
+N0313,26,Perempuan,SMA,Menikah,Buruh,2,Medan
+N0265,65,Laki-laki,S1,Menikah,Karyawan Swasta,0,Medan
+N0388,58,Laki-laki,S1,Cerai,Buruh,2,Bandung
+N0728,24,Perempuan,S2,Menikah,Wiraswasta,1,Yogyakarta
+N0171,25,Laki-laki,D3,Cerai,Karyawan Swasta,3,Jakarta
+N0248,39,Perempuan,S1,Belum Menikah,Wiraswasta,4,Bandung
+N1040,58,Perempuan,SMA,Belum Menikah,,0,Semarang
+N0230,28,Laki-laki,S1,Menikah,PNS,0,Jakarta
+N0117,22,Perempuan,S1,Menikah,Buruh,3,Surabaya
+N0826,25,Laki-laki,S1,Menikah,Wiraswasta,1,Semarang
+N0574,23,Perempuan,D3,Menikah,Karyawan Swasta,1,Surabaya
+N1187,27,Laki-laki,SMA,Menikah,PNS,1,Bandung
+N0421,62,Perempuan,D3,Belum Menikah,Karyawan Swasta,2,Bandung
+N0597,47,Laki-laki,D3,Belum Menikah,Karyawan Swasta,2,Medan
+N0665,47,Perempuan,SMA,Menikah,Wiraswasta,0,Yogyakarta
+N0916,41,Laki-laki,SMA,Menikah,Buruh,0,Jakarta
+N0528,27,Perempuan,SMA,Menikah,Karyawan Swasta,0,Semarang
+N0950,33,Laki-laki,SMA,Menikah,Karyawan Swasta,2,Surabaya
+N0079,46,Laki-laki,S1,Belum Menikah,Karyawan Swasta,2,Semarang
+N0110,52,Laki-laki,S2,Cerai,Wiraswasta,3,Bandung
+N0458,49,Laki-laki,S1,Cerai,PNS,1,Denpasar
+N0783,26,Laki-laki,SMA,Cerai,Karyawan Swasta,1,Semarang
+N0928,34,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,2,Medan
+N0112,56,Perempuan,SMA,Menikah,Profesional,2,Denpasar
+N0615,51,Laki-laki,S1,Belum Menikah,Karyawan Swasta,2,Yogyakarta
+N1193,28,Laki-laki,D3,Menikah,Pensiunan,0,Jakarta
+N0587,52,Laki-laki,S3,Menikah,Karyawan Swasta,0,Medan
+N0669,62,Laki-laki,S1,Menikah,Karyawan Swasta,4,Makassar
+N0566,31,Perempuan,S1,Belum Menikah,Karyawan Swasta,4,Jakarta
+N0607,35,Perempuan,S1,Menikah,Karyawan Swasta,2,Surabaya
+N1180,22,Laki-laki,S2,Belum Menikah,Profesional,2,Semarang
+N0103,57,perempuan ,S2,Cerai,Pensiunan,3,Bandung
+N0455,47,Laki-laki,S2,Cerai,Karyawan Swasta,0,Denpasar
+N1082,,Perempuan,SMA,Menikah,Karyawan Swasta,2,Denpasar
+N0847,28,Perempuan,S1,Belum Menikah,Karyawan Swasta,0,Makassar
+N0819,50,Perempuan,S2,Belum Menikah,Wiraswasta,1,Jakarta
+N0707,21,Perempuan,S2,Menikah,Buruh,1,Bandung
+N0636,51,Laki-laki,S2,Menikah,Profesional,0,Surabaya
+N0591,57,Laki-laki,S1,Belum Menikah,Wiraswasta,4,Semarang
+N1163,59,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,2,Bandung
+N0069,24,Laki-laki,S1,Belum Menikah,Profesional,0,Jakarta
+N0586,62,Perempuan,S1,Belum Menikah,Buruh,1,Bandung
+N1145,35,Perempuan,D3,Menikah,Karyawan Swasta,3,Jakarta
+N1013,32,Perempuan,,Cerai,Pensiunan,1,Jakarta
+N0690,56,Perempuan,S1,Menikah,Pensiunan,1,Jakarta
+N0611,58,Perempuan,S1,Belum Menikah,Wiraswasta,2,Bandung
+N0253,29,Perempuan,S1,Menikah,Wiraswasta,1,Makassar
+N0844,22,Laki-laki,S2,Belum Menikah,Karyawan Swasta,1,Surabaya
+N1190,21,Laki-laki,S1,Menikah,Buruh,2,Bandung
+N0135,56,Laki-laki,S1,Belum Menikah,Buruh,4,Semarang
+N0592,61,Laki-laki,S1,Menikah,PNS,4,Surabaya
+N0805,54,Laki-laki,SMA,Menikah,PNS,2,Medan
+N0128,55,Laki-laki,S1,Menikah,Profesional,2,Medan
+N1110,23,Laki-laki,S1,Menikah,Karyawan Swasta,2,Yogyakarta
+N0787,22,Perempuan,D3,Cerai,Wiraswasta,1,Jakarta
+N0238,40,Perempuan,SMA,Menikah,Karyawan Swasta,1,Yogyakarta
+N1104,27,Perempuan,S3,Menikah,,3,Yogyakarta
+N0756,40,Laki-laki,S1,Menikah,Karyawan Swasta,1,Jakarta
+N1094,38,Perempuan,S1,Menikah,Wiraswasta,1,Semarang
+N0809,38,Perempuan,S1,Cerai,Wiraswasta,3,Jakarta
+N0056,22,Laki-laki,S3,Menikah,PNS,4,Semarang
+N0939,41,Perempuan,S1,Menikah,Karyawan Swasta,2,Semarang
+N0106,56,L,S1,Belum Menikah,PNS,2,Semarang
+N0164,39,Laki-laki,SMA,Belum Menikah,Pensiunan,1,Surabaya
+N1088,65,Laki-laki,S2,Belum Menikah,Wiraswasta,3,Denpasar
+N1083,64,Perempuan,S1,Belum Menikah,Pensiunan,2,Makassar
+N0722,62,Laki-laki,S1,Menikah,Karyawan Swasta,2,Semarang
+N0711,51,Laki-laki,S1,Belum Menikah,PNS,2,Bandung
+N0983,45,Laki-laki,S1,Belum Menikah,PNS,1,Surabaya
+N0724,26,Perempuan,S1,Menikah,Buruh,0,Jakarta
+N0519,42,Laki-laki,S1,Menikah,Wiraswasta,1,Yogyakarta
+N0881,24,Laki-laki,S2,Belum Menikah,Karyawan Swasta,1,Jakarta
+N0808,25,P,SMA,Belum Menikah,Wiraswasta,0,Semarang
+N1155,34,Laki-laki,S1,Belum Menikah,Buruh,2,Bandung
+N0556,43,Laki-laki,S1,Belum Menikah,Wiraswasta,4,Surabaya
+N0544,28,Perempuan,D3,Menikah,Karyawan Swasta,3,Jakarta
+N0970,22,Laki-laki,S3,Menikah,Karyawan Swasta,4,Medan
+N0582,58,Laki-laki,SMA,Belum Menikah,Pensiunan,3,Yogyakarta
+N0666,52,Perempuan,S1,Menikah,PNS,4,Medan
+N0895,54,Laki-laki,S2,Cerai,Pensiunan,1,Medan
+N0407,40,Perempuan,S1,Menikah,Buruh,1,Semarang
+N1057,41,Laki-laki,S1,Menikah,Wiraswasta,1,Bandung
+N0945,26,Laki-laki,D3,Menikah,Karyawan Swasta,1,Bandung
+N0447,35,Laki-laki,D3,Belum Menikah,Buruh,1,Denpasar
+N0480,25,Laki-laki,S1,Menikah,Buruh,1,Bandung
+N0761,28,Perempuan,S1,Cerai,Karyawan Swasta,4,Bandung
+N1073,55,Perempuan,SMA,Menikah,Profesional,1,Jakarta
+N0262,28,Perempuan,D3,Belum Menikah,Karyawan Swasta,1,Jakarta
+N0295,45,laki-laki,S2,Menikah,Karyawan Swasta,0,Jakarta
+N0801,21,Laki-laki,S1,Menikah,Karyawan Swasta,2,Jakarta
+N0871,41,Perempuan,S1,Menikah,Karyawan Swasta,1,Bandung
+N0617,32,Laki-laki,SMA,Menikah,Karyawan Swasta,0,Jakarta
+N0714,55,Laki-laki,SMA,Belum Menikah,Pensiunan,3,Makassar
+N0160,56,Laki-laki,S1,Menikah,Profesional,1,Bandung
+N0672,48,Laki-laki,S2,Belum Menikah,Karyawan Swasta,1,Jakarta
+N0334,58,Perempuan,S2,Menikah,Wiraswasta,1,Jakarta
+N0280,24,Perempuan,SMA,Menikah,Pensiunan,2,Bandung
+N1192,33,Laki-laki,S2,Belum Menikah,Karyawan Swasta,3,Denpasar
+N0534,33,Perempuan,SMA,Menikah,Karyawan Swasta,3,Makassar
+N1035,23,Perempuan,S1,Menikah,Wiraswasta,1,Medan
+N0015,53,Laki-laki,S2,Menikah,Wiraswasta,1,Jakarta
+N1135,48,Perempuan,S1,Menikah,Karyawan Swasta,1,Jakarta
+N0393,37,Perempuan,S1,Cerai,Profesional,3,Denpasar
+N0423,55,Perempuan,S1,Belum Menikah,Wiraswasta,2,Medan
+N1043,39,Laki-laki,S1,Menikah,,1,Makassar
+N0976,31,Laki-laki,D3,Menikah,PNS,0,Yogyakarta
+N0912,29,Laki-laki,SMA,Menikah,Wiraswasta,1,Makassar
+N0764,63,Laki-laki,S1,Menikah,Karyawan Swasta,1,Jakarta
+N0237,50,Perempuan,S2,Cerai,Profesional,2,Makassar
+N0467,28,Laki-laki,S1,Belum Menikah,Profesional,3,Medan
+N0292,33,Perempuan,S2,Belum Menikah,Buruh,1,Jakarta
+N0234,55,Perempuan,S1,Menikah,Karyawan Swasta,1,Semarang
+N0878,54,Perempuan,S2,Cerai,Karyawan Swasta,1,Surabaya
+N0410,21,Laki-laki,SMA,Menikah,Pensiunan,0,Bandung
+N0868,58,Laki-laki,SMA,Menikah,Karyawan Swasta,1,Semarang
+N0320,,Perempuan,SMA,Menikah,Karyawan Swasta,0,Jakarta
+N0942,39,Laki-laki,S2,Menikah,Wiraswasta,3,Denpasar
+N1085,30,Laki-laki,S1,Menikah,Karyawan Swasta,2,Semarang
+N0910,25,Perempuan,S1,Belum Menikah,Profesional,1,Denpasar
+N0668,59,Perempuan,S1,Menikah,Karyawan Swasta,2,Jakarta
+N1048,48,Perempuan,SMA,Menikah,Karyawan Swasta,2,Makassar
+N0060,51,Laki-laki,D3,Menikah,Karyawan Swasta,1,Surabaya
+N0936,63,Laki-laki,S1,Menikah,Wiraswasta,2,Medan
+N1028,33,Laki-laki,SMA,Belum Menikah,PNS,1,Jakarta
+N0462,27,Perempuan,S3,Belum Menikah,Buruh,3,Surabaya
+N1064,52,laki-laki,SMA,Belum Menikah,Buruh,3,Jakarta
+N0535,46,Perempuan,S1,Belum Menikah,Buruh,0,Jakarta
+N0995,44,Perempuan,S2,Menikah,Buruh,0,Bandung
+N0651,43,Laki-laki,S1,Menikah,Karyawan Swasta,1,Bandung
+N1071,51,Laki-laki,S1,Menikah,Pensiunan,1,Semarang
+N0402,55,Laki-laki,S2,Belum Menikah,Buruh,1,Jakarta
+N0634,,Perempuan,D3,Menikah,Profesional,1,Yogyakarta
+N0372,50,Laki-laki,D3,Menikah,Buruh,3,Medan
+N0400,34,Laki-laki,S1,Belum Menikah,Karyawan Swasta,3,Jakarta
+N0627,36,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,1,Jakarta
+N0917,45,Laki-laki,S1,Menikah,Wiraswasta,0,Jakarta
+N0745,56,Perempuan,S1,Menikah,Wiraswasta,3,Jakarta
+N0038,58,Perempuan,S1,Menikah,Buruh,2,Medan
+N0590,58,Perempuan,SMA,Menikah,Wiraswasta,2,Jakarta
+N0741,57,Laki-laki,S1,Menikah,Buruh,0,Denpasar
+N0107,,Perempuan,S1,Menikah,Wiraswasta,1,Jakarta
+N0323,48,Perempuan,D3,Belum Menikah,Profesional,1,Medan
+N0352,23,Laki-laki,SMA,Menikah,Wiraswasta,0,Makassar
+N0357,27,Perempuan,SMA,Menikah,Profesional,4,Bandung
+N0252,43,Laki-laki,SMA,Menikah,Pensiunan,1,Bandung
+N0723,59,Laki-laki,D3,Belum Menikah,Karyawan Swasta,3,Yogyakarta
+N0391,54,Perempuan,SMA,Menikah,Karyawan Swasta,1,Bandung
+N0444,42,Perempuan,,Menikah,PNS,1,Medan
+N1139,54,Laki-laki,SMA,Belum Menikah,Profesional,2,Surabaya
+N0216,33,Perempuan,S1,Belum Menikah,Profesional,2,Bandung
+N0339,30,Perempuan,S1,Menikah,Karyawan Swasta,0,Surabaya
+N0057,45,Perempuan,SMA,Belum Menikah,PNS,3,Semarang
+N0633,40,Laki-laki,S1,Belum Menikah,Wiraswasta,2,Jakarta
+N0182,27,Perempuan,D3,Menikah,Karyawan Swasta,0,Semarang
+N0054,42,Laki-laki,S1,Belum Menikah,Wiraswasta,2,Jakarta
+N0674,25,Perempuan,S1,Menikah,Wiraswasta,1,Jakarta
+N1140,45,Perempuan,SMA,Belum Menikah,Karyawan Swasta,2,Medan
+N0347,65,Perempuan,SMA,Belum Menikah,Pensiunan,3,Medan
+N0232,59,Perempuan,S1,Menikah,Buruh,4,Semarang
+N0152,33,Laki-laki,SMA,Belum Menikah,PNS,2,Jakarta
+N0501,26,Laki-laki,S2,Menikah,Pensiunan,2,Jakarta
+N1041,52,Perempuan,S1,Menikah,PNS,3,Jakarta
+N0231,41,Perempuan,SMA,Menikah,Karyawan Swasta,4,Denpasar
+N0525,35,L,D3,Menikah,PNS,2,Medan
+N0816,58,Perempuan,S1,Menikah,Karyawan Swasta,4,Denpasar
+N0996,49,Perempuan,S1,Menikah,Pensiunan,1,Yogyakarta
+N1001,57,Perempuan,S3,Belum Menikah,Karyawan Swasta,1,Denpasar
+N0258,25,Perempuan,S1,Menikah,Wiraswasta,4,Jakarta
+N0389,61,Laki-laki,D3,Menikah,Wiraswasta,1,Bandung
+N0526,34,Perempuan,S3,Menikah,Karyawan Swasta,2,Bandung
+N0186,41,Laki-laki,S2,Menikah,Buruh,1,Denpasar
+N0044,36,Laki-laki,S2,Menikah,Wiraswasta,2,Yogyakarta
+N0474,42,Perempuan,S2,Menikah,Karyawan Swasta,1,Denpasar
+N1147,44,Perempuan,D3,Menikah,Profesional,2,Yogyakarta
+N0143,33,Perempuan,S1,Cerai,Wiraswasta,0,Yogyakarta
+N1003,46,P,SMA,Belum Menikah,Karyawan Swasta,1,Surabaya
+N1101,42,Perempuan,D3,Menikah,Wiraswasta,0,Jakarta
+N0782,49,Laki-laki,S2,Belum Menikah,Karyawan Swasta,1,Jakarta
+N0731,53,Perempuan,S1,Cerai,Profesional,3,Makassar
+N0698,47,Laki-laki,SMA,Menikah,Wiraswasta,0,Makassar
+N0855,33,Laki-laki,S1,Belum Menikah,Profesional,2,Semarang
+N0330,45,Perempuan,SMA,Menikah,Wiraswasta,1,Medan
+N0513,58,Perempuan,D3,Cerai,Wiraswasta,2,Makassar
+N0974,42,Perempuan,SMA,Menikah,PNS,3,Jakarta
+N0874,26,Laki-laki,S1,Menikah,,1,Yogyakarta
+N0580,25,Laki-laki,S1,Menikah,Wiraswasta,2,Medan
+N0813,51,Perempuan,S1,Menikah,Karyawan Swasta,2,Semarang
+N0671,63,Perempuan,S1,Menikah,Karyawan Swasta,2,Bandung
+N0713,53,Perempuan,SMA,Cerai,Karyawan Swasta,5,Makassar
+N0842,50,perempuan ,S1,Belum Menikah,Karyawan Swasta,2,Surabaya
+N1112,31,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,1,Jakarta
+N1175,21,Perempuan,S1,Belum Menikah,Wiraswasta,1,Surabaya
+N0919,32,Laki-laki,SMA,Belum Menikah,PNS,1,Denpasar
+N0221,26,Laki-laki,S1,Menikah,Karyawan Swasta,1,Jakarta
+N1098,54,Perempuan,SMA,Belum Menikah,Karyawan Swasta,0,Medan
+N0644,42,Laki-laki,S1,Menikah,Karyawan Swasta,0,Makassar
+N1075,42,Perempuan,SMA,Menikah,Karyawan Swasta,2,Surabaya
+N0284,43,perempuan ,SMA,Menikah,Karyawan Swasta,1,Yogyakarta
+N0646,35,Laki-laki,S1,Belum Menikah,Karyawan Swasta,2,Makassar
+N0418,26,Perempuan,S2,Belum Menikah,Wiraswasta,3,Jakarta
+N1038,21,Perempuan,D3,Belum Menikah,PNS,1,Jakarta
+N0643,59,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,1,Denpasar
+N0751,64,Perempuan,S1,Menikah,Karyawan Swasta,1,Yogyakarta
+N0115,43,Perempuan,SMA,Menikah,PNS,0,Jakarta
+N1164,44,Laki-laki,S1,Menikah,Buruh,2,Bandung
+N0290,42,Perempuan,S1,Menikah,Wiraswasta,1,Jakarta
+N1161,47,perempuan ,S1,Menikah,Wiraswasta,2,Jakarta
+N1105,34,Laki-laki,D3,Cerai,PNS,2,Surabaya
+N0272,22,Laki-laki,,Belum Menikah,Karyawan Swasta,2,Medan
+N0725,56,P,S2,Belum Menikah,Karyawan Swasta,0,Semarang
+N0314,33,laki-laki,S1,Belum Menikah,,3,Medan
+N0704,28,Laki-laki,S2,Belum Menikah,Buruh,1,Bandung
+N0285,40,Laki-laki,S1,Menikah,Buruh,0,Yogyakarta
+N0130,49,Laki-laki,S1,Cerai,Buruh,1,Jakarta
+N0396,60,Laki-laki,S2,Cerai,Pensiunan,1,Jakarta
+N1115,29,Laki-laki,S1,Belum Menikah,Karyawan Swasta,1,Makassar
+N0327,31,Laki-laki,D3,Menikah,Profesional,1,Surabaya
+N0948,27,Perempuan,SMA,Menikah,Wiraswasta,1,Denpasar
+N0914,65,Perempuan,SMA,Menikah,Buruh,3,Surabaya
+N0921,60,Laki-laki,S1,Menikah,Wiraswasta,1,Jakarta
+N0938,27,Perempuan,S1,Belum Menikah,PNS,1,Bandung
+N0041,28,Perempuan,SMA,Menikah,Profesional,2,Bandung
+N0307,34,perempuan ,S1,Menikah,Karyawan Swasta,1,Medan
+N1061,55,Laki-laki,S1,Cerai,Wiraswasta,2,Jakarta
+N0374,37,Perempuan,SMA,Menikah,Karyawan Swasta,1,Surabaya
+N0846,21,Perempuan,S2,Menikah,Pensiunan,2,Yogyakarta
+N0496,39,Laki-laki,SMA,Belum Menikah,Wiraswasta,3,Yogyakarta
+N0273,27,Perempuan,D3,Belum Menikah,Wiraswasta,2,Denpasar
+N0009,30,Perempuan,S1,Menikah,Karyawan Swasta,1,Semarang
+N1081,62,Perempuan,SMA,Menikah,Pensiunan,3,Semarang
+N0759,26,Perempuan,S1,Cerai,Karyawan Swasta,0,Jakarta
+N0653,30,Laki-laki,S1,Menikah,Profesional,1,Bandung
+N0966,47,Laki-laki,S2,Menikah,Profesional,0,Medan
+N0398,29,Laki-laki,S1,Menikah,Karyawan Swasta,1,Surabaya
+N0415,21,Laki-laki,S2,Menikah,Karyawan Swasta,3,Bandung
+N0869,41,Perempuan,S1,Belum Menikah,Karyawan Swasta,2,Semarang
+N0864,55,Laki-laki,SMA,Menikah,Karyawan Swasta,3,Semarang
+N1127,59,Laki-laki,S1,Menikah,Wiraswasta,2,Denpasar
+N0505,33,Laki-laki,S1,Belum Menikah,PNS,3,Jakarta
+N0533,28,Laki-laki,S2,Menikah,Karyawan Swasta,1,Semarang
+N0994,40,Laki-laki,S3,Menikah,Wiraswasta,3,Yogyakarta
+N0757,54,Laki-laki,SMA,Menikah,Buruh,4,Denpasar
+N0884,27,Laki-laki,S1,Menikah,PNS,1,Medan
+N0982,52,Laki-laki,SMA,Menikah,Karyawan Swasta,1,Jakarta
+N0492,60,Perempuan,S1,Menikah,Karyawan Swasta,0,Surabaya
+N0080,51,Laki-laki,S1,Menikah,Wiraswasta,3,Denpasar
+N0812,60,Perempuan,S2,Menikah,Wiraswasta,2,Bandung
+N0343,48,Laki-laki,S1,Menikah,,0,Jakarta
+N0191,51,Laki-laki,SMA,Menikah,Karyawan Swasta,4,Surabaya
+N0050,56,Laki-laki,S1,Menikah,Profesional,1,Surabaya
+N0251,29,Laki-laki,S3,Cerai,Buruh,3,Yogyakarta
+N1021,23,Laki-laki,D3,Menikah,PNS,1,Jakarta
+N0021,43,Perempuan,S2,Menikah,Karyawan Swasta,2,Jakarta
+N0570,46,Laki-laki,S1,Menikah,Wiraswasta,0,Denpasar
+N0838,29,Laki-laki,SMA,Menikah,Karyawan Swasta,1,Bandung
+N0136,34,L,SMA,Belum Menikah,PNS,5,Makassar
+N0537,41,Laki-laki,S2,Menikah,Wiraswasta,4,Semarang
+N0568,32,Laki-laki,S1,Menikah,Wiraswasta,1,Makassar
+N0654,57,Perempuan,S1,Menikah,PNS,4,Surabaya
+N0697,53,Laki-laki,S1,Menikah,Karyawan Swasta,0,Semarang
+N1044,37,Laki-laki,SMA,Cerai,Karyawan Swasta,2,Makassar
+N0482,58,Perempuan,SMA,Belum Menikah,PNS,2,Yogyakarta
+N0034,45,Laki-laki,SMA,Menikah,Profesional,2,Denpasar
+N0929,39,Laki-laki,D3,Menikah,Buruh,1,Jakarta
+N0383,63,Perempuan,S2,Cerai,Buruh,2,Bandung
+N0026,49,Laki-laki,SMA,Menikah,Buruh,0,Yogyakarta
+N0048,61,Laki-laki,S1,Belum Menikah,PNS,2,Surabaya
+N1039,40,Laki-laki,D3,Menikah,Karyawan Swasta,3,Jakarta
+N0175,52,LAKI-LAKI,SMA,Belum Menikah,Wiraswasta,3,Jakarta
+N0030,40,Perempuan,S1,Menikah,Karyawan Swasta,1,Medan
+N0572,39,Perempuan,D3,Menikah,Karyawan Swasta,0,Surabaya
+N0154,34,Laki-laki,S3,Menikah,PNS,4,Makassar
+N0762,45,Laki-laki,S1,Menikah,Karyawan Swasta,0,Jakarta
+N0804,62,Laki-laki,S1,Menikah,Karyawan Swasta,4,Medan
+N1029,46,Laki-laki,S2,Menikah,Karyawan Swasta,3,Medan
+N0162,50,Laki-laki,S1,Cerai,Wiraswasta,0,Jakarta
+N0245,49,Laki-laki,S3,Menikah,PNS,1,Jakarta
+N0511,65,Laki-laki,S3,Cerai,Profesional,2,Medan
+N0159,43,Laki-laki,S2,Cerai,Wiraswasta,4,Jakarta
+N0531,47,Perempuan,S1,Menikah,Karyawan Swasta,1,Bandung
+N0502,50,Laki-laki,S1,Menikah,Karyawan Swasta,2,Bandung
+N0433,58,Laki-laki,SMA,Cerai,Karyawan Swasta,2,Jakarta
+N0980,46,Perempuan,SMA,Belum Menikah,Wiraswasta,0,Yogyakarta
+N1107,31,Laki-laki,S2,Belum Menikah,Pensiunan,0,Surabaya
+N0333,34,Laki-laki,S3,Menikah,Wiraswasta,3,Makassar
+N0933,32,Perempuan,S1,Menikah,Karyawan Swasta,1,Jakarta
+N0367,42,Perempuan,S2,Belum Menikah,Profesional,3,Makassar
+N1136,23,Perempuan,S1,Menikah,Profesional,0,Medan
+N0055,43,Perempuan,S2,Belum Menikah,Buruh,2,Makassar
+N0585,39,Laki-laki,SMA,Cerai,Pensiunan,0,Denpasar
+N0767,48,Laki-laki,SMA,Menikah,Karyawan Swasta,2,Denpasar
+N0681,53,Laki-laki,S1,Belum Menikah,Karyawan Swasta,2,Bandung
+N0915,47,Perempuan,S2,Menikah,PNS,0,Jakarta
+N0986,50,Perempuan,S1,Menikah,Buruh,1,Surabaya
+N0786,47,Laki-laki,S1,Cerai,Karyawan Swasta,0,Surabaya
+N0025,56,Perempuan,S1,Menikah,Karyawan Swasta,1,Bandung
+N0299,33,Laki-laki,SMA,Menikah,Buruh,3,Semarang
+N0557,54,Laki-laki,S1,Menikah,Karyawan Swasta,2,Bandung
+N0576,37,Perempuan,SMA,Menikah,PNS,3,Jakarta
+N0019,58,Laki-laki,S1,Menikah,Pensiunan,2,Yogyakarta
+N1012,56,Perempuan,S2,Menikah,Karyawan Swasta,2,Medan
+N0255,50,Laki-laki,D3,Menikah,Wiraswasta,1,Medan
+N0226,34,Laki-laki,D3,Belum Menikah,Karyawan Swasta,2,Makassar
+N0600,49,Perempuan,S1,Menikah,Profesional,2,Surabaya
+N1037,61,Laki-laki,S1,Menikah,Karyawan Swasta,2,Semarang
+N0420,43,Laki-laki,D3,Belum Menikah,Wiraswasta,2,Jakarta
+N1172,49,Perempuan,S1,Belum Menikah,Pensiunan,1,Yogyakarta
+N1046,27,Laki-laki,S1,Menikah,Wiraswasta,2,Bandung
+N0223,52,Laki-laki,SMA,Belum Menikah,Wiraswasta,2,Semarang
+N0956,48,Perempuan,S1,Belum Menikah,PNS,2,Jakarta
+N0425,39,Perempuan,S2,Menikah,PNS,2,Jakarta
+N0219,41,Perempuan,S1,Menikah,PNS,0,Jakarta
+N0308,45,LAKI-LAKI,S3,Menikah,Karyawan Swasta,3,Makassar
+N0810,65,Perempuan,D3,Belum Menikah,Karyawan Swasta,3,Makassar
+N1120,43,Perempuan,S1,Menikah,Karyawan Swasta,1,Bandung
+N0172,25,Perempuan,S2,Belum Menikah,PNS,0,Makassar
+N0443,26,Perempuan,D3,Menikah,Karyawan Swasta,2,Makassar
+N0899,24,Laki-laki,D3,Menikah,Profesional,0,Jakarta
+N0706,46,Perempuan,SMA,Menikah,Wiraswasta,0,Surabaya
+N0771,50,P,SMA,Cerai,Wiraswasta,1,Medan
+N0287,,Laki-laki,D3,Belum Menikah,Profesional,0,Denpasar
+N0067,61,Perempuan,S2,Menikah,Karyawan Swasta,0,Makassar
+N0454,22,Laki-laki,S1,Menikah,PNS,0,Surabaya
+N1184,41,Laki-laki,S1,Menikah,Karyawan Swasta,0,Medan
+N0072,29,Perempuan,S1,Cerai,Karyawan Swasta,0,Semarang
+N0897,43,Perempuan,S2,Menikah,Wiraswasta,0,Makassar
+N0413,33,Laki-laki,S2,Menikah,Wiraswasta,4,Denpasar
+N0083,28,Laki-laki,S1,Belum Menikah,Wiraswasta,4,Semarang
+N0157,26,Laki-laki,S1,Menikah,Pensiunan,3,Bandung
+N1171,49,Perempuan,S1,Cerai,Karyawan Swasta,1,Surabaya
+N0016,56,Perempuan,S1,Belum Menikah,Karyawan Swasta,1,Semarang
+N0802,34,Laki-laki,S1,Menikah,Wiraswasta,2,Yogyakarta
+N0266,47,Perempuan,S2,Menikah,Karyawan Swasta,3,Jakarta
+N0536,27,Laki-laki,,Belum Menikah,Profesional,3,Makassar
+N0322,25,Perempuan,SMA,Menikah,Karyawan Swasta,0,Yogyakarta
+N0452,62,Laki-laki,S1,Menikah,Profesional,2,Jakarta
+N0903,30,Laki-laki,D3,Belum Menikah,PNS,0,Bandung
+N0833,41,Laki-laki,S2,Menikah,PNS,0,Denpasar
+N0405,43,Perempuan,D3,Belum Menikah,Wiraswasta,0,Semarang
+N1129,46,Laki-laki,D3,Belum Menikah,Karyawan Swasta,2,Yogyakarta
+N0491,62,Laki-laki,S3,Belum Menikah,Karyawan Swasta,2,Yogyakarta
+N1092,41,Perempuan,S3,Belum Menikah,Karyawan Swasta,0,Jakarta
+N0542,23,Perempuan,SMA,Menikah,Karyawan Swasta,1,Jakarta
+N0694,63,Laki-laki,S2,Menikah,Karyawan Swasta,3,Jakarta
+N0740,61,Laki-laki,S1,Menikah,Karyawan Swasta,0,Denpasar
+N0365,26,Perempuan,S2,Menikah,Karyawan Swasta,2,Jakarta
+N0630,37,Laki-laki,S1,Menikah,Buruh,3,Jakarta
+N0460,25,Perempuan,S1,Belum Menikah,Karyawan Swasta,3,Yogyakarta
+N0105,56,Laki-laki,S1,Belum Menikah,PNS,2,Bandung
+N0269,48,Laki-laki,D3,Cerai,Pensiunan,0,Yogyakarta
+N0609,64,Laki-laki,D3,Menikah,Karyawan Swasta,2,Jakarta
+N1134,55,Laki-laki,S2,Menikah,Karyawan Swasta,3,Surabaya
+N0979,36,perempuan ,D3,Menikah,Wiraswasta,0,Jakarta
+N1065,54,Perempuan,S1,Menikah,Karyawan Swasta,1,Denpasar
+N0662,54,Laki-laki,S1,Cerai,Buruh,1,Surabaya
+N0242,47,Perempuan,S1,Menikah,Karyawan Swasta,3,Denpasar
+N0431,24,Perempuan,D3,Menikah,Karyawan Swasta,1,Surabaya
+N0815,56,Laki-laki,D3,Menikah,Karyawan Swasta,1,Bandung
+N0984,50,Laki-laki,D3,Menikah,Wiraswasta,0,Jakarta
+N0204,52,Perempuan,S1,Belum Menikah,Karyawan Swasta,0,Medan
+N1185,39,Laki-laki,SMA,Cerai,Karyawan Swasta,1,Makassar
+N0596,57,Laki-laki,,Cerai,Karyawan Swasta,0,Surabaya
+N0631,54,Laki-laki,S2,Menikah,Wiraswasta,1,Semarang
+N0097,31,Perempuan,S1,Menikah,Karyawan Swasta,1,Surabaya
+N0468,47,Perempuan,S1,Menikah,Karyawan Swasta,4,Semarang
+N0889,21,Perempuan,D3,Cerai,Buruh,1,Yogyakarta
+N0493,54,Laki-laki,S1,Belum Menikah,Profesional,0,Yogyakarta
+N0167,35,Laki-laki,S1,Menikah,Karyawan Swasta,0,Jakarta
+N0930,47,Laki-laki,S2,Cerai,Pensiunan,3,Semarang
+N0702,48,Perempuan,S1,Menikah,Karyawan Swasta,0,Jakarta
+N0695,25,Laki-laki,S2,Belum Menikah,Wiraswasta,1,Bandung
+N0010,25,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,1,Medan
+N0605,58,Laki-laki,S2,Cerai,Profesional,3,Semarang
+N0316,50,Perempuan,S2,Menikah,Karyawan Swasta,1,Yogyakarta
+N0774,53,Perempuan,S2,Belum Menikah,Buruh,1,Jakarta
+N0362,61,Laki-laki,D3,Menikah,Karyawan Swasta,1,Makassar
+N0139,36,Laki-laki,SMA,Belum Menikah,Wiraswasta,3,Semarang
+N0824,50,Laki-laki,S2,Menikah,Wiraswasta,0,Makassar
+N0277,42,Laki-laki,S3,Menikah,Wiraswasta,2,Makassar
+N0385,22,Laki-laki,S1,Menikah,Wiraswasta,1,Surabaya
+N0569,49,Perempuan,D3,Belum Menikah,Karyawan Swasta,1,Bandung
+N1089,50,Perempuan,SMA,Menikah,Karyawan Swasta,0,Semarang
+N0773,21,Laki-laki,S1,Belum Menikah,Karyawan Swasta,3,Medan
+N0089,55,Perempuan,S2,Menikah,Pensiunan,1,Yogyakarta
+N0091,40,Laki-laki,SMA,Belum Menikah,PNS,3,Surabaya
+N0766,56,Laki-laki,D3,Belum Menikah,PNS,0,Yogyakarta
+N0281,33,Laki-laki,D3,Belum Menikah,Karyawan Swasta,1,Surabaya
+N0652,50,Laki-laki,S1,Menikah,Profesional,2,Surabaya
+N0461,53,Perempuan,S1,Menikah,Wiraswasta,3,Jakarta
+N0905,41,Perempuan,S1,Menikah,Profesional,4,Bandung
+N0800,40,Laki-laki,S2,Menikah,Wiraswasta,2,Jakarta
+N0301,37,Laki-laki,S1,Cerai,PNS,2,Jakarta
+N0880,49,Laki-laki,,Menikah,Wiraswasta,3,Jakarta
+N0203,43,Perempuan,S2,Cerai,PNS,2,Semarang
+N0403,35,Laki-laki,S2,Menikah,Pensiunan,3,Makassar
+N0341,49,Laki-laki,S2,Menikah,PNS,1,Denpasar
+N0366,44,laki-laki,D3,Menikah,Wiraswasta,2,Surabaya
+N0024,62,Laki-laki,S1,Menikah,Karyawan Swasta,0,Surabaya
+N0346,32,Laki-laki,S2,Belum Menikah,Karyawan Swasta,0,Jakarta
+N0677,47,Laki-laki,SMA,Menikah,Karyawan Swasta,3,Denpasar
+N1186,34,Perempuan,SMA,Belum Menikah,Profesional,2,Jakarta
+N0335,41,Perempuan,S1,Menikah,Wiraswasta,3,Bandung
+N0311,50,Perempuan,S1,Cerai,Wiraswasta,1,Jakarta
+N1165,44,Laki-laki,D3,Belum Menikah,Buruh,2,Jakarta
+N0641,51,Perempuan,S3,Menikah,Buruh,1,Jakarta
+N0354,40,Laki-laki,S1,Menikah,Wiraswasta,2,Surabaya
+N0736,51,Perempuan,S1,Cerai,Karyawan Swasta,1,Yogyakarta
+N1197,53,Perempuan,S1,Menikah,Karyawan Swasta,2,Jakarta
+N0241,27,Laki-laki,D3,Belum Menikah,PNS,5,Jakarta
+N0667,43,Laki-laki,S2,Menikah,Karyawan Swasta,3,Surabaya
+N0319,63,Laki-laki,SMA,Menikah,Profesional,1,Jakarta
+N1050,26,Perempuan,D3,Belum Menikah,Profesional,2,Semarang
+N0263,34,laki-laki,S1,Menikah,Karyawan Swasta,1,Jakarta
+N0099,49,Perempuan,SMA,Menikah,Wiraswasta,2,Jakarta
+N0168,28,Laki-laki,S2,Menikah,Wiraswasta,3,Jakarta
+N0497,26,Laki-laki,S1,Belum Menikah,Karyawan Swasta,1,Medan
+N0726,26,Perempuan,SMA,Belum Menikah,Karyawan Swasta,3,Surabaya
+N0276,42,LAKI-LAKI,S1,Belum Menikah,Wiraswasta,0,Yogyakarta
+N0090,58,Laki-laki,S1,Cerai,Wiraswasta,2,Surabaya
+N0715,62,Laki-laki,SMA,Belum Menikah,,3,Jakarta
+N0516,25,perempuan ,D3,Belum Menikah,Karyawan Swasta,2,Medan
+N1016,58,Laki-laki,S1,Menikah,Karyawan Swasta,1,Bandung
+N0332,37,Laki-laki,S1,Menikah,Karyawan Swasta,1,Jakarta
+N0988,35,Perempuan,S1,Menikah,Wiraswasta,4,Makassar
+N0434,26,Perempuan,S2,Menikah,Karyawan Swasta,3,Bandung
+N1173,38,Perempuan,SMA,Cerai,PNS,2,Makassar
+N1042,59,Laki-laki,S1,Belum Menikah,Karyawan Swasta,2,Jakarta
+N0487,36,Perempuan,S2,Belum Menikah,Karyawan Swasta,3,Makassar
+N0659,24,Laki-laki,D3,Belum Menikah,PNS,1,Surabaya
+N0932,52,Laki-laki,D3,Belum Menikah,Karyawan Swasta,2,Jakarta
+N0532,28,Laki-laki,D3,Menikah,Buruh,2,Semarang
+N0841,,Laki-laki,S1,Belum Menikah,Karyawan Swasta,1,Surabaya
+N1056,65,Laki-laki,S2,Belum Menikah,Buruh,1,Jakarta
+N0261,56,Perempuan,S2,Menikah,Karyawan Swasta,2,Bandung
+N0811,22,Perempuan,S2,Menikah,Karyawan Swasta,1,Surabaya
+N0306,27,Perempuan,S1,Menikah,Karyawan Swasta,3,Makassar
+N0877,45,Laki-laki,S1,Menikah,Wiraswasta,2,Semarang
+N1191,39,Perempuan,S1,Menikah,Wiraswasta,1,Bandung
+N0703,28,Perempuan,S2,Menikah,Karyawan Swasta,1,Bandung
+N0772,65,Perempuan,S1,Cerai,PNS,3,Bandung
+N1156,47,Perempuan,D3,Menikah,Buruh,2,Surabaya
+N0197,36,Laki-laki,D3,Menikah,Karyawan Swasta,1,Bandung
+N0141,65,Laki-laki,SMA,Menikah,PNS,1,Medan
+N0595,35,Perempuan,S1,Menikah,Karyawan Swasta,1,Semarang
+N0123,50,Laki-laki,S1,Menikah,Wiraswasta,2,Denpasar
+N0495,34,Perempuan,D3,Menikah,Karyawan Swasta,3,Bandung
+N0822,50,P,S2,Belum Menikah,Profesional,1,Medan
+N0111,33,Perempuan,SMA,Menikah,Wiraswasta,3,Denpasar
+N0085,49,Perempuan,D3,Belum Menikah,Buruh,0,Jakarta
+N1063,27,Perempuan,D3,Menikah,Karyawan Swasta,3,Surabaya
+N0514,57,laki-laki,SMA,Cerai,Buruh,2,Yogyakarta
+N0692,56,Perempuan,S1,Belum Menikah,Karyawan Swasta,2,Medan
+N0483,32,Perempuan,D3,Belum Menikah,Profesional,0,Surabaya
+N1147,44,Perempuan,D3,Menikah,Profesional,2,Yogyakarta
+N0991,36,Laki-laki,S2,Cerai,Wiraswasta,1,Medan
+N0612,41,Perempuan,S3,Menikah,Wiraswasta,0,Surabaya
+N0794,58,Laki-laki,SMA,Menikah,Karyawan Swasta,4,Semarang
+N0075,51,Perempuan,S2,Belum Menikah,Karyawan Swasta,5,Medan
+N1200,48,Perempuan,SMA,Menikah,PNS,1,Surabaya
+N1195,44,Perempuan,S1,Menikah,Karyawan Swasta,1,Medan
+N0927,45,Laki-laki,S1,Menikah,Karyawan Swasta,1,Medan
+N0274,64,Laki-laki,S2,Belum Menikah,,0,Denpasar
+N0792,41,Perempuan,S2,Menikah,Buruh,2,Bandung
+N0397,23,Perempuan,SMA,Menikah,Karyawan Swasta,2,Jakarta
+N0155,40,Perempuan,S2,Menikah,Buruh,1,Surabaya
+N0307,34,perempuan ,S1,Menikah,Karyawan Swasta,1,Medan
+N0192,49,Laki-laki,S1,Menikah,Profesional,1,Bandung
+N0798,41,Perempuan,S1,Belum Menikah,Karyawan Swasta,2,Medan
+N1174,28,Perempuan,S2,Menikah,Wiraswasta,0,Jakarta
+N0188,38,Laki-laki,S1,Belum Menikah,Karyawan Swasta,3,Jakarta
+N0051,55,laki-laki,SMA,Belum Menikah,Karyawan Swasta,0,Jakarta
+N0039,33,Perempuan,S1,Menikah,Wiraswasta,1,Jakarta
+N0419,34,Laki-laki,S2,Menikah,Karyawan Swasta,2,Medan
+N1150,59,Laki-laki,S2,Menikah,Karyawan Swasta,4,Surabaya
+N0209,32,Laki-laki,SMA,Menikah,Buruh,3,Medan
+N0376,25,Perempuan,S1,Menikah,Karyawan Swasta,4,Surabaya
+N0464,39,Perempuan,SMA,Menikah,PNS,3,Jakarta
+N0471,54,Perempuan,S1,Menikah,Karyawan Swasta,1,Semarang
+N0518,23,Perempuan,,Menikah,Wiraswasta,1,Jakarta
+N0076,42,Laki-laki,S1,Cerai,PNS,2,Medan
+N0911,55,Laki-laki,S3,Menikah,Karyawan Swasta,2,Bandung
+N0249,56,laki-laki,SMA,Belum Menikah,Wiraswasta,1,Makassar
+N0560,59,Perempuan,SMA,Menikah,Buruh,2,Bandung
+N0303,21,Laki-laki,S2,Menikah,Wiraswasta,1,Medan
+N0583,25,Laki-laki,SMA,Menikah,Buruh,2,Bandung
+N0900,48,Perempuan,S2,Menikah,Buruh,2,Medan
+N1052,37,Laki-laki,S1,Belum Menikah,PNS,2,Yogyakarta
+N0336,57,Laki-laki,S1,Menikah,PNS,1,Yogyakarta
+N0738,36,Perempuan,D3,Belum Menikah,Profesional,0,Bandung
+N0799,35,Perempuan,S2,Menikah,Karyawan Swasta,1,Bandung
+N0012,64,Perempuan,S1,Belum Menikah,Karyawan Swasta,5,Makassar
+N1183,52,Laki-laki,SMA,Belum Menikah,Profesional,2,Bandung
+N0240,49,Laki-laki,S1,Menikah,Karyawan Swasta,0,Medan
+N0486,31,Perempuan,SMA,Belum Menikah,Karyawan Swasta,2,Makassar
+N0463,54,Laki-laki,S1,Menikah,Karyawan Swasta,4,Jakarta
+N0539,,Laki-laki,S1,Menikah,PNS,2,Bandung
+N0628,37,Laki-laki,S1,Belum Menikah,Karyawan Swasta,2,Jakarta
+N0282,42,Perempuan,SMA,Menikah,Wiraswasta,3,Semarang
+N0254,35,Perempuan,S2,Menikah,Wiraswasta,2,Medan
+N0708,,Perempuan,S2,Belum Menikah,PNS,2,Medan
+N0839,21,perempuan ,S2,Belum Menikah,Buruh,1,Jakarta
+N1109,63,Perempuan,S2,Cerai,Karyawan Swasta,1,Surabaya
+N0224,30,Perempuan,SMA,Belum Menikah,Karyawan Swasta,3,Surabaya
+N0578,44,Laki-laki,S1,Menikah,PNS,1,Medan
+N0673,49,Laki-laki,S1,Menikah,Wiraswasta,1,Jakarta
+N0814,33,Perempuan,S1,Menikah,Profesional,4,Semarang
+N0220,61,Laki-laki,D3,Menikah,Wiraswasta,1,Medan
+N1007,59,Perempuan,D3,Menikah,PNS,3,Semarang
+N0426,29,Laki-laki,D3,Menikah,Wiraswasta,2,Surabaya
+N0370,55,Laki-laki,S1,Menikah,Wiraswasta,2,Bandung
+N1130,,Laki-laki,S1,Cerai,Karyawan Swasta,3,Bandung
+N0070,42,Laki-laki,S2,Menikah,Profesional,0,Jakarta
+N0190,34,Perempuan,SMA,Menikah,Wiraswasta,1,Jakarta
+N0581,25,Perempuan,S2,Belum Menikah,Karyawan Swasta,0,Denpasar
+N0022,37,Laki-laki,S1,Belum Menikah,PNS,2,Yogyakarta
+N0078,31,Laki-laki,D3,Belum Menikah,Buruh,2,Jakarta
+N0548,47,Perempuan,S2,Cerai,Wiraswasta,2,Surabaya
+N1093,58,Laki-laki,S1,Belum Menikah,Buruh,1,Bandung
+N0749,35,Laki-laki,D3,Menikah,Wiraswasta,1,Jakarta
+N0406,43,Laki-laki,S1,Belum Menikah,Karyawan Swasta,0,Jakarta
+N1080,58,Laki-laki,SMA,Menikah,Profesional,0,Jakarta
+N0827,51,Laki-laki,S1,Menikah,Karyawan Swasta,2,Makassar
+N0126,46,Laki-laki,SMA,Menikah,Wiraswasta,0,Surabaya
+N0229,45,Perempuan,S1,Belum Menikah,Karyawan Swasta,2,Jakarta
+N0758,38,Laki-laki,D3,Menikah,Karyawan Swasta,0,Semarang
+N0043,52,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,1,Jakarta
+N0517,60,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,5,Denpasar
+N0890,33,Laki-laki,S1,Menikah,Karyawan Swasta,3,Surabaya
+N0937,28,Perempuan,SMA,Menikah,PNS,1,Makassar
+N0909,37,Laki-laki,SMA,Menikah,Wiraswasta,0,Bandung
+N0573,33,Laki-laki,D3,Menikah,PNS,1,Surabaya
+N0577,62,Laki-laki,S2,Belum Menikah,Karyawan Swasta,1,Medan
+N1095,35,Perempuan,S3,Menikah,Profesional,3,Jakarta
+N0622,42,Laki-laki,SMA,Menikah,Karyawan Swasta,5,Semarang
+N0768,42,Laki-laki,SMA,Menikah,Karyawan Swasta,0,Bandung
+N0744,33,Perempuan,SMA,Menikah,Pensiunan,1,Surabaya
+N0375,60,Laki-laki,D3,Menikah,Buruh,5,Bandung
+N0206,32,Laki-laki,S2,Menikah,Wiraswasta,2,Semarang
+N0317,53,Laki-laki,D3,Belum Menikah,Karyawan Swasta,2,Denpasar
+N1044,37,Laki-laki,SMA,Cerai,Karyawan Swasta,2,Makassar
+N0967,48,Laki-laki,S1,Menikah,Karyawan Swasta,2,Jakarta
+N0007,24,Perempuan,SMA,Belum Menikah,Karyawan Swasta,0,Medan
+N1106,29,Perempuan,S1,Menikah,Wiraswasta,0,Surabaya
+N0803,44,Perempuan,S1,Menikah,Profesional,1,Jakarta
+N0845,21,Laki-laki,D3,Cerai,Karyawan Swasta,1,Surabaya
+N1032,28,Perempuan,S1,Menikah,Buruh,1,Surabaya
+N1084,46,Laki-laki,D3,Menikah,Karyawan Swasta,1,Makassar
+N1103,62,Laki-laki,SMA,Menikah,Profesional,1,Jakarta
+N0260,47,Laki-laki,,Menikah,Profesional,1,Jakarta
+N0283,51,Perempuan,S1,Menikah,Profesional,0,Semarang
+N0635,29,Laki-laki,S1,Belum Menikah,Karyawan Swasta,0,Denpasar
+N0475,49,Perempuan,S2,Menikah,Wiraswasta,1,Yogyakarta
+N0456,45,Perempuan,S1,Belum Menikah,Buruh,2,Yogyakarta
+N0321,35,Laki-laki,D3,Menikah,PNS,2,Bandung
+N0435,40,Laki-laki,S1,Menikah,Wiraswasta,1,Jakarta
+N1181,48,Laki-laki,S1,Belum Menikah,Karyawan Swasta,4,Denpasar
+N0300,21,Laki-laki,SMA,Menikah,Profesional,3,Jakarta
+N0437,46,Laki-laki,SMA,Menikah,Karyawan Swasta,0,Yogyakarta
+N1116,43,Perempuan,SMA,Menikah,Karyawan Swasta,2,Surabaya
+N0439,24,Laki-laki,D3,Menikah,Karyawan Swasta,3,Medan
+N0326,31,Laki-laki,D3,Belum Menikah,Wiraswasta,2,Jakarta
+N0404,64,Laki-laki,SMA,Cerai,Wiraswasta,2,Makassar
+N0565,61,Laki-laki,S1,Cerai,Karyawan Swasta,0,Semarang
+N0293,63,Laki-laki,S1,Menikah,Pensiunan,1,Medan
+N0279,23,L,D3,Menikah,Profesional,5,Yogyakarta
+N0656,44,Perempuan,S1,Menikah,Pensiunan,0,Medan
+N0733,62,Laki-laki,S1,Menikah,Profesional,0,Medan
+N0554,35,Laki-laki,S1,Menikah,Wiraswasta,1,Jakarta
+N0095,61,L,,Menikah,Profesional,0,Surabaya
+N1157,26,Laki-laki,SMA,Cerai,Wiraswasta,1,Surabaya
+N0246,24,Perempuan,SMA,Menikah,Karyawan Swasta,0,Medan
+N0946,26,Laki-laki,S1,Belum Menikah,Profesional,1,Semarang
+N0776,63,Laki-laki,S1,Menikah,Karyawan Swasta,3,Yogyakarta
+N0427,59,Perempuan,S1,Menikah,Buruh,4,Bandung
+N0150,23,Perempuan,S2,Menikah,Profesional,4,Surabaya
+N0227,57,Perempuan,S2,Belum Menikah,Karyawan Swasta,2,Denpasar
+N0866,52,Perempuan,S2,Menikah,Wiraswasta,3,Surabaya
+N0968,35,Laki-laki,S1,Menikah,Profesional,0,Semarang
+N0901,21,Perempuan,S1,Menikah,Wiraswasta,1,Denpasar
+N0700,25,Laki-laki,S1,Menikah,Profesional,2,Bandung
+N0602,56,Perempuan,,Menikah,Karyawan Swasta,2,Jakarta
+N1059,40,Laki-laki,S1,Menikah,Karyawan Swasta,4,Medan
+N0218,,Laki-laki,SMA,Menikah,PNS,2,Surabaya
+N0818,25,Laki-laki,S2,Menikah,Wiraswasta,0,Medan
+N0221,26,Laki-laki,S1,Menikah,Karyawan Swasta,1,Jakarta
+N0214,41,L,S1,Belum Menikah,,1,Jakarta
+N1138,37,Laki-laki,SMA,Belum Menikah,Wiraswasta,2,Surabaya
+N0908,28,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,4,Jakarta
+N0395,53,Perempuan,S1,Belum Menikah,Karyawan Swasta,1,Denpasar
+N0368,35,Laki-laki,S1,Belum Menikah,PNS,2,Surabaya
+N0925,32,Perempuan,SMA,Menikah,Wiraswasta,2,Jakarta
+N0013,54,Perempuan,S1,Belum Menikah,Karyawan Swasta,2,Semarang
+N1131,39,Perempuan,S1,Belum Menikah,Profesional,0,Denpasar
+N0235,43,Perempuan,SMA,Menikah,Wiraswasta,0,Jakarta
+N0696,32,Laki-laki,S1,Menikah,Wiraswasta,3,Bandung
+N1149,52,Laki-laki,S2,Menikah,Wiraswasta,1,Jakarta
+N1084,46,Laki-laki,D3,Menikah,Karyawan Swasta,1,Makassar
+N0064,,Laki-laki,S1,Belum Menikah,Profesional,2,Semarang
+N0735,30,Perempuan,S2,Menikah,Wiraswasta,1,Jakarta
+N1024,58,Laki-laki,,Cerai,PNS,2,Semarang
+N0965,63,Perempuan,SMA,Menikah,Wiraswasta,3,Medan
+N0608,44,Laki-laki,D3,Menikah,Wiraswasta,2,Bandung
+N0014,55,Perempuan,SMA,Belum Menikah,PNS,1,Makassar
+N0840,61,Perempuan,SMA,Menikah,Profesional,5,Surabaya
+N0436,26,Perempuan,S2,Menikah,PNS,3,Jakarta
+N0018,26,Laki-laki,S1,Menikah,PNS,4,Bandung
+N0765,37,Laki-laki,,Menikah,Karyawan Swasta,1,Surabaya
+N0349,,Perempuan,S1,Belum Menikah,Profesional,0,Jakarta
+N0208,64,Laki-laki,SMA,Menikah,Karyawan Swasta,1,Makassar
+N0342,34,Perempuan,S1,Belum Menikah,PNS,3,Medan
+N0345,61,Laki-laki,D3,Menikah,Karyawan Swasta,1,Jakarta
+N1097,58,Laki-laki,S3,Belum Menikah,Pensiunan,2,Makassar
+N1125,58,Laki-laki,SMA,Cerai,Karyawan Swasta,1,Makassar
+N0552,38,Perempuan,S2,Menikah,Wiraswasta,0,Jakarta
+N0599,49,Laki-laki,SMA,Cerai,Buruh,3,Jakarta
+N0033,25,Laki-laki,S1,Menikah,Profesional,1,Surabaya
+N0373,39,Laki-laki,S1,Belum Menikah,Karyawan Swasta,1,Surabaya
+N0658,49,Perempuan,SMA,Menikah,,4,Bandung
+N0173,55,Perempuan,S1,Belum Menikah,Wiraswasta,3,Semarang
+N1087,57,Laki-laki,SMA,Menikah,Profesional,2,Bandung
+N0409,63,Perempuan,SMA,Menikah,PNS,1,Jakarta
+N1051,43,Laki-laki,D3,Cerai,Karyawan Swasta,4,Jakarta
+N1168,38,Laki-laki,,Menikah,Profesional,0,Makassar
+N0201,37,Perempuan,S2,Belum Menikah,Profesional,3,Semarang
+N0861,64,Perempuan,S2,Menikah,Karyawan Swasta,4,Semarang
+N1143,62,Laki-laki,S2,Menikah,Buruh,2,Bandung
+N1126,58,perempuan ,S1,Menikah,Karyawan Swasta,1,Denpasar
+N1153,40,Perempuan,SMA,Menikah,Wiraswasta,0,Jakarta
+N0490,48,Laki-laki,D3,Menikah,Profesional,1,Bandung
+N1151,37,Perempuan,SMA,Menikah,Buruh,4,Jakarta
+N0213,56,Perempuan,SMA,Belum Menikah,Profesional,2,Makassar
+N0134,46,Laki-laki,S2,Menikah,Karyawan Swasta,3,Jakarta
+N0061,62,Laki-laki,S1,Belum Menikah,Pensiunan,3,Jakarta
+N0691,65,Laki-laki,S2,Menikah,Karyawan Swasta,1,Makassar
+N0027,39,Perempuan,S1,Menikah,Wiraswasta,1,Surabaya
+N0101,58,Laki-laki,S1,Cerai,Karyawan Swasta,0,Denpasar
+N0975,27,Laki-laki,S1,Menikah,Karyawan Swasta,3,Denpasar
+N0777,40,Perempuan,S1,Belum Menikah,Karyawan Swasta,2,Bandung
+N0789,45,Perempuan,S1,Menikah,Buruh,4,Medan
+N0521,37,Perempuan,SMA,Menikah,Karyawan Swasta,0,Yogyakarta
+N0364,61,Laki-laki,S1,Belum Menikah,Profesional,0,Denpasar
+N0310,25,Laki-laki,SMA,Menikah,Karyawan Swasta,3,Surabaya
+N0796,34,Laki-laki,S2,Belum Menikah,Karyawan Swasta,2,Surabaya
+N0829,59,Perempuan,D3,Cerai,Wiraswasta,2,Makassar
+N0545,58,Laki-laki,S1,Menikah,PNS,2,Jakarta
+N0940,,Laki-laki,S1,Menikah,Buruh,2,Denpasar
+N0442,34,Perempuan,SMA,Menikah,PNS,1,Medan
+N0648,45,Laki-laki,S1,Menikah,Wiraswasta,1,Makassar
+N1004,60,Perempuan,,Menikah,Karyawan Swasta,3,Medan
+N0477,59,Laki-laki,S1,Belum Menikah,PNS,0,Surabaya
+N1047,31,Laki-laki,SMA,Menikah,Wiraswasta,2,Surabaya
+N0063,37,Laki-laki,S3,Menikah,Karyawan Swasta,1,Denpasar
+N0484,56,Perempuan,S1,Menikah,Profesional,1,Semarang
+N1027,24,Laki-laki,S1,Belum Menikah,PNS,0,Makassar
+N0053,37,Perempuan,S1,Belum Menikah,Karyawan Swasta,2,Surabaya
+N0243,25,Laki-laki,S1,Cerai,Buruh,0,Bandung
+N0036,23,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,1,Jakarta
+N0739,54,Perempuan,SMA,Belum Menikah,Wiraswasta,3,Denpasar
+N0121,40,Laki-laki,S1,Menikah,Profesional,1,Bandung
+N1176,36,Laki-laki,,Menikah,Wiraswasta,2,Bandung
+N1020,26,Laki-laki,S2,Belum Menikah,PNS,2,Semarang
+N0045,24,L,SMA,Belum Menikah,Wiraswasta,0,Bandung
+N0837,57,Laki-laki,S1,Belum Menikah,Buruh,4,Jakarta
+N0077,35,Perempuan,D3,Menikah,Karyawan Swasta,2,Semarang
+N0369,21,Perempuan,D3,Menikah,Wiraswasta,1,Jakarta
+N0907,39,Perempuan,S2,Belum Menikah,Karyawan Swasta,2,Surabaya
+N0268,36,Perempuan,S3,Belum Menikah,Wiraswasta,1,Yogyakarta
+N0729,42,Laki-laki,S2,Belum Menikah,Wiraswasta,1,Yogyakarta
+N0445,5,Laki-laki,D3,Belum Menikah,Karyawan Swasta,2,Makassar
+N0504,60,Perempuan,S1,Belum Menikah,Karyawan Swasta,2,Bandung
+N1058,55,Perempuan,S1,Cerai,Karyawan Swasta,2,Semarang
+N1034,,Perempuan,S2,Menikah,Karyawan Swasta,2,Jakarta
+N0286,63,Laki-laki,D3,Belum Menikah,Karyawan Swasta,2,Semarang
+N0296,44,Perempuan,D3,Cerai,Karyawan Swasta,1,Semarang
+N0626,31,Perempuan,S1,Menikah,Karyawan Swasta,1,Medan
+N0278,56,Laki-laki,SMA,Menikah,Karyawan Swasta,1,Makassar
+N1169,65,Laki-laki,S1,Menikah,Profesional,5,Medan
+N0485,41,Perempuan,SMA,Belum Menikah,Pensiunan,3,Surabaya
+N0183,43,Laki-laki,S2,Menikah,Karyawan Swasta,0,Makassar
+N0971,34,Laki-laki,SMA,Cerai,Wiraswasta,3,Surabaya
+N1198,65,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,0,Medan
+N0685,28,Perempuan,S2,Menikah,Buruh,1,Makassar
+N0818,25,Laki-laki,S2,Menikah,Wiraswasta,0,Medan
+N0037,59,Perempuan,SMA,Belum Menikah,Karyawan Swasta,3,Bandung
+N0003,50,Perempuan,SMA,Menikah,PNS,2,Denpasar
+N0755,45,Perempuan,D3,Menikah,,1,Surabaya
+N0509,33,Perempuan,S1,Belum Menikah,Karyawan Swasta,3,Surabaya
+N0498,37,Perempuan,SMA,Belum Menikah,Karyawan Swasta,1,Bandung
+N0309,35,Laki-laki,D3,Belum Menikah,Profesional,1,Denpasar
+N0142,30,Laki-laki,S1,Menikah,PNS,0,Makassar
+N0865,59,Perempuan,S1,Cerai,Buruh,0,Medan
+N0184,52,Perempuan,SMA,Menikah,Karyawan Swasta,0,Surabaya
+N1188,47,perempuan ,S1,Menikah,Karyawan Swasta,3,Medan
+N1011,33,Laki-laki,SMA,Menikah,Karyawan Swasta,0,Jakarta
+N0913,37,Perempuan,SMA,Belum Menikah,Profesional,0,Semarang
+N0849,57,Perempuan,S1,Menikah,Karyawan Swasta,5,Jakarta
+N0512,54,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,2,Yogyakarta
+N0732,39,Laki-laki,S1,Cerai,Wiraswasta,3,Denpasar
+N0997,44,Laki-laki,S1,Menikah,Karyawan Swasta,1,Jakarta
+N0888,,Laki-laki,S1,Belum Menikah,Karyawan Swasta,2,Semarang
+N0118,27,Laki-laki,S1,Belum Menikah,Profesional,3,Medan
+N1026,23,Perempuan,S1,Cerai,Karyawan Swasta,3,Jakarta
+N0114,41,Perempuan,S1,Belum Menikah,Profesional,2,Bandung
+N0546,23,Laki-laki,SMA,Menikah,PNS,3,Bandung
+N0166,57,Laki-laki,SMA,Belum Menikah,PNS,2,Jakarta
+N0185,43,Perempuan,S1,Menikah,Buruh,2,Denpasar
+N0275,39,Perempuan,D3,Belum Menikah,Wiraswasta,3,Bandung
+N1002,54,Laki-laki,S1,Menikah,Karyawan Swasta,1,Surabaya
+N0705,26,Perempuan,D3,Menikah,Wiraswasta,1,Medan
+N1025,57,Laki-laki,S3,Belum Menikah,Wiraswasta,1,Medan
+N0384,31,Laki-laki,SMA,Menikah,Pensiunan,2,Surabaya
+N0562,22,Perempuan,SMA,Menikah,Wiraswasta,5,Surabaya
+N0863,26,Laki-laki,D3,Belum Menikah,Karyawan Swasta,0,Surabaya
+N1045,52,Laki-laki,SMA,Menikah,Karyawan Swasta,0,Yogyakarta
+N0177,53,Perempuan,S1,Belum Menikah,Profesional,0,Jakarta
+N0380,32,Laki-laki,S2,Cerai,PNS,2,Surabaya
+N1196,49,Laki-laki,S1,Menikah,Karyawan Swasta,0,Jakarta
+N1017,38,Laki-laki,D3,Menikah,Karyawan Swasta,2,Medan
+N0520,47,Perempuan,S2,Belum Menikah,Karyawan Swasta,1,Yogyakarta
+N0831,32,Perempuan,SMA,Menikah,PNS,1,Jakarta
+N0508,32,Laki-laki,S1,Belum Menikah,Karyawan Swasta,2,Denpasar
+N1177,35,Perempuan,S1,Belum Menikah,Karyawan Swasta,1,Jakarta
+N0414,26,Perempuan,S1,Menikah,Karyawan Swasta,0,Surabaya
+N0623,28,Perempuan,S1,Menikah,Wiraswasta,3,Medan
+N0873,26,Laki-laki,D3,Menikah,Karyawan Swasta,3,Denpasar
+N0859,51,Perempuan,SMA,Belum Menikah,Wiraswasta,1,Semarang
+N0642,62,Laki-laki,SMA,Menikah,Karyawan Swasta,2,Surabaya
+N0259,28,Laki-laki,SMA,Menikah,PNS,0,Surabaya
+N0835,59,Laki-laki,S1,Menikah,Wiraswasta,1,Jakarta
+N0663,22,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,1,Bandung
+N0338,35,Laki-laki,S1,Belum Menikah,Buruh,1,Jakarta
+N0399,33,Perempuan,D3,Belum Menikah,Karyawan Swasta,0,Denpasar
+N0606,,Laki-laki,SMA,Menikah,Profesional,1,Jakarta
+N0481,33,Laki-laki,S1,Menikah,Pensiunan,2,Denpasar
+N1144,59,Perempuan,SMA,Menikah,Wiraswasta,1,Jakarta
+N0918,56,Perempuan,S3,Menikah,Profesional,3,Medan
+N1018,43,Perempuan,S1,Menikah,PNS,0,Surabaya
+N0876,43,Laki-laki,S1,Menikah,Karyawan Swasta,3,Surabaya
+N0660,33,Perempuan,S1,Menikah,Karyawan Swasta,1,Jakarta
+N1022,24,Laki-laki,S1,Menikah,Wiraswasta,4,Jakarta
+N0790,21,Laki-laki,S1,Belum Menikah,PNS,0,Medan
+N0257,51,Perempuan,S3,Menikah,Karyawan Swasta,0,Medan
+N0969,62,Laki-laki,S2,Menikah,PNS,2,Jakarta
+N0953,48,Laki-laki,S2,Cerai,Karyawan Swasta,2,Medan

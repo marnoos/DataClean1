@@ -1,0 +1,1201 @@
+ID_Nasabah,Usia,Jenis_Kelamin,Pendidikan,Status_Pernikahan,Pekerjaan,Jumlah_Tanggungan,Kota,Pendapatan_Bulanan_Juta,Jumlah_Pinjaman_Juta,Tenor_Bulan,Skor_Kredit,Riwayat_Kredit,Jumlah_Pinjaman_Aktif,Lama_Bekerja_Tahun,Status_Persetujuan
+N0647,41,Perempuan,SMA,Menikah,PNS,0,Medan,10.6,28.0,36,537.0,Buruk,0,19,Ditolak
+N0147,22,Laki-laki,SMA,Belum Menikah,Profesional,1,Bandung,8.9,464.0,24,469.0,Buruk,3,0,Ditolak
+N0613,56,Laki-laki,S1,Belum Menikah,Wiraswasta,1,Denpasar,15.6,161.0,12,622.0,Cukup,2,17,Ditolak
+N0356,65,Perempuan,S2,Menikah,Karyawan Swasta,0,Jakarta,18.2,309.0,36,484.0,Buruk,3,5,Ditolak
+N0743,49,Laki-laki,D3,Belum Menikah,Wiraswasta,2,Jakarta,6.3,34.0,48,653.0,Cukup,3,16,Ditolak
+N0963,58,Perempuan,SMA,Belum Menikah,PNS,1,Jakarta,8.7,106.0,60,486.0,Buruk,2,25,Ditolak
+N0836,55,Perempuan,S1,Menikah,Karyawan Swasta,2,Denpasar,9.3,132.0,48,741.0,Baik,2,28,Disetujui
+N0058,27,Laki-laki,D3,Menikah,Karyawan Swasta,2,Surabaya,11.4,190.0,12,669.0,Cukup,1,2,Ditolak
+N0329,27,Perempuan,SMA,Menikah,Karyawan Swasta,0,Semarang,11.4,90.0,48,711.0,Baik,0,0,Disetujui
+N0331,45,Laki-laki,SMA,Cerai,Profesional,1,Yogyakarta,7.5,219.0,24,600.0,Cukup,0,18,Ditolak
+N0709,42,Laki-laki,S1,Menikah,Wiraswasta,0,Makassar,13.1,44.0,36,717.0,Baik,1,6,Disetujui
+N0382,63,Perempuan,S2,Belum Menikah,Profesional,1,Jakarta,17.8,302.0,24,546.0,Buruk,2,5,Ditolak
+N0304,61,Laki-laki,S2,Cerai,Karyawan Swasta,0,Makassar,9.1,92.0,60,631.0,Cukup,0,17,Disetujui
+N0684,64,Perempuan,D3,Menikah,Karyawan Swasta,3,Jakarta,12.9,213.0,60,711.0,Baik,3,21,Disetujui
+N0959,64,Perempuan,S1,Menikah,Karyawan Swasta,1,Jakarta,7.1,93.0,60,648.0,Baik,5,10,Disetujui
+N1148,55,Laki-laki,S1,Belum Menikah,Profesional,4,Jakarta,17.0,77.0,48,708.0,Baik,2,19,Disetujui
+N0211,32,Laki-laki,SMA,Menikah,Karyawan Swasta,1,Surabaya,4.6,93.0,48,478.0,Buruk,1,9,Ditolak
+N0579,61,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,0,Yogyakarta,10.4,74.0,36,519.0,Buruk,1,22,Ditolak
+N0682,27,Laki-laki,SMA,Menikah,Wiraswasta,4,Bandung,6.1,104.0,48,810.0,Baik,1,0,Disetujui
+N0120,26,Perempuan,S2,Menikah,Karyawan Swasta,2,Bandung,12.0,169.0,60,560.0,Cukup,0,1,Ditolak
+N0472,57,Perempuan,S1,Menikah,Karyawan Swasta,0,Yogyakarta,18.2,127.0,60,768.0,Baik,1,21,Disetujui
+N0489,55,Laki-laki,SMA,Menikah,Buruh,3,Jakarta,10.6,29.0,24,607.0,Cukup,0,22,Disetujui
+N1090,27,Laki-laki,SMA,Menikah,Wiraswasta,4,Makassar,13.5,27.0,60,660.0,Baik,1,1,Disetujui
+N0470,62,Laki-laki,S2,Cerai,Karyawan Swasta,0,Surabaya,16.0,57.0,60,551.0,Buruk,0,2,Ditolak
+N0670,26,Laki-laki,D3,Menikah,Wiraswasta,2,Denpasar,6.8,47.0,24,693.0,Cukup,1,2,Disetujui
+N0934,50,Perempuan,S1,Menikah,Karyawan Swasta,3,Bandung,6.8,136.0,36,744.0,Baik,2,8,Disetujui
+N0655,45,Laki-laki,S1,Menikah,PNS,3,Jakarta,10.6,31.0,60,669.0,Baik,0,15,Disetujui
+N0561,43,Laki-laki,S2,Belum Menikah,Karyawan Swasta,0,Surabaya,19.0,117.0,60,548.0,Buruk,2,1,Ditolak
+N0593,31,Perempuan,D3,Belum Menikah,Karyawan Swasta,3,Medan,20.2,130.0,36,661.0,Cukup,4,1,Ditolak
+N0665,47,Perempuan,SMA,Menikah,Wiraswasta,0,Yogyakarta,12.0,206.0,48,738.0,Baik,2,5,Disetujui
+N0363,31,Laki-laki,D3,Belum Menikah,Karyawan Swasta,3,Bandung,18.5,131.0,48,661.0,Baik,0,6,Disetujui
+N0730,50,Laki-laki,S1,Belum Menikah,Karyawan Swasta,3,Jakarta,10.9,50.0,36,636.0,Baik,1,3,Disetujui
+N0032,31,Perempuan,S2,Menikah,PNS,1,Makassar,13.5,151.0,60,756.0,Baik,2,9,Disetujui
+N0244,50,Laki-laki,S2,Menikah,Buruh,1,Semarang,3.0,78.0,24,606.0,Baik,2,12,Ditolak
+N0973,42,Perempuan,S2,Menikah,Profesional,5,Makassar,25.1,287.0,60,507.0,Buruk,0,13,Ditolak
+N0522,27,Laki-laki,SMA,Belum Menikah,Wiraswasta,2,Surabaya,8.6,101.0,12,591.0,Cukup,2,4,Ditolak
+N0020,41,Laki-laki,S1,Menikah,Wiraswasta,1,Bandung,16.2,28.0,48,641.0,Cukup,1,5,Disetujui
+N0614,38,Laki-laki,S1,Belum Menikah,Karyawan Swasta,4,Surabaya,7.6,25.0,24,517.0,Buruk,4,13,Ditolak
+N0964,30,Perempuan,D3,Menikah,Karyawan Swasta,1,Medan,10.0,87.0,24,618.0,Cukup,0,5,Ditolak
+N0962,39,Perempuan,S2,Menikah,Buruh,2,Medan,12.1,190.0,24,708.0,Baik,0,8,Disetujui
+N0236,53,Perempuan,S1,Menikah,Wiraswasta,4,Surabaya,16.2,223.0,36,669.0,Baik,1,26,Ditolak
+N0678,24,Laki-laki,SMA,Menikah,Wiraswasta,3,Makassar,10.0,97.0,24,703.0,Baik,1,0,Disetujui
+N1146,42,Perempuan,S1,Menikah,PNS,2,Yogyakarta,5.3,184.0,60,590.0,Cukup,1,13,Ditolak
+N0839,21,Perempuan,S2,Belum Menikah,Buruh,1,Jakarta,3.9,225.0,12,578.0,Cukup,1,0,Ditolak
+N0515,64,Perempuan,D3,Cerai,Wiraswasta,0,Denpasar,12.6,15.0,24,539.0,Buruk,1,9,Ditolak
+N1099,22,Perempuan,S1,Belum Menikah,Karyawan Swasta,5,Bandung,7.3,41.0,36,657.0,Baik,2,0,Disetujui
+N0506,41,Perempuan,S1,Menikah,Karyawan Swasta,1,Bandung,7.4,19.0,60,451.0,Buruk,2,14,Ditolak
+N0181,63,Laki-laki,S2,Cerai,Wiraswasta,1,Surabaya,16.2,91.0,48,765.0,Baik,2,10,Disetujui
+N0124,43,Perempuan,D3,Menikah,PNS,2,Jakarta,8.7,75.0,36,675.0,Baik,1,15,Disetujui
+N0538,26,Laki-laki,D3,Belum Menikah,PNS,2,Jakarta,10.0,124.0,60,678.0,Baik,3,4,Disetujui
+N0850,48,Laki-laki,S2,Menikah,Pensiunan,2,Medan,9.7,98.0,12,736.0,Baik,0,21,Disetujui
+N0589,58,Laki-laki,S1,Belum Menikah,PNS,3,Semarang,13.1,67.0,48,469.0,Buruk,0,11,Ditolak
+N0459,58,Laki-laki,SMA,Menikah,Wiraswasta,0,Semarang,7.9,94.0,60,569.0,Cukup,0,14,Disetujui
+N0353,34,Laki-laki,S1,Menikah,PNS,1,Jakarta,9.4,119.0,48,576.0,Buruk,2,8,Ditolak
+N0638,34,Laki-laki,S1,Menikah,PNS,4,Makassar,17.8,152.0,24,733.0,Baik,0,8,Disetujui
+N0701,44,Laki-laki,SMA,Belum Menikah,Wiraswasta,2,Surabaya,9.7,99.0,24,758.0,Baik,3,15,Disetujui
+N0720,47,Perempuan,SMA,Menikah,Karyawan Swasta,4,Denpasar,11.0,81.0,48,698.0,Baik,1,21,Disetujui
+N0752,27,Perempuan,S1,Menikah,Profesional,0,Semarang,21.1,43.0,24,773.0,Baik,1,1,Disetujui
+N0540,21,Perempuan,SMA,Menikah,Wiraswasta,2,Surabaya,5.4,70.0,48,608.0,Buruk,2,0,Ditolak
+N0145,65,Laki-laki,S2,Belum Menikah,Profesional,2,Jakarta,19.6,52.0,60,753.0,Baik,1,18,Disetujui
+N0952,34,Laki-laki,S1,Cerai,PNS,0,Yogyakarta,11.3,70.0,48,695.0,Cukup,2,9,Disetujui
+N0233,21,Laki-laki,D3,Menikah,Profesional,0,Makassar,10.6,177.0,24,479.0,Buruk,1,0,Ditolak
+N0883,41,Perempuan,SMA,Belum Menikah,Karyawan Swasta,1,Jakarta,10.6,98.0,24,681.0,Cukup,3,10,Ditolak
+N0288,46,Laki-laki,D3,Menikah,PNS,1,Jakarta,5.9,44.0,36,759.0,Baik,0,15,Disetujui
+N0202,61,Laki-laki,S1,Cerai,Profesional,1,Jakarta,17.2,195.0,48,684.0,Baik,2,21,Disetujui
+N0981,47,Perempuan,SMA,Menikah,Wiraswasta,1,Medan,17.3,107.0,36,540.0,Cukup,2,15,Disetujui
+N0098,51,Perempuan,D3,Menikah,Wiraswasta,2,Surabaya,20.4,39.0,12,737.0,Baik,1,15,Disetujui
+N0351,44,Laki-laki,S1,Menikah,PNS,1,Semarang,14.3,484.0,36,619.0,Cukup,1,13,Ditolak
+N0898,23,Perempuan,SMA,Menikah,Karyawan Swasta,1,Surabaya,4.7,98.0,24,685.0,Baik,0,0,Ditolak
+N0619,23,Perempuan,SMA,Menikah,Wiraswasta,0,Surabaya,5.8,41.0,24,687.0,Baik,0,0,Disetujui
+N0830,22,Laki-laki,SMA,Belum Menikah,PNS,3,Yogyakarta,6.7,162.0,36,688.0,Baik,2,0,Ditolak
+N0848,23,Laki-laki,S1,Belum Menikah,Profesional,3,Jakarta,30.4,142.0,48,707.0,Baik,0,0,Disetujui
+N0637,31,Laki-laki,S1,Belum Menikah,PNS,1,Surabaya,13.3,36.0,60,486.0,Buruk,2,6,Ditolak
+N0931,45,Laki-laki,SMA,Menikah,Karyawan Swasta,0,Jakarta,9.3,29.0,48,772.0,Baik,2,21,Disetujui
+N0664,30,Perempuan,S1,Belum Menikah,Profesional,2,Jakarta,16.3,135.0,24,776.0,Baik,2,3,Disetujui
+N0640,63,Laki-laki,S1,Menikah,Karyawan Swasta,3,Surabaya,12.4,60.0,60,740.0,Baik,0,19,Disetujui
+N0191,51,Laki-laki,SMA,Menikah,Karyawan Swasta,4,Surabaya,5.6,79.0,36,671.0,Baik,1,4,Disetujui
+N0788,51,Laki-laki,SMA,Menikah,Karyawan Swasta,1,Jakarta,9.5,87.0,12,850.0,Baik,2,9,Disetujui
+N0924,27,Perempuan,S1,Cerai,Wiraswasta,1,Denpasar,10.6,424.0,60,717.0,Baik,1,2,Disetujui
+N0122,51,Laki-laki,D3,Menikah,Wiraswasta,0,Denpasar,12.5,51.0,36,636.0,Buruk,4,5,Ditolak
+N0158,46,Perempuan,SMA,Menikah,Karyawan Swasta,2,Jakarta,5.9,68.0,24,558.0,Buruk,0,14,Ditolak
+N1009,54,Laki-laki,SMA,Menikah,PNS,1,Jakarta,6.5,70.0,36,678.0,Baik,0,20,Disetujui
+N0473,40,Laki-laki,S1,Menikah,PNS,1,Bandung,14.4,10.0,24,567.0,Buruk,2,15,Ditolak
+N0661,28,Laki-laki,S2,Menikah,Wiraswasta,1,Denpasar,19.2,49.0,36,732.0,Baik,0,3,Disetujui
+N0823,27,Laki-laki,SMA,Menikah,Buruh,2,Surabaya,5.8,388.0,48,575.0,Buruk,1,4,Ditolak
+N1053,43,Laki-laki,S2,Menikah,Karyawan Swasta,2,Medan,20.8,75.0,36,746.0,Baik,0,5,Disetujui
+N1154,61,Perempuan,S2,Menikah,Wiraswasta,4,Medan,14.1,67.0,48,661.0,Buruk,1,15,Ditolak
+N0886,54,Laki-laki,S1,Menikah,Karyawan Swasta,1,Jakarta,6.8,53.0,48,801.0,Baik,1,1,Disetujui
+N0108,50,Perempuan,SMA,Belum Menikah,Karyawan Swasta,1,Surabaya,10.0,56.0,60,675.0,Cukup,0,23,Disetujui
+N0073,41,Perempuan,S3,Belum Menikah,Profesional,2,Jakarta,21.4,166.0,24,768.0,Baik,2,15,Disetujui
+N0867,57,Laki-laki,S2,Menikah,Wiraswasta,1,Jakarta,14.1,170.0,48,541.0,Buruk,1,25,Ditolak
+N1010,44,Laki-laki,SMA,Belum Menikah,PNS,2,Yogyakarta,4.8,84.0,60,611.0,Cukup,0,9,Disetujui
+N0780,59,Laki-laki,S2,Cerai,Buruh,0,Makassar,5.8,82.0,60,731.0,Baik,2,20,Disetujui
+N0062,54,Perempuan,S3,Menikah,Buruh,1,Bandung,17.2,76.0,36,651.0,Baik,2,25,Disetujui
+N0978,46,Perempuan,S1,Menikah,PNS,2,Bandung,10.4,48.0,36,634.0,Cukup,3,17,Disetujui
+N1170,62,Perempuan,SMA,Menikah,Karyawan Swasta,3,Makassar,6.1,46.0,48,585.0,Buruk,0,20,Ditolak
+N0993,29,Laki-laki,S1,Menikah,PNS,1,Surabaya,10.2,84.0,24,706.0,Baik,0,5,Disetujui
+N0469,29,Laki-laki,S1,Menikah,Buruh,1,Jakarta,8.9,140.0,36,777.0,Baik,0,7,Disetujui
+N1199,57,Perempuan,S3,Menikah,Wiraswasta,1,Semarang,24.9,65.0,48,566.0,Cukup,2,19,Ditolak
+N0059,54,Laki-laki,D3,Menikah,Pensiunan,3,Surabaya,7.9,61.0,36,709.0,Cukup,0,8,Disetujui
+N0381,21,Perempuan,S1,Menikah,Wiraswasta,2,Makassar,22.1,392.0,24,816.0,Baik,1,0,Disetujui
+N0416,51,Laki-laki,SMA,Menikah,Karyawan Swasta,1,Semarang,8.5,31.0,48,523.0,Buruk,0,28,Ditolak
+N1067,62,Perempuan,S1,Menikah,Karyawan Swasta,1,Surabaya,17.8,62.0,48,735.0,Baik,3,1,Disetujui
+N0270,47,Perempuan,S1,Menikah,Karyawan Swasta,1,Makassar,12.1,90.0,24,611.0,Cukup,1,8,Ditolak
+N0228,47,Laki-laki,D3,Menikah,PNS,1,Medan,13.6,200.0,60,702.0,Baik,1,21,Disetujui
+N0318,53,Laki-laki,SMA,Menikah,Karyawan Swasta,3,Bandung,4.4,283.0,36,752.0,Baik,2,1,Ditolak
+N0598,56,Perempuan,SMA,Belum Menikah,Karyawan Swasta,2,Bandung,5.6,81.0,12,705.0,Baik,2,20,Ditolak
+N0174,53,Perempuan,D3,Cerai,Karyawan Swasta,1,Jakarta,13.0,83.0,12,618.0,Cukup,3,19,Ditolak
+N0457,27,Perempuan,S2,Cerai,Buruh,1,Surabaya,8.2,27.0,24,558.0,Buruk,0,3,Ditolak
+N0954,40,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,0,Jakarta,8.6,173.0,48,810.0,Baik,2,9,Disetujui
+N0151,59,Laki-laki,S2,Menikah,Karyawan Swasta,4,Bandung,10.6,154.0,60,801.0,Baik,0,26,Disetujui
+N1072,43,Perempuan,S1,Belum Menikah,Buruh,4,Medan,6.9,45.0,48,751.0,Baik,1,5,Disetujui
+N0553,58,Laki-laki,SMA,Menikah,Karyawan Swasta,1,Jakarta,9.4,154.0,36,564.0,Buruk,0,6,Ditolak
+N1124,31,Perempuan,S1,Menikah,PNS,0,Jakarta,19.2,213.0,60,494.0,Buruk,1,9,Ditolak
+N0344,44,Laki-laki,S2,Menikah,Wiraswasta,1,Surabaya,8.5,86.0,36,545.0,Cukup,1,8,Ditolak
+N0086,52,Laki-laki,D3,Menikah,Karyawan Swasta,2,Bandung,9.3,57.0,24,486.0,Buruk,1,15,Ditolak
+N0144,39,Laki-laki,SMA,Menikah,Karyawan Swasta,4,Jakarta,7.5,101.0,60,749.0,Baik,0,17,Disetujui
+N1108,61,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,2,Jakarta,12.8,34.0,24,690.0,Baik,1,4,Disetujui
+N0680,63,Perempuan,S2,Menikah,Karyawan Swasta,0,Denpasar,11.7,61.0,36,593.0,Cukup,0,12,Disetujui
+N0960,39,Perempuan,S1,Menikah,Karyawan Swasta,4,Semarang,20.1,101.0,12,743.0,Baik,4,14,Disetujui
+N1008,43,Laki-laki,S1,Menikah,Buruh,0,Surabaya,8.5,12.0,60,687.0,Cukup,1,16,Disetujui
+N0312,51,Perempuan,S1,Cerai,Wiraswasta,3,Jakarta,11.3,294.0,24,551.0,Cukup,1,22,Ditolak
+N0161,65,Perempuan,S1,Cerai,Karyawan Swasta,3,Medan,7.0,127.0,12,833.0,Baik,0,29,Ditolak
+N0104,21,Perempuan,SMA,Belum Menikah,Karyawan Swasta,1,Bandung,7.8,445.0,36,693.0,Baik,1,0,Ditolak
+N1122,24,Perempuan,SMA,Belum Menikah,Wiraswasta,2,Bandung,13.6,72.0,12,761.0,Baik,1,0,Disetujui
+N0856,59,Laki-laki,S2,Menikah,Karyawan Swasta,2,Medan,11.6,694.0,24,661.0,Buruk,2,5,Ditolak
+N0601,48,Perempuan,S1,Menikah,Karyawan Swasta,1,Denpasar,24.7,70.0,60,619.0,Cukup,3,26,Disetujui
+N0240,49,Laki-laki,S1,Menikah,Karyawan Swasta,0,Medan,20.7,94.0,36,806.0,Baik,1,20,Disetujui
+N1049,51,Perempuan,S1,Menikah,PNS,2,Jakarta,11.7,81.0,60,498.0,Cukup,3,13,Ditolak
+N1070,21,Perempuan,SMA,Menikah,Wiraswasta,3,Denpasar,5.8,290.0,48,402.0,Buruk,1,0,Ditolak
+N0885,57,Perempuan,D3,Cerai,Buruh,1,Makassar,4.9,37.0,36,696.0,Cukup,3,16,Disetujui
+N0387,24,Laki-laki,S2,Menikah,Wiraswasta,4,Denpasar,16.0,144.0,12,567.0,Cukup,2,0,Ditolak
+N0719,31,Perempuan,S1,Cerai,Buruh,1,Surabaya,7.2,135.0,24,595.0,Cukup,0,9,Ditolak
+N0422,52,Perempuan,S1,Menikah,Buruh,4,Semarang,4.1,125.0,48,465.0,Buruk,0,1,Ditolak
+N0432,54,Perempuan,S1,Menikah,Karyawan Swasta,2,Makassar,9.6,62.0,48,780.0,Baik,2,22,Disetujui
+N0716,56,Perempuan,S2,Belum Menikah,Profesional,3,Surabaya,30.8,226.0,60,648.0,Baik,0,7,Disetujui
+N0683,64,Laki-laki,SMA,Menikah,Wiraswasta,1,Semarang,5.5,39.0,36,675.0,Baik,0,26,Disetujui
+N0004,40,Perempuan,S1,Belum Menikah,Wiraswasta,0,Bandung,11.4,227.0,60,558.0,Cukup,1,15,Ditolak
+N1086,58,Laki-laki,SMA,Cerai,PNS,1,Jakarta,7.0,71.0,48,576.0,Cukup,2,4,Ditolak
+N0926,63,Laki-laki,S1,Menikah,PNS,2,Jakarta,7.9,10.0,24,614.0,Cukup,0,9,Disetujui
+N0096,33,Laki-laki,SMA,Menikah,Karyawan Swasta,1,Bandung,12.5,506.0,48,804.0,Baik,4,8,Disetujui
+N1102,42,Perempuan,S2,Belum Menikah,Wiraswasta,2,Yogyakarta,18.3,127.0,60,512.0,Buruk,1,9,Ditolak
+N0860,57,Laki-laki,SMA,Menikah,PNS,2,Semarang,5.6,65.0,36,587.0,Buruk,3,18,Ditolak
+N0250,22,Perempuan,D3,Menikah,PNS,0,Yogyakarta,4.1,40.0,36,850.0,Baik,1,0,Disetujui
+N0417,64,Perempuan,SMA,Belum Menikah,PNS,1,Semarang,8.6,68.0,36,524.0,Cukup,1,13,Ditolak
+N0169,36,Laki-laki,S1,Menikah,Karyawan Swasta,1,Bandung,12.6,59.0,36,707.0,Baik,2,5,Disetujui
+N1160,36,Laki-laki,S2,Menikah,Karyawan Swasta,4,Jakarta,25.2,29.0,12,688.0,Baik,0,12,Disetujui
+N1033,53,Perempuan,S1,Belum Menikah,Karyawan Swasta,1,Semarang,8.1,89.0,48,502.0,Buruk,3,8,Ditolak
+N0165,39,Perempuan,S1,Belum Menikah,Profesional,3,Surabaya,17.0,159.0,60,565.0,Cukup,0,14,Disetujui
+N0862,62,Laki-laki,D3,Menikah,Karyawan Swasta,0,Surabaya,5.6,90.0,60,689.0,Cukup,1,15,Disetujui
+N0148,31,Laki-laki,S2,Belum Menikah,Buruh,0,Jakarta,9.5,37.0,24,661.0,Baik,0,8,Disetujui
+N0625,48,Laki-laki,S2,Belum Menikah,Karyawan Swasta,1,Surabaya,15.4,30.0,48,638.0,Cukup,0,20,Disetujui
+N0358,61,Laki-laki,D3,Menikah,Profesional,5,Bandung,7.2,10.0,36,775.0,Baik,2,9,Disetujui
+N0446,50,Laki-laki,SMA,Menikah,Pensiunan,0,Bandung,7.3,229.0,60,676.0,Baik,2,22,Disetujui
+N0074,43,Perempuan,S3,Belum Menikah,Buruh,0,Jakarta,8.4,23.0,24,693.0,Baik,2,0,Disetujui
+N0717,44,Perempuan,SMA,Belum Menikah,Profesional,3,Yogyakarta,11.9,87.0,36,440.0,Buruk,1,9,Ditolak
+N0584,23,Laki-laki,SMA,Belum Menikah,Wiraswasta,3,Yogyakarta,5.8,266.0,36,555.0,Cukup,1,0,Ditolak
+N0478,21,Laki-laki,SMA,Cerai,PNS,1,Semarang,14.0,57.0,48,797.0,Baik,4,0,Disetujui
+N0902,22,Perempuan,S1,Belum Menikah,Karyawan Swasta,2,Semarang,21.1,95.0,24,640.0,Cukup,1,9,Ditolak
+N0138,22,Laki-laki,S1,Menikah,PNS,3,Makassar,5.5,157.0,36,474.0,Buruk,2,0,Ditolak
+N0199,36,Perempuan,S2,Menikah,Karyawan Swasta,1,Medan,7.7,81.0,12,798.0,Baik,0,12,Disetujui
+N0922,46,Laki-laki,S2,Belum Menikah,Karyawan Swasta,4,Bandung,12.3,101.0,36,568.0,Cukup,1,19,Disetujui
+N1091,43,Perempuan,SMA,Menikah,Karyawan Swasta,0,Denpasar,8.4,153.0,48,761.0,Cukup,0,21,Disetujui
+N0092,57,Perempuan,S1,Cerai,PNS,1,Jakarta,11.7,102.0,48,593.0,Cukup,2,9,Disetujui
+N0291,57,Laki-laki,D3,Menikah,Wiraswasta,1,Medan,11.2,46.0,12,751.0,Baik,3,26,Disetujui
+N0377,54,Laki-laki,S1,Menikah,Profesional,4,Jakarta,20.9,58.0,36,686.0,Baik,1,22,Disetujui
+N0378,54,Laki-laki,S2,Cerai,PNS,1,Yogyakarta,31.5,108.0,60,637.0,Buruk,2,10,Disetujui
+N0289,45,Laki-laki,S1,Menikah,Karyawan Swasta,0,Denpasar,9.8,62.0,60,826.0,Baik,4,9,Disetujui
+N0795,40,Perempuan,D3,Menikah,Wiraswasta,0,Makassar,9.5,59.0,60,542.0,Buruk,0,18,Ditolak
+N0891,25,Laki-laki,S2,Menikah,Karyawan Swasta,1,Jakarta,20.6,143.0,36,661.0,Buruk,1,3,Ditolak
+N0955,56,Laki-laki,S2,Menikah,PNS,0,Jakarta,23.7,383.0,60,415.0,Buruk,2,27,Ditolak
+N1179,32,Laki-laki,S1,Belum Menikah,Karyawan Swasta,5,Jakarta,13.5,60.0,48,648.0,Baik,1,8,Disetujui
+N0645,55,Laki-laki,S1,Menikah,Karyawan Swasta,2,Denpasar,10.6,38.0,24,439.0,Buruk,2,11,Ditolak
+N0116,46,Laki-laki,SMA,Belum Menikah,Wiraswasta,0,Jakarta,8.3,64.0,36,442.0,Buruk,1,21,Ditolak
+N0920,49,Laki-laki,S1,Menikah,Wiraswasta,2,Yogyakarta,10.4,21.0,48,729.0,Cukup,1,22,Disetujui
+N0488,44,Perempuan,S1,Belum Menikah,Karyawan Swasta,0,Jakarta,11.5,115.0,24,515.0,Buruk,0,19,Ditolak
+N0350,28,Laki-laki,SMA,Menikah,Karyawan Swasta,1,Makassar,11.3,42.0,36,572.0,Cukup,1,5,Ditolak
+N0879,45,Laki-laki,S1,Menikah,Karyawan Swasta,5,Denpasar,13.2,34.0,48,643.0,Cukup,1,14,Disetujui
+N0500,40,Laki-laki,S1,Belum Menikah,Profesional,2,Jakarta,23.2,370.0,36,521.0,Cukup,4,8,Ditolak
+N1074,44,Laki-laki,SMA,Menikah,Buruh,0,Jakarta,5.1,23.0,24,788.0,Baik,1,18,Disetujui
+N0028,43,Laki-laki,S1,Belum Menikah,Karyawan Swasta,2,Semarang,15.9,93.0,36,735.0,Baik,2,12,Disetujui
+N0892,52,Laki-laki,D3,Belum Menikah,Profesional,0,Medan,15.0,153.0,48,721.0,Baik,1,1,Disetujui
+N0530,62,Perempuan,S1,Menikah,Karyawan Swasta,2,Jakarta,5.9,34.0,48,586.0,Cukup,3,25,Disetujui
+N0392,29,Perempuan,S1,Belum Menikah,Wiraswasta,0,Jakarta,11.9,247.0,60,538.0,Buruk,0,7,Ditolak
+N0906,52,Laki-laki,S1,Belum Menikah,Karyawan Swasta,1,Medan,16.1,243.0,48,769.0,Baik,0,26,Disetujui
+N0843,61,Laki-laki,S1,Belum Menikah,Karyawan Swasta,0,Denpasar,5.8,250.0,24,481.0,Buruk,3,4,Ditolak
+N1133,56,Perempuan,S1,Menikah,Karyawan Swasta,3,Surabaya,5.0,235.0,36,639.0,Cukup,0,9,Ditolak
+N0239,34,Laki-laki,S1,Menikah,Karyawan Swasta,0,Jakarta,8.5,93.0,36,490.0,Buruk,1,8,Ditolak
+N0438,43,Laki-laki,D3,Menikah,Wiraswasta,1,Semarang,19.0,100.0,48,709.0,Baik,1,5,Disetujui
+N1060,34,Laki-laki,S1,Belum Menikah,Karyawan Swasta,1,Surabaya,13.5,81.0,60,683.0,Baik,0,9,Disetujui
+N0781,60,Laki-laki,SMA,Menikah,Buruh,0,Bandung,3.3,321.0,24,612.0,Baik,1,7,Ditolak
+N0132,45,Laki-laki,S1,Cerai,Buruh,4,Denpasar,8.2,251.0,48,658.0,Baik,0,6,Disetujui
+N1007,59,Perempuan,D3,Menikah,PNS,3,Semarang,11.6,93.0,36,761.0,Baik,2,28,Disetujui
+N0775,59,Perempuan,S1,Belum Menikah,Wiraswasta,1,Denpasar,10.6,103.0,12,756.0,Baik,3,4,Disetujui
+N1152,43,Laki-laki,S1,Menikah,Profesional,1,Semarang,24.8,70.0,60,664.0,Baik,1,21,Disetujui
+N0721,27,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,1,Jakarta,8.7,169.0,36,708.0,Baik,0,4,Disetujui
+N0315,43,Perempuan,SMA,Menikah,PNS,0,Jakarta,6.8,168.0,36,616.0,Cukup,0,7,Ditolak
+N0324,62,Laki-laki,SMA,Belum Menikah,Buruh,2,Jakarta,4.0,116.0,24,550.0,Cukup,1,16,Ditolak
+N0136,34,Laki-laki,SMA,Belum Menikah,PNS,5,Makassar,10.2,73.0,36,715.0,Baik,2,10,Disetujui
+N0575,21,Laki-laki,D3,Menikah,PNS,0,Yogyakarta,10.6,35.0,36,680.0,Baik,2,0,Disetujui
+N0985,47,Perempuan,SMA,Menikah,PNS,2,Medan,6.3,37.0,36,728.0,Baik,1,19,Disetujui
+N1123,33,Perempuan,SMA,Belum Menikah,Buruh,3,Yogyakarta,4.7,102.0,48,711.0,Baik,2,7,Disetujui
+N0760,53,Laki-laki,SMA,Menikah,Wiraswasta,3,Makassar,10.6,113.0,60,477.0,Buruk,2,2,Ditolak
+N1023,43,Perempuan,S1,Menikah,PNS,5,Medan,10.6,316.0,48,824.0,Baik,1,9,Disetujui
+N0198,26,Laki-laki,D3,Menikah,Profesional,1,Makassar,18.1,34.0,36,624.0,Buruk,0,3,Ditolak
+N0649,64,Laki-laki,S1,Menikah,PNS,4,Semarang,10.5,36.0,12,664.0,Baik,1,27,Disetujui
+N0894,65,Perempuan,S3,Menikah,Karyawan Swasta,0,Makassar,18.9,71.0,48,592.0,Buruk,2,14,Ditolak
+N0603,54,Perempuan,S1,Menikah,PNS,3,Semarang,8.7,21.0,24,632.0,Cukup,1,23,Disetujui
+N0887,23,Perempuan,SMA,Cerai,Profesional,2,Surabaya,9.4,55.0,36,705.0,Cukup,1,9,Disetujui
+N0893,44,Laki-laki,S1,Menikah,Karyawan Swasta,3,Surabaya,11.9,32.0,36,667.0,Cukup,1,7,Disetujui
+N1167,21,Perempuan,D3,Menikah,Karyawan Swasta,1,Denpasar,7.5,251.0,36,700.0,Cukup,2,0,Ditolak
+N0527,62,Laki-laki,SMA,Menikah,Profesional,0,Medan,9.5,62.0,60,733.0,Baik,0,18,Disetujui
+N0217,24,Perempuan,D3,Menikah,Wiraswasta,0,Jakarta,9.9,96.0,60,701.0,Baik,1,2,Disetujui
+N0687,39,Laki-laki,S1,Menikah,PNS,3,Makassar,23.0,130.0,36,708.0,Baik,0,1,Disetujui
+N1014,35,Laki-laki,SMA,Menikah,Buruh,3,Jakarta,3.7,74.0,36,621.0,Cukup,1,3,Ditolak
+N0977,25,Perempuan,S1,Menikah,Karyawan Swasta,1,Bandung,13.8,50.0,36,672.0,Baik,2,0,Disetujui
+N0543,29,Perempuan,S1,Belum Menikah,Profesional,2,Jakarta,19.0,60.0,24,688.0,Cukup,0,7,Disetujui
+N0390,27,Perempuan,S2,Menikah,Karyawan Swasta,0,Medan,13.3,82.0,48,699.0,Cukup,0,3,Disetujui
+N0322,25,Perempuan,SMA,Menikah,Karyawan Swasta,0,Yogyakarta,8.8,90.0,36,742.0,Baik,2,3,Disetujui
+N0793,53,Laki-laki,S1,Menikah,Wiraswasta,1,Medan,12.2,115.0,36,533.0,Cukup,0,10,Ditolak
+N0763,63,Perempuan,S1,Menikah,Wiraswasta,2,Medan,11.5,187.0,48,611.0,Buruk,2,20,Ditolak
+N0639,43,Perempuan,S1,Belum Menikah,PNS,0,Jakarta,19.3,159.0,36,468.0,Buruk,2,17,Ditolak
+N0194,37,Laki-laki,SMA,Belum Menikah,Wiraswasta,1,Makassar,11.1,121.0,12,794.0,Baik,1,10,Ditolak
+N0066,35,Perempuan,S2,Menikah,Wiraswasta,2,Jakarta,9.8,24.0,24,809.0,Baik,1,5,Disetujui
+N0689,41,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,0,Surabaya,6.6,24.0,60,671.0,Baik,1,18,Disetujui
+N0176,41,Perempuan,SMA,Menikah,Karyawan Swasta,1,Jakarta,16.7,531.0,24,403.0,Buruk,1,12,Ditolak
+N1005,26,Laki-laki,SMA,Menikah,Karyawan Swasta,0,Bandung,8.2,54.0,36,522.0,Buruk,0,0,Ditolak
+N0081,63,Laki-laki,S1,Menikah,PNS,2,Medan,10.5,39.0,12,797.0,Baik,1,16,Disetujui
+N0499,62,Perempuan,SMA,Menikah,Wiraswasta,2,Jakarta,8.8,367.0,48,805.0,Baik,2,4,Disetujui
+N0748,35,Laki-laki,SMA,Belum Menikah,Profesional,1,Surabaya,9.8,37.0,36,453.0,Buruk,2,9,Ditolak
+N0632,35,Perempuan,S1,Cerai,Karyawan Swasta,2,Jakarta,13.2,76.0,36,599.0,Cukup,0,9,Ditolak
+N0923,41,Perempuan,D3,Menikah,Karyawan Swasta,1,Jakarta,11.2,126.0,36,561.0,Buruk,0,5,Ditolak
+N0294,35,Laki-laki,S1,Menikah,PNS,1,Surabaya,4.7,197.0,60,708.0,Baik,0,10,Disetujui
+N0267,41,Perempuan,S1,Menikah,Karyawan Swasta,0,Makassar,21.8,40.0,24,662.0,Cukup,1,13,Disetujui
+N0084,58,Laki-laki,S1,Belum Menikah,PNS,2,Bandung,15.6,58.0,24,753.0,Baik,5,4,Disetujui
+N0951,25,Laki-laki,SMA,Menikah,Wiraswasta,1,Denpasar,8.0,213.0,48,662.0,Baik,3,2,Ditolak
+N0264,62,Perempuan,SMA,Menikah,Pensiunan,0,Makassar,4.7,81.0,12,686.0,Baik,1,21,Ditolak
+N0699,23,Perempuan,S2,Menikah,Buruh,3,Denpasar,8.7,19.0,48,490.0,Buruk,2,0,Ditolak
+N0941,52,Perempuan,SMA,Menikah,Wiraswasta,1,Bandung,11.9,104.0,48,548.0,Cukup,2,5,Ditolak
+N0857,32,Laki-laki,D3,Belum Menikah,Wiraswasta,1,Yogyakarta,22.3,72.0,12,719.0,Baik,0,5,Disetujui
+N0529,62,Perempuan,S1,Belum Menikah,Wiraswasta,0,Bandung,18.7,155.0,36,648.0,Cukup,0,28,Disetujui
+N0005,40,Perempuan,S1,Menikah,Profesional,1,Surabaya,19.8,126.0,36,733.0,Baik,2,15,Disetujui
+N0052,29,Perempuan,S2,Menikah,Karyawan Swasta,0,Yogyakarta,13.2,119.0,24,727.0,Cukup,1,3,Disetujui
+N0336,57,Laki-laki,S1,Menikah,PNS,1,Yogyakarta,15.1,221.0,60,472.0,Buruk,0,7,Ditolak
+N1096,24,Laki-laki,SMA,Menikah,Wiraswasta,1,Medan,7.4,800.0,24,668.0,Cukup,2,0,Ditolak
+N0904,60,Laki-laki,S2,Menikah,Wiraswasta,2,Semarang,13.3,84.0,48,753.0,Baik,1,28,Disetujui
+N0430,53,Laki-laki,S1,Belum Menikah,Karyawan Swasta,1,Yogyakarta,9.8,98.0,48,664.0,Baik,1,19,Disetujui
+N0127,24,Laki-laki,D3,Menikah,PNS,0,Semarang,13.0,51.0,36,654.0,Cukup,0,1,Disetujui
+N0451,64,Laki-laki,S1,Belum Menikah,Buruh,2,Jakarta,6.0,94.0,24,650.0,Baik,1,7,Disetujui
+N0140,40,Laki-laki,SMA,Menikah,Profesional,1,Jakarta,14.5,152.0,48,512.0,Buruk,0,18,Ditolak
+N0002,55,Perempuan,S1,Belum Menikah,Profesional,1,Bandung,14.7,121.0,48,800.0,Baik,1,9,Disetujui
+N0082,40,Laki-laki,S1,Menikah,Karyawan Swasta,0,Jakarta,6.2,222.0,60,759.0,Baik,0,17,Disetujui
+N0742,55,Perempuan,S1,Menikah,PNS,3,Surabaya,9.5,43.0,36,716.0,Baik,1,20,Disetujui
+N0679,44,Perempuan,D3,Menikah,Karyawan Swasta,5,Jakarta,12.2,130.0,48,748.0,Baik,0,13,Disetujui
+N0610,59,Laki-laki,S2,Menikah,Wiraswasta,3,Bandung,21.0,60.0,24,611.0,Cukup,3,24,Disetujui
+N0481,33,Laki-laki,S1,Menikah,Pensiunan,2,Denpasar,11.7,65.0,60,641.0,Cukup,2,9,Disetujui
+N0163,39,Laki-laki,S1,Menikah,Wiraswasta,1,Bandung,12.2,62.0,24,666.0,Cukup,3,5,Ditolak
+N0567,31,Perempuan,D3,Belum Menikah,Wiraswasta,0,Surabaya,8.5,78.0,24,743.0,Baik,2,9,Disetujui
+N0256,27,Laki-laki,S1,Belum Menikah,Karyawan Swasta,0,Surabaya,13.5,299.0,60,775.0,Baik,0,9,Disetujui
+N0170,22,Perempuan,S1,Belum Menikah,Karyawan Swasta,1,Semarang,5.5,23.0,24,467.0,Buruk,2,0,Ditolak
+N0558,43,Laki-laki,S1,Cerai,Pensiunan,3,Medan,3.3,286.0,24,761.0,Baik,0,21,Ditolak
+N1194,43,Laki-laki,S1,Belum Menikah,Karyawan Swasta,4,Jakarta,9.4,85.0,24,517.0,Buruk,1,8,Ditolak
+N0371,36,Laki-laki,S1,Belum Menikah,Karyawan Swasta,1,Surabaya,7.8,239.0,48,486.0,Buruk,1,9,Ditolak
+N0305,45,Perempuan,S1,Belum Menikah,PNS,3,Medan,9.2,45.0,36,842.0,Baik,0,23,Disetujui
+N0650,59,Perempuan,S1,Belum Menikah,Profesional,2,Surabaya,15.7,85.0,48,721.0,Baik,2,5,Disetujui
+N1118,47,Perempuan,S2,Belum Menikah,Karyawan Swasta,1,Denpasar,6.7,82.0,36,752.0,Baik,0,5,Disetujui
+N0222,41,Perempuan,SMA,Belum Menikah,Karyawan Swasta,2,Bandung,10.1,440.0,24,698.0,Cukup,0,11,Ditolak
+N0100,27,Laki-laki,SMA,Menikah,Karyawan Swasta,1,Bandung,9.0,39.0,24,603.0,Cukup,1,9,Ditolak
+N0441,43,Laki-laki,D3,Menikah,Karyawan Swasta,0,Medan,6.8,528.0,36,653.0,Baik,5,28,Ditolak
+N0791,25,Perempuan,S1,Menikah,PNS,2,Jakarta,7.5,56.0,36,767.0,Baik,1,0,Disetujui
+N0325,64,Laki-laki,D3,Belum Menikah,Profesional,1,Surabaya,7.4,194.0,48,578.0,Buruk,1,5,Ditolak
+N0710,41,Perempuan,S1,Belum Menikah,Karyawan Swasta,2,Jakarta,7.2,157.0,12,588.0,Cukup,2,19,Ditolak
+N0133,25,Laki-laki,S1,Menikah,PNS,2,Jakarta,21.8,207.0,48,679.0,Baik,1,0,Disetujui
+N0943,43,Laki-laki,SMA,Menikah,Karyawan Swasta,0,Medan,8.5,39.0,24,721.0,Baik,1,27,Disetujui
+N0851,65,Perempuan,S3,Menikah,Karyawan Swasta,5,Yogyakarta,31.4,107.0,24,650.0,Cukup,1,6,Disetujui
+N0008,52,Laki-laki,S1,Menikah,PNS,2,Makassar,17.2,64.0,36,594.0,Cukup,3,10,Ditolak
+N0207,55,Perempuan,S1,Menikah,Buruh,1,Yogyakarta,5.6,372.0,36,715.0,Baik,0,20,Ditolak
+N1166,25,Laki-laki,S1,Menikah,Pensiunan,0,Makassar,10.1,504.0,24,650.0,Cukup,3,2,Ditolak
+N0629,43,Perempuan,S1,Belum Menikah,Profesional,0,Bandung,15.8,44.0,48,660.0,Cukup,1,4,Disetujui
+N0205,41,Laki-laki,SMA,Cerai,Karyawan Swasta,3,Surabaya,3.5,69.0,60,716.0,Baik,1,9,Disetujui
+N1142,36,Laki-laki,SMA,Menikah,PNS,3,Denpasar,8.8,106.0,12,576.0,Buruk,2,11,Ditolak
+N0778,26,Perempuan,S2,Menikah,Karyawan Swasta,3,Makassar,17.7,204.0,36,460.0,Buruk,2,0,Ditolak
+N1141,60,Laki-laki,S3,Menikah,Karyawan Swasta,2,Jakarta,21.5,99.0,24,675.0,Cukup,2,23,Disetujui
+N0770,37,Laki-laki,S3,Belum Menikah,Wiraswasta,0,Jakarta,24.6,119.0,36,632.0,Cukup,1,3,Disetujui
+N0029,45,Perempuan,S2,Belum Menikah,Wiraswasta,1,Makassar,23.7,38.0,60,641.0,Baik,1,18,Disetujui
+N1062,51,Perempuan,S1,Belum Menikah,Karyawan Swasta,1,Semarang,13.5,250.0,24,641.0,Cukup,1,10,Ditolak
+N0449,44,Perempuan,D3,Menikah,Karyawan Swasta,3,Bandung,10.8,31.0,24,577.0,Buruk,1,8,Ditolak
+N0693,62,Perempuan,SMA,Menikah,Karyawan Swasta,4,Yogyakarta,4.7,23.0,24,484.0,Buruk,4,9,Ditolak
+N0190,34,Perempuan,SMA,Menikah,Wiraswasta,1,Jakarta,7.7,95.0,48,529.0,Cukup,0,7,Disetujui
+N0109,42,Laki-laki,S2,Menikah,Buruh,2,Semarang,3.3,210.0,48,762.0,Baik,4,7,Ditolak
+N0821,22,Perempuan,S2,Belum Menikah,Buruh,0,Surabaya,8.4,46.0,60,711.0,Baik,1,0,Disetujui
+N0853,64,Perempuan,S2,Menikah,Wiraswasta,3,Jakarta,19.1,87.0,24,662.0,Cukup,0,17,Disetujui
+N0229,45,Perempuan,S1,Belum Menikah,Karyawan Swasta,2,Jakarta,6.3,93.0,60,511.0,Buruk,3,9,Ditolak
+N0476,56,Laki-laki,SMA,Menikah,Karyawan Swasta,0,Semarang,9.2,236.0,24,697.0,Baik,0,29,Ditolak
+N0023,29,Perempuan,S1,Menikah,Karyawan Swasta,1,Jakarta,8.6,75.0,48,441.0,Buruk,2,7,Ditolak
+N0820,65,Perempuan,S2,Belum Menikah,Karyawan Swasta,0,Bandung,10.6,38.0,24,816.0,Baik,0,6,Disetujui
+N0571,63,Laki-laki,S1,Belum Menikah,Wiraswasta,1,Bandung,7.0,282.0,36,438.0,Buruk,1,8,Ditolak
+N1114,34,Perempuan,S1,Menikah,Wiraswasta,1,Yogyakarta,7.8,16.0,48,684.0,Cukup,2,7,Disetujui
+N0541,52,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,2,Bandung,5.4,75.0,60,607.0,Cukup,0,20,Disetujui
+N1019,22,Perempuan,S1,Menikah,Karyawan Swasta,1,Semarang,8.2,163.0,48,798.0,Baik,0,0,Disetujui
+N0094,38,Laki-laki,SMA,Cerai,Wiraswasta,1,Jakarta,10.4,58.0,48,742.0,Baik,2,4,Disetujui
+N0555,65,Laki-laki,S1,Menikah,Buruh,0,Medan,7.7,52.0,60,498.0,Buruk,0,20,Ditolak
+N0225,53,Perempuan,S1,Menikah,Wiraswasta,2,Surabaya,8.5,75.0,24,787.0,Baik,2,18,Disetujui
+N0896,48,Perempuan,SMA,Belum Menikah,Wiraswasta,2,Bandung,12.6,41.0,36,518.0,Buruk,1,4,Ditolak
+N0559,56,Laki-laki,S3,Belum Menikah,PNS,1,Denpasar,36.3,349.0,36,630.0,Cukup,1,17,Disetujui
+N0688,47,Laki-laki,S2,Cerai,Wiraswasta,2,Makassar,12.5,85.0,24,772.0,Baik,1,9,Disetujui
+N0676,53,Laki-laki,SMA,Belum Menikah,Wiraswasta,3,Denpasar,9.7,45.0,36,806.0,Baik,1,17,Disetujui
+N0524,58,Laki-laki,SMA,Menikah,Wiraswasta,1,Jakarta,14.2,30.0,60,461.0,Buruk,0,19,Ditolak
+N0949,63,Laki-laki,S1,Belum Menikah,Buruh,1,Yogyakarta,8.6,97.0,36,554.0,Buruk,2,13,Ditolak
+N0453,43,Laki-laki,D3,Menikah,PNS,2,Bandung,15.4,216.0,24,775.0,Baik,0,12,Disetujui
+N0379,38,Laki-laki,D3,Menikah,Wiraswasta,3,Makassar,9.9,108.0,24,615.0,Baik,2,5,Disetujui
+N1000,44,Laki-laki,S1,Menikah,Wiraswasta,5,Denpasar,14.4,416.0,36,580.0,Cukup,2,19,Ditolak
+N0828,61,Laki-laki,D3,Menikah,Karyawan Swasta,1,Makassar,7.0,117.0,36,804.0,Baik,3,8,Disetujui
+N0340,63,Laki-laki,S2,Menikah,Karyawan Swasta,4,Semarang,16.9,166.0,48,719.0,Cukup,2,20,Disetujui
+N0179,61,Perempuan,S1,Menikah,Buruh,2,Jakarta,5.8,56.0,48,471.0,Buruk,1,6,Ditolak
+N0999,64,Perempuan,S1,Menikah,Profesional,4,Jakarta,17.3,53.0,12,799.0,Baik,2,19,Disetujui
+N0071,56,Laki-laki,D3,Menikah,Pensiunan,1,Semarang,6.4,69.0,60,599.0,Cukup,1,19,Disetujui
+N0961,27,Perempuan,S1,Menikah,Pensiunan,0,Medan,6.5,46.0,12,724.0,Baik,1,1,Disetujui
+N1055,24,Perempuan,S1,Belum Menikah,Profesional,2,Surabaya,14.8,55.0,48,620.0,Cukup,1,0,Ditolak
+N0618,32,Perempuan,S1,Menikah,Wiraswasta,0,Jakarta,15.1,24.0,60,818.0,Baik,2,3,Disetujui
+N1132,51,Laki-laki,SMA,Belum Menikah,Profesional,0,Denpasar,6.0,50.0,36,726.0,Baik,0,17,Disetujui
+N0129,46,Laki-laki,SMA,Belum Menikah,Buruh,0,Yogyakarta,3.0,27.0,24,766.0,Cukup,1,22,Disetujui
+N0549,44,Laki-laki,SMA,Menikah,Buruh,3,Surabaya,3.3,23.0,36,481.0,Buruk,1,14,Ditolak
+N0875,52,Laki-laki,S1,Cerai,Pensiunan,2,Medan,9.6,137.0,12,652.0,Baik,1,6,Ditolak
+N0049,51,Perempuan,S1,Cerai,Karyawan Swasta,0,Medan,5.4,119.0,36,513.0,Buruk,0,15,Ditolak
+N0550,51,Perempuan,SMA,Belum Menikah,PNS,3,Semarang,5.6,25.0,36,661.0,Baik,3,4,Disetujui
+N0807,45,Laki-laki,S1,Belum Menikah,Profesional,0,Yogyakarta,24.7,214.0,36,677.0,Cukup,3,23,Disetujui
+N0088,35,Perempuan,SMA,Menikah,Karyawan Swasta,3,Surabaya,9.3,33.0,48,781.0,Baik,1,11,Disetujui
+N0958,49,Laki-laki,S1,Cerai,Wiraswasta,1,Denpasar,11.5,87.0,36,520.0,Buruk,2,22,Ditolak
+N0712,44,Perempuan,S1,Belum Menikah,Karyawan Swasta,2,Semarang,12.3,157.0,24,716.0,Baik,3,13,Disetujui
+N1117,65,Laki-laki,SMA,Belum Menikah,PNS,3,Jakarta,8.0,69.0,36,583.0,Cukup,1,18,Ditolak
+N0870,22,Laki-laki,S1,Menikah,Wiraswasta,1,Bandung,13.3,48.0,48,539.0,Cukup,2,0,Ditolak
+N0479,50,Perempuan,S2,Cerai,PNS,1,Makassar,15.5,87.0,24,614.0,Cukup,0,11,Disetujui
+N0131,46,Laki-laki,S1,Menikah,PNS,0,Bandung,7.6,106.0,24,609.0,Cukup,1,2,Ditolak
+N0569,49,Perempuan,D3,Belum Menikah,Karyawan Swasta,1,Bandung,14.6,204.0,48,783.0,Baik,3,9,Disetujui
+N0992,45,Laki-laki,SMA,Menikah,Wiraswasta,1,Denpasar,11.0,67.0,60,733.0,Baik,0,15,Disetujui
+N0271,43,Perempuan,S2,Cerai,Buruh,0,Denpasar,12.3,113.0,48,639.0,Buruk,0,4,Ditolak
+N0328,22,Perempuan,D3,Belum Menikah,Wiraswasta,1,Surabaya,13.4,80.0,12,587.0,Cukup,1,0,Ditolak
+N1119,53,Perempuan,SMA,Menikah,Karyawan Swasta,3,Surabaya,5.1,25.0,48,698.0,Baik,1,21,Disetujui
+N0806,56,Laki-laki,SMA,Menikah,Karyawan Swasta,0,Surabaya,10.8,48.0,36,757.0,Baik,5,13,Disetujui
+N0494,48,Laki-laki,D3,Belum Menikah,Buruh,2,Surabaya,5.0,150.0,24,656.0,Baik,0,7,Ditolak
+N0957,39,Perempuan,S2,Cerai,Karyawan Swasta,0,Jakarta,12.2,81.0,36,773.0,Baik,0,13,Disetujui
+N1054,64,Laki-laki,D3,Menikah,Profesional,1,Surabaya,10.5,209.0,24,650.0,Cukup,1,5,Ditolak
+N0825,49,Laki-laki,S1,Belum Menikah,Wiraswasta,0,Bandung,22.6,259.0,24,803.0,Baik,1,4,Disetujui
+N0747,44,Laki-laki,S2,Menikah,Wiraswasta,2,Medan,19.2,22.0,24,720.0,Baik,0,19,Disetujui
+N0156,50,Laki-laki,S3,Menikah,Wiraswasta,3,Jakarta,57.1,176.0,36,712.0,Baik,3,28,Disetujui
+N1162,43,Laki-laki,S2,Menikah,PNS,2,Denpasar,15.4,93.0,12,564.0,Buruk,2,1,Ditolak
+N0429,22,Perempuan,SMA,Cerai,Karyawan Swasta,2,Surabaya,3.4,30.0,24,695.0,Baik,1,0,Disetujui
+N1189,46,Perempuan,SMA,Menikah,Karyawan Swasta,2,Denpasar,3.4,69.0,36,609.0,Cukup,2,14,Ditolak
+N1128,49,Perempuan,S1,Menikah,Buruh,2,Denpasar,11.0,64.0,24,484.0,Buruk,1,5,Ditolak
+N0031,41,Perempuan,S1,Belum Menikah,Pensiunan,1,Denpasar,5.9,27.0,36,616.0,Buruk,2,9,Ditolak
+N0620,27,Laki-laki,S2,Cerai,Wiraswasta,2,Bandung,16.2,235.0,36,557.0,Buruk,0,2,Ditolak
+N0450,33,Laki-laki,D3,Belum Menikah,Karyawan Swasta,2,Yogyakarta,10.6,111.0,36,763.0,Baik,1,11,Disetujui
+N0594,65,Laki-laki,SMA,Menikah,Pensiunan,3,Jakarta,3.5,134.0,12,846.0,Baik,1,16,Ditolak
+N0784,26,Perempuan,SMA,Menikah,Karyawan Swasta,1,Surabaya,11.2,133.0,48,686.0,Baik,0,3,Disetujui
+N0195,64,Laki-laki,S1,Belum Menikah,Karyawan Swasta,0,Bandung,7.3,364.0,12,647.0,Cukup,1,16,Ditolak
+N0872,30,Laki-laki,S1,Menikah,Karyawan Swasta,2,Jakarta,14.8,800.0,24,431.0,Buruk,1,3,Ditolak
+N1093,58,Laki-laki,S1,Belum Menikah,Buruh,1,Bandung,6.2,694.0,48,441.0,Buruk,0,27,Ditolak
+N1078,28,Laki-laki,S1,Menikah,Wiraswasta,4,Medan,9.8,168.0,60,578.0,Buruk,0,3,Ditolak
+N1158,59,Perempuan,SMA,Menikah,Karyawan Swasta,2,Jakarta,3.6,309.0,12,531.0,Buruk,1,9,Ditolak
+N0180,43,Perempuan,SMA,Menikah,PNS,0,Makassar,11.1,73.0,24,736.0,Baik,1,1,Disetujui
+N1182,43,Perempuan,D3,Menikah,Wiraswasta,0,Surabaya,19.7,47.0,36,739.0,Baik,0,9,Disetujui
+N0990,56,Laki-laki,D3,Cerai,Wiraswasta,0,Medan,15.2,53.0,48,783.0,Baik,1,24,Disetujui
+N1079,39,Perempuan,S1,Menikah,Karyawan Swasta,1,Semarang,12.5,250.0,36,654.0,Baik,0,14,Disetujui
+N0011,44,Laki-laki,SMA,Menikah,Wiraswasta,2,Semarang,8.9,37.0,48,514.0,Buruk,3,8,Ditolak
+N0355,64,Perempuan,S1,Menikah,Karyawan Swasta,2,Jakarta,14.3,70.0,60,762.0,Baik,1,15,Disetujui
+N0068,37,Perempuan,SMA,Menikah,Profesional,2,Bandung,11.2,12.0,24,693.0,Cukup,0,11,Disetujui
+N0616,49,Laki-laki,SMA,Belum Menikah,PNS,1,Surabaya,5.3,93.0,36,762.0,Baik,1,15,Disetujui
+N0210,56,Perempuan,S1,Menikah,Karyawan Swasta,1,Semarang,17.3,65.0,36,727.0,Baik,1,1,Disetujui
+N0146,59,Laki-laki,S2,Belum Menikah,Pensiunan,3,Makassar,8.4,233.0,36,461.0,Buruk,2,17,Ditolak
+N0440,38,Laki-laki,S1,Belum Menikah,Karyawan Swasta,2,Surabaya,26.6,64.0,36,698.0,Cukup,1,15,Disetujui
+N0284,43,Perempuan,SMA,Menikah,Karyawan Swasta,1,Yogyakarta,4.5,54.0,60,748.0,Cukup,1,9,Disetujui
+N0972,39,Perempuan,S1,Menikah,Wiraswasta,1,Bandung,11.2,142.0,24,740.0,Baik,0,12,Disetujui
+N0882,59,Laki-laki,S2,Cerai,Wiraswasta,1,Medan,21.9,86.0,36,779.0,Baik,0,26,Disetujui
+N0797,64,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,0,Medan,5.1,83.0,60,689.0,Baik,1,23,Disetujui
+N0093,58,Laki-laki,S1,Belum Menikah,PNS,0,Medan,7.8,109.0,24,512.0,Buruk,1,23,Ditolak
+N1121,21,Laki-laki,S3,Cerai,PNS,1,Makassar,26.6,30.0,24,765.0,Baik,1,0,Disetujui
+N0215,54,Laki-laki,S1,Menikah,Karyawan Swasta,1,Jakarta,7.3,48.0,48,462.0,Buruk,3,8,Ditolak
+N0360,54,Laki-laki,SMA,Belum Menikah,Wiraswasta,1,Jakarta,4.0,104.0,24,691.0,Baik,1,8,Ditolak
+N0686,57,Perempuan,D3,Menikah,Buruh,0,Denpasar,3.0,69.0,60,709.0,Baik,0,9,Disetujui
+N0858,23,Laki-laki,S1,Menikah,Wiraswasta,0,Makassar,16.1,106.0,36,767.0,Baik,1,0,Disetujui
+N0196,24,Laki-laki,S1,Menikah,Karyawan Swasta,4,Surabaya,10.4,142.0,36,679.0,Baik,4,0,Disetujui
+N0297,59,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,0,Semarang,8.8,312.0,36,764.0,Baik,3,9,Ditolak
+N1068,49,Laki-laki,S1,Belum Menikah,Buruh,2,Denpasar,8.6,117.0,36,724.0,Baik,1,12,Disetujui
+N0408,43,Laki-laki,S1,Menikah,Karyawan Swasta,0,Surabaya,14.7,123.0,60,706.0,Baik,2,0,Disetujui
+N0523,29,Perempuan,S1,Menikah,Karyawan Swasta,4,Makassar,17.4,71.0,12,689.0,Baik,2,6,Disetujui
+N1036,54,Laki-laki,S1,Menikah,Wiraswasta,1,Jakarta,17.1,44.0,24,601.0,Cukup,0,23,Disetujui
+N0361,59,Laki-laki,S1,Menikah,Pensiunan,2,Yogyakarta,5.8,118.0,24,705.0,Baik,0,4,Ditolak
+N0621,43,Laki-laki,SMA,Belum Menikah,Wiraswasta,3,Yogyakarta,8.6,76.0,24,515.0,Cukup,1,13,Disetujui
+N0947,64,Laki-laki,SMA,Menikah,Buruh,3,Surabaya,10.7,31.0,60,724.0,Baik,0,11,Disetujui
+N0503,64,Perempuan,S1,Menikah,Karyawan Swasta,0,Medan,10.3,69.0,48,595.0,Cukup,5,24,Ditolak
+N1113,29,Perempuan,S1,Belum Menikah,Karyawan Swasta,2,Semarang,13.3,132.0,12,661.0,Cukup,1,3,Ditolak
+N0386,26,Perempuan,SMA,Belum Menikah,Profesional,2,Makassar,12.3,91.0,36,636.0,Cukup,2,0,Ditolak
+N0189,31,Perempuan,S3,Menikah,Profesional,1,Bandung,30.6,216.0,48,627.0,Cukup,0,3,Disetujui
+N0564,29,Laki-laki,S2,Menikah,Wiraswasta,1,Semarang,15.3,66.0,48,773.0,Baik,1,2,Disetujui
+N0998,37,Laki-laki,D3,Menikah,Karyawan Swasta,5,Semarang,4.4,58.0,60,769.0,Baik,1,8,Disetujui
+N0087,25,Laki-laki,SMA,Menikah,Buruh,1,Yogyakarta,6.0,62.0,36,736.0,Baik,1,0,Disetujui
+N0035,60,Laki-laki,SMA,Cerai,PNS,0,Surabaya,20.4,86.0,60,492.0,Buruk,1,29,Ditolak
+N0200,64,Perempuan,S1,Cerai,Profesional,1,Jakarta,16.3,239.0,36,613.0,Cukup,2,27,Ditolak
+N0588,25,Perempuan,SMA,Menikah,Profesional,1,Bandung,5.5,131.0,48,498.0,Buruk,0,0,Ditolak
+N1069,36,Laki-laki,S2,Cerai,Buruh,2,Bandung,6.4,23.0,36,644.0,Baik,1,10,Disetujui
+N1100,40,Perempuan,S1,Cerai,PNS,2,Semarang,9.0,306.0,48,663.0,Buruk,3,9,Ditolak
+N0348,63,Perempuan,S3,Belum Menikah,Karyawan Swasta,1,Makassar,18.8,125.0,24,632.0,Baik,0,2,Disetujui
+N0412,31,Perempuan,S1,Menikah,Karyawan Swasta,2,Bandung,11.8,49.0,24,661.0,Cukup,1,5,Disetujui
+N0401,65,Laki-laki,SMA,Menikah,Wiraswasta,0,Jakarta,6.9,60.0,48,748.0,Baik,1,26,Disetujui
+N0046,64,Perempuan,S1,Cerai,Karyawan Swasta,2,Jakarta,11.3,31.0,36,676.0,Baik,1,21,Disetujui
+N0510,31,Laki-laki,S2,Menikah,Karyawan Swasta,1,Jakarta,8.2,76.0,24,736.0,Baik,1,7,Disetujui
+N1031,42,Laki-laki,SMA,Menikah,Profesional,3,Semarang,7.5,105.0,36,684.0,Baik,1,6,Disetujui
+N0987,48,Laki-laki,S1,Menikah,PNS,2,Jakarta,15.6,137.0,24,715.0,Cukup,1,21,Disetujui
+N0547,40,Perempuan,S2,Menikah,Karyawan Swasta,1,Makassar,10.5,81.0,60,390.0,Buruk,1,9,Ditolak
+N0834,27,Laki-laki,S1,Menikah,Wiraswasta,2,Medan,6.8,76.0,24,689.0,Baik,0,1,Disetujui
+N0944,42,Laki-laki,S1,Belum Menikah,Buruh,1,Makassar,10.6,50.0,48,806.0,Baik,1,10,Disetujui
+N0001,25,Laki-laki,S1,Belum Menikah,Karyawan Swasta,1,Jakarta,10.6,43.0,60,819.0,Baik,0,3,Disetujui
+N0852,57,Perempuan,S1,Menikah,Karyawan Swasta,0,Medan,11.2,165.0,60,828.0,Baik,3,22,Disetujui
+N0551,57,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,1,Medan,7.6,14.0,60,543.0,Buruk,1,12,Ditolak
+N0424,47,Laki-laki,SMA,Menikah,Buruh,0,Bandung,3.3,79.0,36,604.0,Buruk,2,7,Ditolak
+N0465,21,Laki-laki,S1,Belum Menikah,Wiraswasta,1,Semarang,9.2,117.0,24,794.0,Baik,3,0,Disetujui
+N1077,53,Perempuan,D3,Belum Menikah,Wiraswasta,1,Jakarta,8.2,31.0,36,783.0,Baik,3,20,Disetujui
+N0604,27,Perempuan,S2,Menikah,Karyawan Swasta,4,Jakarta,12.7,33.0,24,759.0,Baik,2,2,Disetujui
+N0785,42,Perempuan,SMA,Menikah,Karyawan Swasta,5,Surabaya,4.5,83.0,36,586.0,Buruk,2,20,Ditolak
+N0102,29,Laki-laki,SMA,Menikah,Wiraswasta,1,Jakarta,9.2,65.0,36,716.0,Baik,0,6,Disetujui
+N0448,64,Perempuan,S1,Belum Menikah,Karyawan Swasta,0,Jakarta,10.3,74.0,36,723.0,Baik,3,19,Disetujui
+N0040,49,Perempuan,S1,Belum Menikah,Wiraswasta,2,Medan,12.3,215.0,48,717.0,Baik,2,26,Disetujui
+N0507,44,Laki-laki,S1,Menikah,PNS,3,Surabaya,19.2,510.0,24,696.0,Baik,3,9,Ditolak
+N0017,44,Perempuan,S1,Cerai,Wiraswasta,0,Semarang,12.2,379.0,36,451.0,Buruk,1,4,Ditolak
+N0753,24,Laki-laki,S1,Menikah,Karyawan Swasta,0,Jakarta,9.5,62.0,24,561.0,Buruk,1,0,Ditolak
+N0428,57,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,1,Yogyakarta,7.0,49.0,24,628.0,Cukup,0,22,Disetujui
+N0149,57,Perempuan,SMA,Belum Menikah,Wiraswasta,3,Makassar,6.3,160.0,60,667.0,Baik,1,29,Disetujui
+N0754,63,Laki-laki,S2,Belum Menikah,Pensiunan,3,Jakarta,8.7,349.0,36,744.0,Baik,1,9,Ditolak
+N0178,28,Laki-laki,S2,Menikah,Karyawan Swasta,3,Surabaya,16.6,216.0,60,479.0,Buruk,2,6,Ditolak
+N0137,48,Laki-laki,S1,Belum Menikah,PNS,0,Semarang,27.2,32.0,12,683.0,Cukup,0,9,Disetujui
+N0337,64,Perempuan,D3,Menikah,Wiraswasta,0,Semarang,12.3,254.0,24,592.0,Cukup,0,23,Ditolak
+N0746,37,Perempuan,D3,Belum Menikah,Profesional,3,Yogyakarta,8.2,26.0,36,543.0,Buruk,2,11,Ditolak
+N0119,32,Laki-laki,S1,Menikah,Buruh,0,Surabaya,5.1,60.0,36,716.0,Baik,1,3,Disetujui
+N0854,31,Perempuan,S1,Menikah,PNS,2,Makassar,9.5,129.0,36,808.0,Baik,1,6,Disetujui
+N0734,55,Perempuan,SMA,Menikah,Karyawan Swasta,1,Medan,6.4,45.0,48,682.0,Cukup,0,25,Disetujui
+N1137,53,Perempuan,D3,Menikah,Wiraswasta,2,Semarang,13.8,52.0,24,749.0,Baik,2,28,Disetujui
+N0718,43,Laki-laki,SMA,Belum Menikah,Wiraswasta,1,Surabaya,6.2,244.0,60,677.0,Baik,2,18,Disetujui
+N0065,39,Laki-laki,S1,Menikah,Wiraswasta,2,Surabaya,16.8,283.0,48,607.0,Cukup,0,3,Ditolak
+N0779,33,Perempuan,SMA,Belum Menikah,Profesional,2,Jakarta,9.4,86.0,24,698.0,Baik,2,7,Disetujui
+N0624,43,Perempuan,SMA,Belum Menikah,Wiraswasta,0,Surabaya,11.1,88.0,48,666.0,Baik,3,12,Disetujui
+N0113,46,Perempuan,S2,Belum Menikah,Karyawan Swasta,2,Jakarta,18.6,61.0,24,646.0,Cukup,1,20,Disetujui
+N0193,43,Laki-laki,D3,Menikah,Wiraswasta,2,Surabaya,5.7,67.0,48,506.0,Cukup,2,10,Ditolak
+N0769,27,Laki-laki,S1,Belum Menikah,PNS,1,Semarang,19.4,37.0,12,699.0,Cukup,1,1,Disetujui
+N0394,47,Laki-laki,SMA,Menikah,Karyawan Swasta,2,Makassar,5.6,88.0,36,717.0,Cukup,1,19,Disetujui
+N0657,55,Perempuan,S1,Menikah,Karyawan Swasta,1,Jakarta,16.4,67.0,12,716.0,Cukup,0,13,Disetujui
+N0563,43,Perempuan,S1,Cerai,Buruh,1,Semarang,3.9,73.0,36,436.0,Buruk,3,3,Ditolak
+N1159,43,Perempuan,SMA,Menikah,Karyawan Swasta,0,Jakarta,7.5,26.0,36,681.0,Baik,4,13,Disetujui
+N0737,53,Laki-laki,S1,Menikah,Karyawan Swasta,1,Jakarta,13.8,238.0,36,695.0,Cukup,3,23,Disetujui
+N1006,62,Laki-laki,SMA,Menikah,PNS,5,Semarang,5.5,41.0,36,532.0,Buruk,2,21,Ditolak
+N0042,55,Perempuan,S1,Cerai,Profesional,1,Surabaya,6.7,96.0,24,650.0,Baik,0,25,Disetujui
+N0212,53,Laki-laki,D3,Belum Menikah,PNS,1,Makassar,22.4,103.0,48,734.0,Baik,2,11,Disetujui
+N0187,28,Perempuan,D3,Belum Menikah,Karyawan Swasta,1,Bandung,10.9,159.0,24,780.0,Baik,2,1,Disetujui
+N0125,59,Laki-laki,SMA,Menikah,Karyawan Swasta,4,Semarang,5.9,295.0,36,745.0,Baik,3,14,Ditolak
+N0359,25,Laki-laki,S1,Belum Menikah,PNS,3,Jakarta,8.6,624.0,48,738.0,Baik,1,0,Ditolak
+N0153,62,Laki-laki,S1,Menikah,Wiraswasta,0,Jakarta,8.7,59.0,36,653.0,Baik,2,4,Disetujui
+N0298,40,Laki-laki,S1,Menikah,Wiraswasta,0,Jakarta,15.1,79.0,36,731.0,Baik,1,15,Disetujui
+N1111,49,Perempuan,S1,Menikah,Karyawan Swasta,2,Makassar,7.4,118.0,36,571.0,Buruk,0,14,Ditolak
+N1066,38,Perempuan,SMA,Belum Menikah,PNS,3,Surabaya,13.6,108.0,36,616.0,Cukup,2,1,Disetujui
+N0247,55,Laki-laki,S1,Menikah,Karyawan Swasta,0,Semarang,15.5,320.0,48,596.0,Cukup,0,26,Ditolak
+N0006,59,Perempuan,S1,Belum Menikah,Profesional,2,Makassar,21.1,42.0,48,642.0,Baik,0,9,Disetujui
+N0832,31,Perempuan,S1,Belum Menikah,Buruh,0,Semarang,7.1,162.0,36,599.0,Baik,0,6,Ditolak
+N0047,41,Laki-laki,D3,Menikah,Buruh,0,Surabaya,3.5,140.0,36,491.0,Buruk,0,7,Ditolak
+N0302,58,Laki-laki,SMA,Menikah,Karyawan Swasta,1,Jakarta,4.9,230.0,12,739.0,Baik,0,13,Ditolak
+N1015,44,Perempuan,SMA,Menikah,Karyawan Swasta,2,Jakarta,10.6,56.0,60,746.0,Baik,1,15,Disetujui
+N0466,64,Perempuan,SMA,Belum Menikah,Karyawan Swasta,0,Jakarta,7.2,71.0,36,721.0,Baik,2,24,Disetujui
+N0411,28,Perempuan,S3,Belum Menikah,Buruh,3,Surabaya,10.8,131.0,48,745.0,Baik,1,4,Disetujui
+N1030,36,Laki-laki,S1,Cerai,Karyawan Swasta,3,Jakarta,14.5,25.0,48,605.0,Cukup,2,10,Disetujui
+N0935,43,Laki-laki,D3,Menikah,Buruh,2,Denpasar,5.9,65.0,24,596.0,Baik,2,15,Disetujui
+N1178,29,Laki-laki,S1,Cerai,Profesional,0,Yogyakarta,23.9,73.0,48,805.0,Baik,2,7,Disetujui
+N1076,28,Perempuan,SMA,Menikah,Profesional,1,Jakarta,13.2,61.0,60,695.0,Cukup,0,6,Disetujui
+N0675,48,Laki-laki,D3,Belum Menikah,Wiraswasta,0,Makassar,9.0,55.0,36,828.0,Baik,0,18,Disetujui
+N1034,43,Perempuan,S2,Menikah,Karyawan Swasta,2,Jakarta,17.4,101.0,48,503.0,Buruk,1,5,Ditolak
+N0727,43,Laki-laki,S2,Cerai,Karyawan Swasta,1,Yogyakarta,21.7,33.0,48,736.0,Baik,0,19,Disetujui
+N0817,22,Laki-laki,SMA,Menikah,Wiraswasta,1,Semarang,8.7,44.0,48,661.0,Buruk,0,0,Ditolak
+N0989,32,Laki-laki,S2,Cerai,Buruh,3,Bandung,10.6,46.0,12,657.0,Baik,2,10,Disetujui
+N0750,28,Laki-laki,D3,Menikah,Wiraswasta,1,Surabaya,12.1,18.0,60,484.0,Buruk,2,3,Ditolak
+N0313,26,Perempuan,SMA,Menikah,Buruh,2,Medan,3.8,43.0,24,661.0,Buruk,0,0,Ditolak
+N0265,65,Laki-laki,S1,Menikah,Karyawan Swasta,0,Medan,12.4,78.0,60,580.0,Cukup,0,1,Ditolak
+N0388,58,Laki-laki,S1,Cerai,Buruh,2,Bandung,4.1,174.0,36,765.0,Baik,2,3,Ditolak
+N0728,24,Perempuan,S2,Menikah,Wiraswasta,1,Yogyakarta,7.3,182.0,12,577.0,Cukup,3,0,Ditolak
+N0171,25,Laki-laki,D3,Cerai,Karyawan Swasta,3,Jakarta,8.1,52.0,60,778.0,Baik,0,2,Disetujui
+N0248,39,Perempuan,S1,Belum Menikah,Wiraswasta,4,Bandung,8.4,178.0,48,567.0,Cukup,1,16,Ditolak
+N1040,58,Perempuan,SMA,Belum Menikah,Karyawan Swasta,0,Semarang,6.8,35.0,24,686.0,Cukup,4,21,Ditolak
+N0230,28,Laki-laki,S1,Menikah,PNS,0,Jakarta,9.3,86.0,36,783.0,Baik,0,2,Disetujui
+N0117,22,Perempuan,S1,Menikah,Buruh,3,Surabaya,8.1,13.0,60,704.0,Baik,2,0,Disetujui
+N0826,25,Laki-laki,S1,Menikah,Wiraswasta,1,Semarang,7.9,238.0,12,533.0,Buruk,0,1,Ditolak
+N0574,23,Perempuan,D3,Menikah,Karyawan Swasta,1,Surabaya,10.6,26.0,12,800.0,Baik,2,0,Disetujui
+N1187,27,Laki-laki,SMA,Menikah,PNS,1,Bandung,11.8,83.0,24,610.0,Cukup,1,3,Disetujui
+N0421,62,Perempuan,D3,Belum Menikah,Karyawan Swasta,2,Bandung,8.4,496.0,48,470.0,Buruk,1,5,Ditolak
+N0597,47,Laki-laki,D3,Belum Menikah,Karyawan Swasta,2,Medan,6.6,31.0,60,686.0,Baik,1,18,Disetujui
+N0916,41,Laki-laki,SMA,Menikah,Buruh,0,Jakarta,3.4,104.0,60,690.0,Baik,4,16,Ditolak
+N0528,27,Perempuan,SMA,Menikah,Karyawan Swasta,0,Semarang,4.1,16.0,48,773.0,Baik,0,2,Disetujui
+N0950,33,Laki-laki,SMA,Menikah,Karyawan Swasta,2,Surabaya,8.0,71.0,24,480.0,Buruk,1,8,Ditolak
+N0079,46,Laki-laki,S1,Belum Menikah,Karyawan Swasta,2,Semarang,19.7,66.0,36,622.0,Cukup,2,21,Disetujui
+N0110,52,Laki-laki,S2,Cerai,Wiraswasta,3,Bandung,17.7,46.0,36,640.0,Buruk,1,21,Disetujui
+N0458,49,Laki-laki,S1,Cerai,PNS,1,Denpasar,9.5,49.0,48,731.0,Baik,2,13,Disetujui
+N0783,26,Laki-laki,SMA,Cerai,Karyawan Swasta,1,Semarang,9.1,96.0,48,510.0,Cukup,2,2,Ditolak
+N0928,34,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,2,Medan,9.4,133.0,48,708.0,Baik,0,7,Disetujui
+N0112,56,Perempuan,SMA,Menikah,Profesional,2,Denpasar,20.8,56.0,36,680.0,Baik,0,8,Disetujui
+N0615,51,Laki-laki,S1,Belum Menikah,Karyawan Swasta,2,Yogyakarta,14.9,183.0,24,589.0,Cukup,1,2,Ditolak
+N1193,28,Laki-laki,D3,Menikah,Pensiunan,0,Jakarta,6.7,25.0,48,543.0,Cukup,1,3,Ditolak
+N0587,52,Laki-laki,S3,Menikah,Karyawan Swasta,0,Medan,20.0,33.0,48,697.0,Baik,3,19,Disetujui
+N0669,62,Laki-laki,S1,Menikah,Karyawan Swasta,4,Makassar,15.3,229.0,24,548.0,Cukup,0,13,Ditolak
+N0566,31,Perempuan,S1,Belum Menikah,Karyawan Swasta,4,Jakarta,11.8,41.0,24,491.0,Buruk,2,7,Ditolak
+N0607,35,Perempuan,S1,Menikah,Karyawan Swasta,2,Surabaya,6.3,106.0,60,507.0,Buruk,2,11,Ditolak
+N1180,22,Laki-laki,S2,Belum Menikah,Profesional,2,Semarang,22.5,95.0,60,802.0,Baik,2,0,Disetujui
+N0103,57,Perempuan,S2,Cerai,Pensiunan,3,Bandung,8.3,109.0,60,665.0,Cukup,1,6,Ditolak
+N0455,47,Laki-laki,S2,Cerai,Karyawan Swasta,0,Denpasar,13.6,117.0,24,706.0,Baik,0,19,Disetujui
+N1082,43,Perempuan,SMA,Menikah,Karyawan Swasta,2,Denpasar,8.9,127.0,12,635.0,Cukup,1,5,Ditolak
+N0847,28,Perempuan,S1,Belum Menikah,Karyawan Swasta,0,Makassar,7.3,68.0,48,616.0,Cukup,1,5,Ditolak
+N0819,50,Perempuan,S2,Belum Menikah,Wiraswasta,1,Jakarta,12.9,97.0,36,597.0,Cukup,1,5,Ditolak
+N0707,21,Perempuan,S2,Menikah,Buruh,1,Bandung,7.7,111.0,48,678.0,Cukup,1,0,Disetujui
+N0636,51,Laki-laki,S2,Menikah,Profesional,0,Surabaya,28.3,214.0,24,677.0,Cukup,1,25,Disetujui
+N0591,57,Laki-laki,S1,Belum Menikah,Wiraswasta,4,Semarang,11.3,37.0,48,620.0,Cukup,1,2,Disetujui
+N1163,59,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,2,Bandung,6.3,77.0,36,475.0,Buruk,1,17,Ditolak
+N0069,24,Laki-laki,S1,Belum Menikah,Profesional,0,Jakarta,24.6,65.0,12,633.0,Baik,2,1,Disetujui
+N0586,62,Perempuan,S1,Belum Menikah,Buruh,1,Bandung,3.7,11.0,36,661.0,Baik,1,26,Disetujui
+N1145,35,Perempuan,D3,Menikah,Karyawan Swasta,3,Jakarta,12.6,102.0,24,828.0,Baik,1,8,Disetujui
+N1013,32,Perempuan,S1,Cerai,Pensiunan,1,Jakarta,11.7,56.0,36,631.0,Baik,0,7,Disetujui
+N0690,56,Perempuan,S1,Menikah,Pensiunan,1,Jakarta,14.0,39.0,36,576.0,Baik,1,24,Disetujui
+N0611,58,Perempuan,S1,Belum Menikah,Wiraswasta,2,Bandung,19.9,96.0,48,510.0,Buruk,1,24,Ditolak
+N0253,29,Perempuan,S1,Menikah,Wiraswasta,1,Makassar,19.2,52.0,48,735.0,Baik,2,3,Disetujui
+N0844,22,Laki-laki,S2,Belum Menikah,Karyawan Swasta,1,Surabaya,10.6,178.0,48,654.0,Baik,3,0,Disetujui
+N1190,21,Laki-laki,S1,Menikah,Buruh,2,Bandung,5.3,21.0,60,767.0,Baik,1,0,Disetujui
+N0135,56,Laki-laki,S1,Belum Menikah,Buruh,4,Semarang,8.7,85.0,12,661.0,Cukup,0,11,Ditolak
+N0592,61,Laki-laki,S1,Menikah,PNS,4,Surabaya,15.3,192.0,24,721.0,Baik,2,13,Disetujui
+N0805,54,Laki-laki,SMA,Menikah,PNS,2,Medan,10.6,169.0,36,496.0,Buruk,4,20,Ditolak
+N0128,55,Laki-laki,S1,Menikah,Profesional,2,Medan,11.4,36.0,24,567.0,Baik,3,18,Disetujui
+N1110,23,Laki-laki,S1,Menikah,Karyawan Swasta,2,Yogyakarta,10.7,60.0,36,456.0,Buruk,1,0,Ditolak
+N0787,22,Perempuan,D3,Cerai,Wiraswasta,1,Jakarta,9.1,122.0,60,759.0,Baik,2,0,Disetujui
+N0238,40,Perempuan,SMA,Menikah,Karyawan Swasta,1,Yogyakarta,13.1,322.0,12,750.0,Baik,1,2,Ditolak
+N1104,27,Perempuan,S3,Menikah,Karyawan Swasta,3,Yogyakarta,17.2,77.0,60,490.0,Buruk,1,0,Ditolak
+N0756,40,Laki-laki,S1,Menikah,Karyawan Swasta,1,Jakarta,16.7,79.0,36,635.0,Cukup,2,13,Disetujui
+N1094,38,Perempuan,S1,Menikah,Wiraswasta,1,Semarang,7.0,66.0,24,521.0,Buruk,0,11,Ditolak
+N0809,38,Perempuan,S1,Cerai,Wiraswasta,3,Jakarta,10.6,246.0,48,663.0,Baik,4,12,Disetujui
+N0056,22,Laki-laki,S3,Menikah,PNS,4,Semarang,16.8,88.0,60,566.0,Cukup,2,0,Ditolak
+N0939,41,Perempuan,S1,Menikah,Karyawan Swasta,2,Semarang,15.6,93.0,24,795.0,Baik,4,18,Disetujui
+N0106,56,Laki-laki,S1,Belum Menikah,PNS,2,Semarang,10.6,158.0,36,683.0,Cukup,1,15,Disetujui
+N0164,39,Laki-laki,SMA,Belum Menikah,Pensiunan,1,Surabaya,4.9,313.0,48,727.0,Baik,1,17,Ditolak
+N1088,65,Laki-laki,S2,Belum Menikah,Wiraswasta,3,Denpasar,22.4,91.0,60,501.0,Buruk,1,13,Ditolak
+N1083,64,Perempuan,S1,Belum Menikah,Pensiunan,2,Makassar,11.5,89.0,60,550.0,Buruk,1,9,Ditolak
+N0722,62,Laki-laki,S1,Menikah,Karyawan Swasta,2,Semarang,14.6,170.0,60,629.0,Baik,3,15,Disetujui
+N0711,51,Laki-laki,S1,Belum Menikah,PNS,2,Bandung,10.6,60.0,36,453.0,Buruk,1,20,Ditolak
+N0983,45,Laki-laki,S1,Belum Menikah,PNS,1,Surabaya,14.8,56.0,24,604.0,Cukup,2,17,Disetujui
+N0724,26,Perempuan,S1,Menikah,Buruh,0,Jakarta,6.3,14.0,24,648.0,Cukup,1,2,Disetujui
+N0519,42,Laki-laki,S1,Menikah,Wiraswasta,1,Yogyakarta,9.0,58.0,36,677.0,Baik,1,2,Disetujui
+N0881,24,Laki-laki,S2,Belum Menikah,Karyawan Swasta,1,Jakarta,14.8,196.0,36,756.0,Baik,0,2,Disetujui
+N0808,25,Perempuan,SMA,Belum Menikah,Wiraswasta,0,Semarang,5.5,214.0,36,557.0,Buruk,0,0,Ditolak
+N1155,34,Laki-laki,S1,Belum Menikah,Buruh,2,Bandung,4.3,336.0,60,654.0,Cukup,0,12,Ditolak
+N0556,43,Laki-laki,S1,Belum Menikah,Wiraswasta,4,Surabaya,7.0,57.0,48,617.0,Cukup,1,12,Disetujui
+N0544,28,Perempuan,D3,Menikah,Karyawan Swasta,3,Jakarta,6.8,111.0,36,717.0,Baik,0,1,Disetujui
+N0970,22,Laki-laki,S3,Menikah,Karyawan Swasta,4,Medan,26.7,113.0,24,618.0,Buruk,2,0,Ditolak
+N0582,58,Laki-laki,SMA,Belum Menikah,Pensiunan,3,Yogyakarta,4.1,223.0,48,712.0,Baik,0,6,Ditolak
+N0666,52,Perempuan,S1,Menikah,PNS,4,Medan,13.9,129.0,60,586.0,Cukup,0,29,Disetujui
+N0895,54,Laki-laki,S2,Cerai,Pensiunan,1,Medan,13.0,397.0,36,693.0,Baik,1,5,Disetujui
+N0407,40,Perempuan,S1,Menikah,Buruh,1,Semarang,9.2,94.0,48,821.0,Baik,2,17,Disetujui
+N1057,41,Laki-laki,S1,Menikah,Wiraswasta,1,Bandung,7.7,46.0,36,667.0,Baik,0,18,Disetujui
+N0945,26,Laki-laki,D3,Menikah,Karyawan Swasta,1,Bandung,13.0,66.0,36,733.0,Baik,1,0,Disetujui
+N0447,35,Laki-laki,D3,Belum Menikah,Buruh,1,Denpasar,5.2,26.0,24,690.0,Cukup,1,9,Disetujui
+N0480,25,Laki-laki,S1,Menikah,Buruh,1,Bandung,7.0,56.0,36,801.0,Baik,0,1,Disetujui
+N0761,28,Perempuan,S1,Cerai,Karyawan Swasta,4,Bandung,4.0,99.0,24,663.0,Baik,0,2,Ditolak
+N1073,55,Perempuan,SMA,Menikah,Profesional,1,Jakarta,5.8,56.0,60,700.0,Baik,0,6,Disetujui
+N0262,28,Perempuan,D3,Belum Menikah,Karyawan Swasta,1,Jakarta,4.7,92.0,36,578.0,Cukup,3,1,Ditolak
+N0295,45,Laki-laki,S2,Menikah,Karyawan Swasta,0,Jakarta,8.0,45.0,48,746.0,Baik,2,8,Disetujui
+N0801,21,Laki-laki,S1,Menikah,Karyawan Swasta,2,Jakarta,14.2,126.0,36,616.0,Cukup,2,0,Ditolak
+N0871,41,Perempuan,S1,Menikah,Karyawan Swasta,1,Bandung,11.9,273.0,48,512.0,Buruk,1,7,Ditolak
+N0617,32,Laki-laki,SMA,Menikah,Karyawan Swasta,0,Jakarta,3.8,76.0,60,766.0,Baik,1,6,Disetujui
+N0714,55,Laki-laki,SMA,Belum Menikah,Pensiunan,3,Makassar,5.2,118.0,60,673.0,Baik,0,3,Disetujui
+N0160,56,Laki-laki,S1,Menikah,Profesional,1,Bandung,21.8,319.0,60,617.0,Cukup,3,4,Ditolak
+N0672,48,Laki-laki,S2,Belum Menikah,Karyawan Swasta,1,Jakarta,14.4,64.0,24,607.0,Cukup,1,22,Disetujui
+N0334,58,Perempuan,S2,Menikah,Wiraswasta,1,Jakarta,14.8,57.0,36,675.0,Cukup,3,9,Disetujui
+N0280,24,Perempuan,SMA,Menikah,Pensiunan,2,Bandung,5.1,459.0,36,752.0,Baik,4,0,Ditolak
+N1192,33,Laki-laki,S2,Belum Menikah,Karyawan Swasta,3,Denpasar,14.1,73.0,60,464.0,Buruk,1,8,Ditolak
+N0534,33,Perempuan,SMA,Menikah,Karyawan Swasta,3,Makassar,6.7,226.0,60,679.0,Baik,0,11,Disetujui
+N1035,23,Perempuan,S1,Menikah,Wiraswasta,1,Medan,14.2,104.0,48,693.0,Baik,5,1,Disetujui
+N0015,53,Laki-laki,S2,Menikah,Wiraswasta,1,Jakarta,11.6,81.0,36,780.0,Baik,1,9,Disetujui
+N1135,48,Perempuan,S1,Menikah,Karyawan Swasta,1,Jakarta,9.9,44.0,36,586.0,Buruk,2,26,Ditolak
+N0393,37,Perempuan,S1,Cerai,Profesional,3,Denpasar,14.7,182.0,48,652.0,Baik,0,11,Disetujui
+N0423,55,Perempuan,S1,Belum Menikah,Wiraswasta,2,Medan,15.8,67.0,48,670.0,Baik,3,7,Disetujui
+N1043,39,Laki-laki,S1,Menikah,Karyawan Swasta,1,Makassar,9.2,196.0,60,714.0,Baik,3,6,Disetujui
+N0976,31,Laki-laki,D3,Menikah,PNS,0,Yogyakarta,9.3,398.0,24,661.0,Baik,0,2,Ditolak
+N0912,29,Laki-laki,SMA,Menikah,Wiraswasta,1,Makassar,12.6,20.0,12,662.0,Baik,3,7,Disetujui
+N0764,63,Laki-laki,S1,Menikah,Karyawan Swasta,1,Jakarta,8.3,38.0,48,501.0,Cukup,3,7,Ditolak
+N0237,50,Perempuan,S2,Cerai,Profesional,2,Makassar,14.0,54.0,12,765.0,Baik,0,6,Disetujui
+N0467,28,Laki-laki,S1,Belum Menikah,Profesional,3,Medan,23.6,72.0,12,560.0,Cukup,1,1,Ditolak
+N0292,33,Perempuan,S2,Belum Menikah,Buruh,1,Jakarta,4.9,116.0,24,583.0,Cukup,4,8,Ditolak
+N0234,55,Perempuan,S1,Menikah,Karyawan Swasta,1,Semarang,10.6,74.0,60,670.0,Baik,2,26,Disetujui
+N0878,54,Perempuan,S2,Cerai,Karyawan Swasta,1,Surabaya,12.1,37.0,48,695.0,Baik,1,7,Disetujui
+N0410,21,Laki-laki,SMA,Menikah,Pensiunan,0,Bandung,7.9,74.0,60,661.0,Buruk,5,0,Ditolak
+N0868,58,Laki-laki,SMA,Menikah,Karyawan Swasta,1,Semarang,5.7,150.0,60,575.0,Buruk,1,22,Ditolak
+N0320,43,Perempuan,SMA,Menikah,Karyawan Swasta,0,Jakarta,6.3,33.0,24,769.0,Baik,2,9,Disetujui
+N0942,39,Laki-laki,S2,Menikah,Wiraswasta,3,Denpasar,26.4,85.0,12,718.0,Baik,0,7,Disetujui
+N1085,30,Laki-laki,S1,Menikah,Karyawan Swasta,2,Semarang,12.2,53.0,60,726.0,Cukup,3,3,Disetujui
+N0910,25,Perempuan,S1,Belum Menikah,Profesional,1,Denpasar,10.6,75.0,24,739.0,Baik,1,3,Disetujui
+N0668,59,Perempuan,S1,Menikah,Karyawan Swasta,2,Jakarta,9.5,42.0,48,636.0,Cukup,0,24,Disetujui
+N1048,48,Perempuan,SMA,Menikah,Karyawan Swasta,2,Makassar,5.9,29.0,24,603.0,Cukup,1,8,Disetujui
+N0060,51,Laki-laki,D3,Menikah,Karyawan Swasta,1,Surabaya,15.4,31.0,48,721.0,Baik,1,21,Disetujui
+N0936,63,Laki-laki,S1,Menikah,Wiraswasta,2,Medan,11.9,54.0,60,685.0,Baik,1,9,Disetujui
+N1028,33,Laki-laki,SMA,Belum Menikah,PNS,1,Jakarta,5.6,114.0,36,743.0,Baik,0,8,Disetujui
+N0462,27,Perempuan,S3,Belum Menikah,Buruh,3,Surabaya,7.5,76.0,36,489.0,Buruk,0,2,Ditolak
+N1064,52,Laki-laki,SMA,Belum Menikah,Buruh,3,Jakarta,5.7,24.0,36,705.0,Baik,3,13,Disetujui
+N0535,46,Perempuan,S1,Belum Menikah,Buruh,0,Jakarta,10.6,138.0,48,674.0,Cukup,1,5,Ditolak
+N0995,44,Perempuan,S2,Menikah,Buruh,0,Bandung,10.3,579.0,36,608.0,Cukup,3,19,Ditolak
+N0651,43,Laki-laki,S1,Menikah,Karyawan Swasta,1,Bandung,11.4,60.0,48,771.0,Baik,2,16,Disetujui
+N1071,51,Laki-laki,S1,Menikah,Pensiunan,1,Semarang,7.0,136.0,36,699.0,Baik,3,22,Disetujui
+N0402,55,Laki-laki,S2,Belum Menikah,Buruh,1,Jakarta,16.4,109.0,60,575.0,Cukup,1,5,Disetujui
+N0634,43,Perempuan,D3,Menikah,Profesional,1,Yogyakarta,19.3,413.0,24,767.0,Baik,3,2,Disetujui
+N0372,50,Laki-laki,D3,Menikah,Buruh,3,Medan,4.2,62.0,60,704.0,Baik,2,23,Disetujui
+N0400,34,Laki-laki,S1,Belum Menikah,Karyawan Swasta,3,Jakarta,12.3,29.0,36,633.0,Cukup,0,9,Disetujui
+N0627,36,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,1,Jakarta,7.5,121.0,60,578.0,Cukup,0,8,Ditolak
+N0917,45,Laki-laki,S1,Menikah,Wiraswasta,0,Jakarta,6.8,228.0,36,565.0,Cukup,1,4,Ditolak
+N0745,56,Perempuan,S1,Menikah,Wiraswasta,3,Jakarta,12.7,91.0,36,589.0,Cukup,1,14,Disetujui
+N0038,58,Perempuan,S1,Menikah,Buruh,2,Medan,8.3,57.0,24,710.0,Baik,1,23,Disetujui
+N0590,58,Perempuan,SMA,Menikah,Wiraswasta,2,Jakarta,5.2,58.0,24,670.0,Baik,1,4,Disetujui
+N0741,57,Laki-laki,S1,Menikah,Buruh,0,Denpasar,8.9,143.0,48,677.0,Cukup,2,28,Disetujui
+N0107,43,Perempuan,S1,Menikah,Wiraswasta,1,Jakarta,12.5,136.0,36,742.0,Baik,0,10,Disetujui
+N0323,48,Perempuan,D3,Belum Menikah,Profesional,1,Medan,12.4,39.0,60,643.0,Cukup,3,7,Ditolak
+N0352,23,Laki-laki,SMA,Menikah,Wiraswasta,0,Makassar,5.4,211.0,36,657.0,Cukup,0,0,Ditolak
+N0357,27,Perempuan,SMA,Menikah,Profesional,4,Bandung,14.4,115.0,12,534.0,Buruk,2,2,Ditolak
+N0252,43,Laki-laki,SMA,Menikah,Pensiunan,1,Bandung,3.0,426.0,60,651.0,Baik,1,17,Ditolak
+N0723,59,Laki-laki,D3,Belum Menikah,Karyawan Swasta,3,Yogyakarta,7.7,131.0,24,686.0,Baik,1,1,Disetujui
+N0391,54,Perempuan,SMA,Menikah,Karyawan Swasta,1,Bandung,10.6,169.0,48,817.0,Baik,2,5,Disetujui
+N0444,42,Perempuan,S1,Menikah,PNS,1,Medan,9.0,800.0,24,724.0,Cukup,3,19,Ditolak
+N1139,54,Laki-laki,SMA,Belum Menikah,Profesional,2,Surabaya,13.0,198.0,48,520.0,Buruk,1,4,Ditolak
+N0216,33,Perempuan,S1,Belum Menikah,Profesional,2,Bandung,17.1,28.0,60,723.0,Baik,1,9,Disetujui
+N0339,30,Perempuan,S1,Menikah,Karyawan Swasta,0,Surabaya,6.3,100.0,60,510.0,Buruk,2,3,Ditolak
+N0057,45,Perempuan,SMA,Belum Menikah,PNS,3,Semarang,11.1,103.0,48,807.0,Baik,2,11,Disetujui
+N0633,40,Laki-laki,S1,Belum Menikah,Wiraswasta,2,Jakarta,10.6,72.0,12,765.0,Baik,1,9,Disetujui
+N0182,27,Perempuan,D3,Menikah,Karyawan Swasta,0,Semarang,16.4,48.0,36,713.0,Baik,2,1,Disetujui
+N0054,42,Laki-laki,S1,Belum Menikah,Wiraswasta,2,Jakarta,6.5,156.0,12,521.0,Cukup,1,17,Ditolak
+N0674,25,Perempuan,S1,Menikah,Wiraswasta,1,Jakarta,33.2,30.0,48,685.0,Cukup,1,0,Disetujui
+N1140,45,Perempuan,SMA,Belum Menikah,Karyawan Swasta,2,Medan,14.1,99.0,12,658.0,Cukup,0,14,Ditolak
+N0347,65,Perempuan,SMA,Belum Menikah,Pensiunan,3,Medan,6.3,45.0,60,661.0,Buruk,0,7,Ditolak
+N0232,59,Perempuan,S1,Menikah,Buruh,4,Semarang,10.6,95.0,60,487.0,Buruk,2,17,Ditolak
+N0152,33,Laki-laki,SMA,Belum Menikah,PNS,2,Jakarta,11.6,20.0,36,617.0,Cukup,2,9,Disetujui
+N0501,26,Laki-laki,S2,Menikah,Pensiunan,2,Jakarta,6.7,43.0,36,731.0,Baik,0,4,Disetujui
+N1041,52,Perempuan,S1,Menikah,PNS,3,Jakarta,13.2,78.0,24,709.0,Baik,0,8,Disetujui
+N0231,41,Perempuan,SMA,Menikah,Karyawan Swasta,4,Denpasar,7.2,19.0,24,794.0,Baik,1,19,Disetujui
+N0525,35,Laki-laki,D3,Menikah,PNS,2,Medan,11.8,95.0,12,598.0,Cukup,2,8,Ditolak
+N0816,58,Perempuan,S1,Menikah,Karyawan Swasta,4,Denpasar,15.1,143.0,24,783.0,Baik,2,24,Disetujui
+N0996,49,Perempuan,S1,Menikah,Pensiunan,1,Yogyakarta,5.9,95.0,36,607.0,Baik,0,10,Disetujui
+N1001,57,Perempuan,S3,Belum Menikah,Karyawan Swasta,1,Denpasar,11.9,19.0,60,732.0,Baik,1,6,Disetujui
+N0258,25,Perempuan,S1,Menikah,Wiraswasta,4,Jakarta,14.1,207.0,36,699.0,Baik,2,1,Disetujui
+N0389,61,Laki-laki,D3,Menikah,Wiraswasta,1,Bandung,10.1,148.0,36,756.0,Baik,2,19,Disetujui
+N0526,34,Perempuan,S3,Menikah,Karyawan Swasta,2,Bandung,38.1,71.0,24,681.0,Cukup,2,11,Disetujui
+N0186,41,Laki-laki,S2,Menikah,Buruh,1,Denpasar,8.5,90.0,36,517.0,Buruk,0,14,Ditolak
+N0044,36,Laki-laki,S2,Menikah,Wiraswasta,2,Yogyakarta,15.5,99.0,60,586.0,Buruk,1,2,Ditolak
+N0474,42,Perempuan,S2,Menikah,Karyawan Swasta,1,Denpasar,7.6,56.0,48,531.0,Buruk,1,6,Ditolak
+N1147,44,Perempuan,D3,Menikah,Profesional,2,Yogyakarta,11.0,146.0,60,611.0,Cukup,1,9,Disetujui
+N0143,33,Perempuan,S1,Cerai,Wiraswasta,0,Yogyakarta,12.8,106.0,24,655.0,Baik,0,8,Disetujui
+N1003,46,Perempuan,SMA,Belum Menikah,Karyawan Swasta,1,Surabaya,7.6,34.0,36,525.0,Buruk,0,7,Ditolak
+N1101,42,Perempuan,D3,Menikah,Wiraswasta,0,Jakarta,17.8,36.0,48,748.0,Baik,0,15,Disetujui
+N0782,49,Laki-laki,S2,Belum Menikah,Karyawan Swasta,1,Jakarta,13.2,89.0,12,477.0,Buruk,0,18,Ditolak
+N0731,53,Perempuan,S1,Cerai,Profesional,3,Makassar,10.4,18.0,36,569.0,Buruk,1,17,Ditolak
+N0698,47,Laki-laki,SMA,Menikah,Wiraswasta,0,Makassar,7.0,200.0,36,659.0,Baik,1,25,Ditolak
+N0855,33,Laki-laki,S1,Belum Menikah,Profesional,2,Semarang,10.4,41.0,24,475.0,Buruk,2,4,Ditolak
+N0330,45,Perempuan,SMA,Menikah,Wiraswasta,1,Medan,7.8,107.0,24,497.0,Buruk,1,14,Ditolak
+N0513,58,Perempuan,D3,Cerai,Wiraswasta,2,Makassar,10.6,46.0,48,496.0,Buruk,0,6,Ditolak
+N0974,42,Perempuan,SMA,Menikah,PNS,3,Jakarta,8.0,151.0,36,642.0,Baik,2,17,Disetujui
+N0874,26,Laki-laki,S1,Menikah,Karyawan Swasta,1,Yogyakarta,12.1,206.0,24,597.0,Buruk,0,4,Ditolak
+N0580,25,Laki-laki,S1,Menikah,Wiraswasta,2,Medan,11.4,48.0,48,450.0,Buruk,1,0,Ditolak
+N0813,51,Perempuan,S1,Menikah,Karyawan Swasta,2,Semarang,15.0,122.0,60,670.0,Baik,2,13,Disetujui
+N0671,63,Perempuan,S1,Menikah,Karyawan Swasta,2,Bandung,10.9,196.0,60,714.0,Cukup,0,18,Disetujui
+N0713,53,Perempuan,SMA,Cerai,Karyawan Swasta,5,Makassar,11.7,21.0,24,815.0,Baik,1,13,Disetujui
+N0842,50,Perempuan,S1,Belum Menikah,Karyawan Swasta,2,Surabaya,19.9,55.0,36,717.0,Baik,0,9,Disetujui
+N1112,31,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,1,Jakarta,10.4,176.0,48,661.0,Buruk,0,4,Ditolak
+N1175,21,Perempuan,S1,Belum Menikah,Wiraswasta,1,Surabaya,16.6,218.0,60,688.0,Baik,1,0,Disetujui
+N0919,32,Laki-laki,SMA,Belum Menikah,PNS,1,Denpasar,6.0,81.0,36,657.0,Cukup,0,6,Disetujui
+N0221,26,Laki-laki,S1,Menikah,Karyawan Swasta,1,Jakarta,9.5,133.0,24,651.0,Cukup,0,0,Ditolak
+N1098,54,Perempuan,SMA,Belum Menikah,Karyawan Swasta,0,Medan,9.1,85.0,24,735.0,Baik,1,9,Disetujui
+N0644,42,Laki-laki,S1,Menikah,Karyawan Swasta,0,Makassar,8.8,137.0,24,507.0,Buruk,1,7,Ditolak
+N1075,42,Perempuan,SMA,Menikah,Karyawan Swasta,2,Surabaya,11.3,70.0,48,661.0,Baik,1,5,Disetujui
+N0646,35,Laki-laki,S1,Belum Menikah,Karyawan Swasta,2,Makassar,6.1,97.0,36,800.0,Baik,1,7,Disetujui
+N0418,26,Perempuan,S2,Belum Menikah,Wiraswasta,3,Jakarta,17.6,341.0,36,538.0,Buruk,3,0,Ditolak
+N1038,21,Perempuan,D3,Belum Menikah,PNS,1,Jakarta,7.2,84.0,48,553.0,Cukup,1,0,Ditolak
+N0643,59,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,1,Denpasar,5.2,55.0,60,661.0,Cukup,1,5,Disetujui
+N0751,64,Perempuan,S1,Menikah,Karyawan Swasta,1,Yogyakarta,9.1,37.0,36,771.0,Baik,1,29,Disetujui
+N0115,43,Perempuan,SMA,Menikah,PNS,0,Jakarta,8.4,43.0,48,695.0,Baik,1,21,Disetujui
+N1164,44,Laki-laki,S1,Menikah,Buruh,2,Bandung,13.5,24.0,60,565.0,Cukup,1,3,Ditolak
+N0290,42,Perempuan,S1,Menikah,Wiraswasta,1,Jakarta,17.7,62.0,24,667.0,Baik,1,17,Disetujui
+N1161,47,Perempuan,S1,Menikah,Wiraswasta,2,Jakarta,18.1,70.0,24,629.0,Cukup,1,25,Disetujui
+N1105,34,Laki-laki,D3,Cerai,PNS,2,Surabaya,14.5,29.0,48,578.0,Cukup,0,7,Disetujui
+N0272,22,Laki-laki,S1,Belum Menikah,Karyawan Swasta,2,Medan,13.8,41.0,24,463.0,Buruk,1,0,Ditolak
+N0725,56,Perempuan,S2,Belum Menikah,Karyawan Swasta,0,Semarang,13.8,41.0,60,545.0,Cukup,1,24,Disetujui
+N0314,33,Laki-laki,S1,Belum Menikah,Karyawan Swasta,3,Medan,16.6,143.0,48,700.0,Baik,0,7,Disetujui
+N0704,28,Laki-laki,S2,Belum Menikah,Buruh,1,Bandung,8.7,46.0,60,490.0,Buruk,2,6,Ditolak
+N0285,40,Laki-laki,S1,Menikah,Buruh,0,Yogyakarta,7.7,112.0,36,787.0,Baik,2,17,Disetujui
+N0130,49,Laki-laki,S1,Cerai,Buruh,1,Jakarta,9.4,115.0,36,518.0,Cukup,0,17,Disetujui
+N0396,60,Laki-laki,S2,Cerai,Pensiunan,1,Jakarta,11.8,45.0,48,639.0,Cukup,1,13,Disetujui
+N1115,29,Laki-laki,S1,Belum Menikah,Karyawan Swasta,1,Makassar,10.4,157.0,24,577.0,Cukup,3,3,Ditolak
+N0327,31,Laki-laki,D3,Menikah,Profesional,1,Surabaya,10.6,58.0,48,738.0,Baik,0,4,Disetujui
+N0948,27,Perempuan,SMA,Menikah,Wiraswasta,1,Denpasar,9.2,64.0,24,661.0,Buruk,0,2,Ditolak
+N0914,65,Perempuan,SMA,Menikah,Buruh,3,Surabaya,4.3,68.0,12,721.0,Baik,0,18,Ditolak
+N0921,60,Laki-laki,S1,Menikah,Wiraswasta,1,Jakarta,9.2,160.0,24,531.0,Cukup,1,12,Ditolak
+N0938,27,Perempuan,S1,Belum Menikah,PNS,1,Bandung,10.3,111.0,24,609.0,Buruk,0,3,Ditolak
+N0041,28,Perempuan,SMA,Menikah,Profesional,2,Bandung,9.3,42.0,48,635.0,Cukup,1,2,Disetujui
+N0307,34,Perempuan,S1,Menikah,Karyawan Swasta,1,Medan,10.8,179.0,48,689.0,Baik,0,7,Disetujui
+N1061,55,Laki-laki,S1,Cerai,Wiraswasta,2,Jakarta,12.2,94.0,36,698.0,Cukup,0,18,Disetujui
+N0374,37,Perempuan,SMA,Menikah,Karyawan Swasta,1,Surabaya,8.0,67.0,24,659.0,Cukup,2,14,Ditolak
+N0846,21,Perempuan,S2,Menikah,Pensiunan,2,Yogyakarta,10.6,35.0,48,590.0,Cukup,0,0,Ditolak
+N0496,39,Laki-laki,SMA,Belum Menikah,Wiraswasta,3,Yogyakarta,10.6,71.0,60,650.0,Cukup,1,3,Disetujui
+N0273,27,Perempuan,D3,Belum Menikah,Wiraswasta,2,Denpasar,12.1,150.0,24,711.0,Baik,1,4,Disetujui
+N0009,30,Perempuan,S1,Menikah,Karyawan Swasta,1,Semarang,10.9,105.0,36,809.0,Baik,1,4,Disetujui
+N1081,62,Perempuan,SMA,Menikah,Pensiunan,3,Semarang,5.9,70.0,36,687.0,Cukup,1,20,Ditolak
+N0759,26,Perempuan,S1,Cerai,Karyawan Swasta,0,Jakarta,21.0,124.0,60,543.0,Cukup,1,3,Ditolak
+N0653,30,Laki-laki,S1,Menikah,Profesional,1,Bandung,16.5,53.0,24,581.0,Buruk,0,8,Ditolak
+N0966,47,Laki-laki,S2,Menikah,Profesional,0,Medan,16.4,95.0,48,754.0,Cukup,0,15,Disetujui
+N0398,29,Laki-laki,S1,Menikah,Karyawan Swasta,1,Surabaya,8.0,111.0,36,696.0,Baik,1,2,Disetujui
+N0415,21,Laki-laki,S2,Menikah,Karyawan Swasta,3,Bandung,13.1,64.0,24,727.0,Cukup,2,0,Disetujui
+N0869,41,Perempuan,S1,Belum Menikah,Karyawan Swasta,2,Semarang,6.3,22.0,12,644.0,Cukup,1,6,Disetujui
+N0864,55,Laki-laki,SMA,Menikah,Karyawan Swasta,3,Semarang,5.9,128.0,60,635.0,Baik,1,17,Disetujui
+N1127,59,Laki-laki,S1,Menikah,Wiraswasta,2,Denpasar,14.3,192.0,60,498.0,Buruk,2,15,Ditolak
+N0505,33,Laki-laki,S1,Belum Menikah,PNS,3,Jakarta,12.3,32.0,36,670.0,Baik,2,11,Disetujui
+N0533,28,Laki-laki,S2,Menikah,Karyawan Swasta,1,Semarang,13.9,66.0,24,583.0,Cukup,0,2,Disetujui
+N0994,40,Laki-laki,S3,Menikah,Wiraswasta,3,Yogyakarta,24.6,28.0,36,554.0,Buruk,0,10,Ditolak
+N0757,54,Laki-laki,SMA,Menikah,Buruh,4,Denpasar,3.9,135.0,24,642.0,Cukup,2,20,Ditolak
+N0884,27,Laki-laki,S1,Menikah,PNS,1,Medan,8.5,89.0,48,559.0,Cukup,0,1,Ditolak
+N0982,52,Laki-laki,SMA,Menikah,Karyawan Swasta,1,Jakarta,3.8,74.0,60,673.0,Baik,1,27,Disetujui
+N0492,60,Perempuan,S1,Menikah,Karyawan Swasta,0,Surabaya,14.7,196.0,36,460.0,Buruk,2,18,Ditolak
+N0080,51,Laki-laki,S1,Menikah,Wiraswasta,3,Denpasar,11.1,43.0,48,514.0,Buruk,2,20,Ditolak
+N0812,60,Perempuan,S2,Menikah,Wiraswasta,2,Bandung,15.6,98.0,48,625.0,Cukup,1,1,Ditolak
+N0343,48,Laki-laki,S1,Menikah,Karyawan Swasta,0,Jakarta,8.3,38.0,12,627.0,Cukup,0,21,Disetujui
+N0050,56,Laki-laki,S1,Menikah,Profesional,1,Surabaya,11.0,188.0,36,737.0,Baik,0,28,Disetujui
+N0251,29,Laki-laki,S3,Cerai,Buruh,3,Yogyakarta,12.5,53.0,24,569.0,Cukup,0,2,Ditolak
+N1021,23,Laki-laki,D3,Menikah,PNS,1,Jakarta,8.6,355.0,36,456.0,Buruk,0,0,Ditolak
+N0021,43,Perempuan,S2,Menikah,Karyawan Swasta,2,Jakarta,32.8,32.0,48,778.0,Baik,1,20,Disetujui
+N0570,46,Laki-laki,S1,Menikah,Wiraswasta,0,Denpasar,12.6,139.0,24,489.0,Buruk,2,24,Ditolak
+N0838,29,Laki-laki,SMA,Menikah,Karyawan Swasta,1,Bandung,6.7,31.0,48,595.0,Cukup,2,3,Ditolak
+N0537,41,Laki-laki,S2,Menikah,Wiraswasta,4,Semarang,23.5,117.0,36,642.0,Buruk,1,15,Ditolak
+N0568,32,Laki-laki,S1,Menikah,Wiraswasta,1,Makassar,7.0,37.0,36,689.0,Cukup,3,9,Disetujui
+N0654,57,Perempuan,S1,Menikah,PNS,4,Surabaya,12.1,43.0,24,515.0,Buruk,2,9,Ditolak
+N0697,53,Laki-laki,S1,Menikah,Karyawan Swasta,0,Semarang,12.5,36.0,24,569.0,Cukup,1,22,Disetujui
+N1044,37,Laki-laki,SMA,Cerai,Karyawan Swasta,2,Makassar,10.3,48.0,24,732.0,Baik,0,11,Disetujui
+N0482,58,Perempuan,SMA,Belum Menikah,PNS,2,Yogyakarta,7.4,97.0,36,741.0,Baik,0,2,Disetujui
+N0034,45,Laki-laki,SMA,Menikah,Profesional,2,Denpasar,16.1,20.0,12,553.0,Cukup,0,16,Disetujui
+N0929,39,Laki-laki,D3,Menikah,Buruh,1,Jakarta,5.0,92.0,36,389.0,Buruk,2,10,Ditolak
+N0383,63,Perempuan,S2,Cerai,Buruh,2,Bandung,5.4,187.0,48,639.0,Cukup,2,7,Ditolak
+N0026,49,Laki-laki,SMA,Menikah,Buruh,0,Yogyakarta,3.5,153.0,24,749.0,Baik,1,21,Ditolak
+N0048,61,Laki-laki,S1,Belum Menikah,PNS,2,Surabaya,11.3,61.0,48,629.0,Baik,0,21,Disetujui
+N1039,40,Laki-laki,D3,Menikah,Karyawan Swasta,3,Jakarta,10.6,128.0,24,624.0,Baik,2,15,Disetujui
+N0175,52,Laki-laki,SMA,Belum Menikah,Wiraswasta,3,Jakarta,10.3,101.0,24,583.0,Cukup,2,22,Ditolak
+N0030,40,Perempuan,S1,Menikah,Karyawan Swasta,1,Medan,6.3,31.0,48,476.0,Buruk,1,13,Ditolak
+N0572,39,Perempuan,D3,Menikah,Karyawan Swasta,0,Surabaya,6.5,24.0,24,648.0,Baik,2,17,Disetujui
+N0154,34,Laki-laki,S3,Menikah,PNS,4,Makassar,10.9,31.0,48,542.0,Buruk,1,11,Ditolak
+N0762,45,Laki-laki,S1,Menikah,Karyawan Swasta,0,Jakarta,16.2,800.0,48,681.0,Cukup,0,18,Ditolak
+N0804,62,Laki-laki,S1,Menikah,Karyawan Swasta,4,Medan,10.0,65.0,36,661.0,Cukup,0,29,Disetujui
+N1029,46,Laki-laki,S2,Menikah,Karyawan Swasta,3,Medan,20.7,26.0,24,753.0,Baik,0,15,Disetujui
+N0162,50,Laki-laki,S1,Cerai,Wiraswasta,0,Jakarta,20.9,35.0,36,786.0,Baik,0,18,Disetujui
+N0245,49,Laki-laki,S3,Menikah,PNS,1,Jakarta,18.5,30.0,36,808.0,Baik,1,22,Disetujui
+N0511,65,Laki-laki,S3,Cerai,Profesional,2,Medan,21.0,131.0,48,684.0,Cukup,0,14,Disetujui
+N0159,43,Laki-laki,S2,Cerai,Wiraswasta,4,Jakarta,19.2,60.0,60,522.0,Buruk,0,20,Ditolak
+N0531,47,Perempuan,S1,Menikah,Karyawan Swasta,1,Bandung,8.6,95.0,60,429.0,Buruk,2,3,Ditolak
+N0502,50,Laki-laki,S1,Menikah,Karyawan Swasta,2,Bandung,10.5,50.0,48,585.0,Cukup,0,23,Disetujui
+N0433,58,Laki-laki,SMA,Cerai,Karyawan Swasta,2,Jakarta,6.8,44.0,60,734.0,Baik,2,9,Disetujui
+N0980,46,Perempuan,SMA,Belum Menikah,Wiraswasta,0,Yogyakarta,7.8,90.0,60,661.0,Baik,4,19,Disetujui
+N1107,31,Laki-laki,S2,Belum Menikah,Pensiunan,0,Surabaya,6.0,72.0,60,712.0,Cukup,1,4,Disetujui
+N0333,34,Laki-laki,S3,Menikah,Wiraswasta,3,Makassar,23.4,29.0,36,735.0,Baik,2,1,Disetujui
+N0933,32,Perempuan,S1,Menikah,Karyawan Swasta,1,Jakarta,11.2,33.0,36,797.0,Baik,3,10,Disetujui
+N0367,42,Perempuan,S2,Belum Menikah,Profesional,3,Makassar,25.5,113.0,36,540.0,Cukup,2,15,Disetujui
+N1136,23,Perempuan,S1,Menikah,Profesional,0,Medan,15.4,108.0,36,689.0,Cukup,1,0,Disetujui
+N0055,43,Perempuan,S2,Belum Menikah,Buruh,2,Makassar,7.9,298.0,12,623.0,Baik,0,21,Ditolak
+N0585,39,Laki-laki,SMA,Cerai,Pensiunan,0,Denpasar,4.7,124.0,36,607.0,Buruk,1,12,Ditolak
+N0767,48,Laki-laki,SMA,Menikah,Karyawan Swasta,2,Denpasar,11.3,129.0,36,676.0,Cukup,0,19,Disetujui
+N0681,53,Laki-laki,S1,Belum Menikah,Karyawan Swasta,2,Bandung,11.0,43.0,24,818.0,Baik,0,16,Disetujui
+N0915,47,Perempuan,S2,Menikah,PNS,0,Jakarta,22.6,28.0,24,492.0,Buruk,0,24,Ditolak
+N0986,50,Perempuan,S1,Menikah,Buruh,1,Surabaya,6.1,156.0,24,637.0,Cukup,2,6,Ditolak
+N0786,47,Laki-laki,S1,Cerai,Karyawan Swasta,0,Surabaya,9.1,47.0,48,655.0,Baik,1,19,Disetujui
+N0025,56,Perempuan,S1,Menikah,Karyawan Swasta,1,Bandung,11.3,110.0,12,850.0,Baik,0,17,Disetujui
+N0299,33,Laki-laki,SMA,Menikah,Buruh,3,Semarang,5.3,92.0,24,728.0,Baik,0,1,Disetujui
+N0557,54,Laki-laki,S1,Menikah,Karyawan Swasta,2,Bandung,7.6,82.0,24,655.0,Baik,0,1,Disetujui
+N0576,37,Perempuan,SMA,Menikah,PNS,3,Jakarta,6.6,55.0,12,487.0,Buruk,0,13,Ditolak
+N0019,58,Laki-laki,S1,Menikah,Pensiunan,2,Yogyakarta,7.6,101.0,60,752.0,Baik,4,11,Disetujui
+N1012,56,Perempuan,S2,Menikah,Karyawan Swasta,2,Medan,10.1,302.0,36,689.0,Baik,1,24,Disetujui
+N0255,50,Laki-laki,D3,Menikah,Wiraswasta,1,Medan,8.8,205.0,36,666.0,Baik,2,7,Ditolak
+N0226,34,Laki-laki,D3,Belum Menikah,Karyawan Swasta,2,Makassar,9.7,119.0,12,670.0,Cukup,2,4,Ditolak
+N0600,49,Perempuan,S1,Menikah,Profesional,2,Surabaya,14.2,26.0,48,720.0,Baik,1,14,Disetujui
+N1037,61,Laki-laki,S1,Menikah,Karyawan Swasta,2,Semarang,10.0,185.0,24,785.0,Baik,1,10,Disetujui
+N0420,43,Laki-laki,D3,Belum Menikah,Wiraswasta,2,Jakarta,13.6,72.0,60,529.0,Buruk,2,17,Ditolak
+N1172,49,Perempuan,S1,Belum Menikah,Pensiunan,1,Yogyakarta,6.4,485.0,36,665.0,Baik,0,19,Ditolak
+N1046,27,Laki-laki,S1,Menikah,Wiraswasta,2,Bandung,17.2,41.0,60,748.0,Baik,1,1,Disetujui
+N0223,52,Laki-laki,SMA,Belum Menikah,Wiraswasta,2,Semarang,15.6,19.0,36,609.0,Cukup,4,17,Ditolak
+N0956,48,Perempuan,S1,Belum Menikah,PNS,2,Jakarta,13.8,277.0,60,588.0,Cukup,2,9,Disetujui
+N0425,39,Perempuan,S2,Menikah,PNS,2,Jakarta,10.0,127.0,60,716.0,Baik,1,3,Disetujui
+N0219,41,Perempuan,S1,Menikah,PNS,0,Jakarta,33.3,69.0,48,729.0,Baik,1,4,Disetujui
+N0308,45,Laki-laki,S3,Menikah,Karyawan Swasta,3,Makassar,52.6,62.0,36,823.0,Baik,2,2,Disetujui
+N0810,65,Perempuan,D3,Belum Menikah,Karyawan Swasta,3,Makassar,7.9,122.0,36,725.0,Baik,1,29,Disetujui
+N1120,43,Perempuan,S1,Menikah,Karyawan Swasta,1,Bandung,20.9,105.0,12,607.0,Cukup,1,18,Disetujui
+N0172,25,Perempuan,S2,Belum Menikah,PNS,0,Makassar,24.0,273.0,24,758.0,Baik,2,2,Disetujui
+N0443,26,Perempuan,D3,Menikah,Karyawan Swasta,2,Makassar,9.0,81.0,36,666.0,Cukup,2,3,Disetujui
+N0899,24,Laki-laki,D3,Menikah,Profesional,0,Jakarta,7.4,216.0,48,760.0,Baik,1,0,Disetujui
+N0706,46,Perempuan,SMA,Menikah,Wiraswasta,0,Surabaya,8.1,30.0,60,712.0,Baik,0,9,Disetujui
+N0771,50,Perempuan,SMA,Cerai,Wiraswasta,1,Medan,7.4,200.0,12,445.0,Buruk,0,20,Ditolak
+N0287,43,Laki-laki,D3,Belum Menikah,Profesional,0,Denpasar,15.3,107.0,24,667.0,Cukup,1,6,Disetujui
+N0067,61,Perempuan,S2,Menikah,Karyawan Swasta,0,Makassar,17.6,204.0,36,713.0,Baik,0,22,Disetujui
+N0454,22,Laki-laki,S1,Menikah,PNS,0,Surabaya,18.1,57.0,48,719.0,Baik,0,0,Disetujui
+N1184,41,Laki-laki,S1,Menikah,Karyawan Swasta,0,Medan,8.0,98.0,12,638.0,Cukup,3,10,Ditolak
+N0072,29,Perempuan,S1,Cerai,Karyawan Swasta,0,Semarang,13.4,97.0,24,659.0,Cukup,1,4,Disetujui
+N0897,43,Perempuan,S2,Menikah,Wiraswasta,0,Makassar,15.8,127.0,12,714.0,Baik,1,9,Disetujui
+N0413,33,Laki-laki,S2,Menikah,Wiraswasta,4,Denpasar,9.7,24.0,24,596.0,Cukup,3,3,Ditolak
+N0083,28,Laki-laki,S1,Belum Menikah,Wiraswasta,4,Semarang,12.7,92.0,60,716.0,Baik,3,5,Disetujui
+N0157,26,Laki-laki,S1,Menikah,Pensiunan,3,Bandung,12.3,20.0,60,646.0,Cukup,0,3,Disetujui
+N1171,49,Perempuan,S1,Cerai,Karyawan Swasta,1,Surabaya,7.4,95.0,12,629.0,Buruk,1,20,Ditolak
+N0016,56,Perempuan,S1,Belum Menikah,Karyawan Swasta,1,Semarang,5.6,576.0,12,689.0,Baik,5,4,Ditolak
+N0802,34,Laki-laki,S1,Menikah,Wiraswasta,2,Yogyakarta,14.9,252.0,48,473.0,Buruk,1,5,Ditolak
+N0266,47,Perempuan,S2,Menikah,Karyawan Swasta,3,Jakarta,11.5,42.0,48,777.0,Baik,0,4,Disetujui
+N0536,27,Laki-laki,S1,Belum Menikah,Profesional,3,Makassar,16.8,222.0,60,773.0,Baik,0,2,Disetujui
+N0452,62,Laki-laki,S1,Menikah,Profesional,2,Jakarta,24.3,70.0,48,750.0,Baik,2,12,Disetujui
+N0903,30,Laki-laki,D3,Belum Menikah,PNS,0,Bandung,12.2,96.0,36,654.0,Cukup,2,1,Disetujui
+N0833,41,Laki-laki,S2,Menikah,PNS,0,Denpasar,12.0,289.0,24,668.0,Cukup,1,3,Ditolak
+N0405,43,Perempuan,D3,Belum Menikah,Wiraswasta,0,Semarang,7.4,70.0,24,609.0,Cukup,0,19,Disetujui
+N1129,46,Laki-laki,D3,Belum Menikah,Karyawan Swasta,2,Yogyakarta,10.1,37.0,12,776.0,Baik,2,22,Disetujui
+N0491,62,Laki-laki,S3,Belum Menikah,Karyawan Swasta,2,Yogyakarta,10.0,166.0,36,538.0,Buruk,3,4,Ditolak
+N1092,41,Perempuan,S3,Belum Menikah,Karyawan Swasta,0,Jakarta,17.3,90.0,36,599.0,Cukup,1,14,Disetujui
+N0542,23,Perempuan,SMA,Menikah,Karyawan Swasta,1,Jakarta,8.3,240.0,24,746.0,Baik,2,1,Ditolak
+N0694,63,Laki-laki,S2,Menikah,Karyawan Swasta,3,Jakarta,8.1,119.0,24,630.0,Cukup,4,3,Ditolak
+N0740,61,Laki-laki,S1,Menikah,Karyawan Swasta,0,Denpasar,22.6,279.0,36,614.0,Cukup,0,20,Ditolak
+N0365,26,Perempuan,S2,Menikah,Karyawan Swasta,2,Jakarta,11.5,64.0,36,653.0,Cukup,0,0,Disetujui
+N0630,37,Laki-laki,S1,Menikah,Buruh,3,Jakarta,16.9,68.0,24,661.0,Cukup,2,11,Ditolak
+N0460,25,Perempuan,S1,Belum Menikah,Karyawan Swasta,3,Yogyakarta,8.9,149.0,24,502.0,Buruk,1,1,Ditolak
+N0105,56,Laki-laki,S1,Belum Menikah,PNS,2,Bandung,12.6,89.0,48,661.0,Baik,1,17,Disetujui
+N0269,48,Laki-laki,D3,Cerai,Pensiunan,0,Yogyakarta,6.8,403.0,24,554.0,Cukup,2,9,Ditolak
+N0609,64,Laki-laki,D3,Menikah,Karyawan Swasta,2,Jakarta,7.3,69.0,60,538.0,Buruk,2,19,Ditolak
+N1134,55,Laki-laki,S2,Menikah,Karyawan Swasta,3,Surabaya,19.3,52.0,36,717.0,Baik,0,7,Disetujui
+N0979,36,Perempuan,D3,Menikah,Wiraswasta,0,Jakarta,9.2,154.0,24,615.0,Buruk,0,11,Ditolak
+N1065,54,Perempuan,S1,Menikah,Karyawan Swasta,1,Denpasar,9.3,151.0,24,627.0,Cukup,1,27,Ditolak
+N0662,54,Laki-laki,S1,Cerai,Buruh,1,Surabaya,4.1,298.0,60,676.0,Baik,3,8,Ditolak
+N0242,47,Perempuan,S1,Menikah,Karyawan Swasta,3,Denpasar,13.5,95.0,48,711.0,Cukup,0,7,Disetujui
+N0431,24,Perempuan,D3,Menikah,Karyawan Swasta,1,Surabaya,13.6,29.0,36,661.0,Baik,1,1,Disetujui
+N0815,56,Laki-laki,D3,Menikah,Karyawan Swasta,1,Bandung,8.2,261.0,24,763.0,Baik,1,24,Ditolak
+N0984,50,Laki-laki,D3,Menikah,Wiraswasta,0,Jakarta,9.5,329.0,24,701.0,Baik,2,7,Ditolak
+N0204,52,Perempuan,S1,Belum Menikah,Karyawan Swasta,0,Medan,8.4,112.0,36,683.0,Baik,0,27,Disetujui
+N1185,39,Laki-laki,SMA,Cerai,Karyawan Swasta,1,Makassar,5.0,579.0,48,604.0,Cukup,0,16,Ditolak
+N0596,57,Laki-laki,S1,Cerai,Karyawan Swasta,0,Surabaya,14.0,104.0,48,724.0,Baik,0,8,Disetujui
+N0631,54,Laki-laki,S2,Menikah,Wiraswasta,1,Semarang,17.7,138.0,36,717.0,Baik,0,16,Disetujui
+N0097,31,Perempuan,S1,Menikah,Karyawan Swasta,1,Surabaya,17.6,491.0,60,659.0,Baik,1,5,Disetujui
+N0468,47,Perempuan,S1,Menikah,Karyawan Swasta,4,Semarang,15.5,83.0,48,385.0,Buruk,1,7,Ditolak
+N0889,21,Perempuan,D3,Cerai,Buruh,1,Yogyakarta,8.5,60.0,60,679.0,Baik,3,0,Disetujui
+N0493,54,Laki-laki,S1,Belum Menikah,Profesional,0,Yogyakarta,22.8,114.0,60,542.0,Buruk,0,23,Ditolak
+N0167,35,Laki-laki,S1,Menikah,Karyawan Swasta,0,Jakarta,8.6,73.0,60,728.0,Baik,0,11,Disetujui
+N0930,47,Laki-laki,S2,Cerai,Pensiunan,3,Semarang,7.8,34.0,24,657.0,Baik,2,12,Disetujui
+N0702,48,Perempuan,S1,Menikah,Karyawan Swasta,0,Jakarta,11.9,318.0,48,666.0,Baik,0,22,Disetujui
+N0695,25,Laki-laki,S2,Belum Menikah,Wiraswasta,1,Bandung,15.6,58.0,48,661.0,Baik,0,2,Disetujui
+N0010,25,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,1,Medan,6.0,82.0,24,675.0,Baik,2,3,Disetujui
+N0605,58,Laki-laki,S2,Cerai,Profesional,3,Semarang,16.3,107.0,48,719.0,Baik,1,8,Disetujui
+N0316,50,Perempuan,S2,Menikah,Karyawan Swasta,1,Yogyakarta,13.5,729.0,48,785.0,Baik,0,6,Ditolak
+N0774,53,Perempuan,S2,Belum Menikah,Buruh,1,Jakarta,11.5,121.0,60,608.0,Cukup,1,26,Ditolak
+N0362,61,Laki-laki,D3,Menikah,Karyawan Swasta,1,Makassar,15.3,215.0,36,676.0,Cukup,0,16,Disetujui
+N0139,36,Laki-laki,SMA,Belum Menikah,Wiraswasta,3,Semarang,7.0,99.0,48,644.0,Baik,0,11,Disetujui
+N0824,50,Laki-laki,S2,Menikah,Wiraswasta,0,Makassar,14.0,202.0,24,528.0,Buruk,2,19,Ditolak
+N0277,42,Laki-laki,S3,Menikah,Wiraswasta,2,Makassar,20.2,139.0,48,784.0,Baik,0,17,Disetujui
+N0385,22,Laki-laki,S1,Menikah,Wiraswasta,1,Surabaya,18.9,55.0,48,551.0,Buruk,1,0,Ditolak
+N1089,50,Perempuan,SMA,Menikah,Karyawan Swasta,0,Semarang,10.1,106.0,36,585.0,Baik,1,21,Disetujui
+N0773,21,Laki-laki,S1,Belum Menikah,Karyawan Swasta,3,Medan,13.7,178.0,60,648.0,Cukup,2,0,Disetujui
+N0089,55,Perempuan,S2,Menikah,Pensiunan,1,Yogyakarta,14.9,73.0,60,631.0,Cukup,0,10,Disetujui
+N0091,40,Laki-laki,SMA,Belum Menikah,PNS,3,Surabaya,13.7,49.0,48,768.0,Baik,0,13,Disetujui
+N0766,56,Laki-laki,D3,Belum Menikah,PNS,0,Yogyakarta,8.6,48.0,48,725.0,Baik,1,26,Disetujui
+N0281,33,Laki-laki,D3,Belum Menikah,Karyawan Swasta,1,Surabaya,11.0,75.0,60,769.0,Baik,0,10,Disetujui
+N0652,50,Laki-laki,S1,Menikah,Profesional,2,Surabaya,15.0,35.0,60,457.0,Buruk,1,10,Ditolak
+N0461,53,Perempuan,S1,Menikah,Wiraswasta,3,Jakarta,12.8,281.0,60,728.0,Baik,3,6,Disetujui
+N0905,41,Perempuan,S1,Menikah,Profesional,4,Bandung,11.4,31.0,36,474.0,Buruk,1,18,Ditolak
+N0800,40,Laki-laki,S2,Menikah,Wiraswasta,2,Jakarta,17.0,143.0,36,613.0,Cukup,1,1,Disetujui
+N0301,37,Laki-laki,S1,Cerai,PNS,2,Jakarta,11.2,223.0,48,499.0,Buruk,0,10,Ditolak
+N0880,49,Laki-laki,S1,Menikah,Wiraswasta,3,Jakarta,11.8,32.0,60,696.0,Baik,1,1,Disetujui
+N0203,43,Perempuan,S2,Cerai,PNS,2,Semarang,25.4,162.0,48,727.0,Baik,1,16,Disetujui
+N0403,35,Laki-laki,S2,Menikah,Pensiunan,3,Makassar,19.5,44.0,60,710.0,Baik,0,12,Disetujui
+N0341,49,Laki-laki,S2,Menikah,PNS,1,Denpasar,12.1,28.0,36,728.0,Cukup,3,11,Disetujui
+N0366,44,Laki-laki,D3,Menikah,Wiraswasta,2,Surabaya,9.6,34.0,24,596.0,Cukup,1,20,Disetujui
+N0024,62,Laki-laki,S1,Menikah,Karyawan Swasta,0,Surabaya,9.0,78.0,48,661.0,Cukup,0,8,Ditolak
+N0346,32,Laki-laki,S2,Belum Menikah,Karyawan Swasta,0,Jakarta,17.2,115.0,48,477.0,Buruk,2,4,Ditolak
+N0677,47,Laki-laki,SMA,Menikah,Karyawan Swasta,3,Denpasar,5.5,108.0,48,625.0,Baik,0,13,Disetujui
+N1186,34,Perempuan,SMA,Belum Menikah,Profesional,2,Jakarta,15.3,116.0,36,759.0,Baik,3,11,Disetujui
+N0335,41,Perempuan,S1,Menikah,Wiraswasta,3,Bandung,10.6,103.0,36,540.0,Buruk,1,1,Ditolak
+N0311,50,Perempuan,S1,Cerai,Wiraswasta,1,Jakarta,7.9,278.0,12,679.0,Baik,1,10,Ditolak
+N1165,44,Laki-laki,D3,Belum Menikah,Buruh,2,Jakarta,5.4,226.0,36,621.0,Cukup,1,18,Ditolak
+N0641,51,Perempuan,S3,Menikah,Buruh,1,Jakarta,10.6,34.0,36,760.0,Cukup,0,6,Disetujui
+N0354,40,Laki-laki,S1,Menikah,Wiraswasta,2,Surabaya,14.0,66.0,36,717.0,Baik,0,2,Disetujui
+N0736,51,Perempuan,S1,Cerai,Karyawan Swasta,1,Yogyakarta,10.6,41.0,24,686.0,Baik,2,10,Disetujui
+N1197,53,Perempuan,S1,Menikah,Karyawan Swasta,2,Jakarta,10.6,109.0,24,659.0,Baik,3,19,Disetujui
+N0241,27,Laki-laki,D3,Belum Menikah,PNS,5,Jakarta,20.1,97.0,60,640.0,Baik,4,3,Disetujui
+N0667,43,Laki-laki,S2,Menikah,Karyawan Swasta,3,Surabaya,9.5,30.0,24,495.0,Buruk,2,4,Ditolak
+N0319,63,Laki-laki,SMA,Menikah,Profesional,1,Jakarta,8.6,91.0,24,571.0,Cukup,0,24,Ditolak
+N1050,26,Perempuan,D3,Belum Menikah,Profesional,2,Semarang,24.8,149.0,24,684.0,Cukup,0,3,Ditolak
+N0263,34,Laki-laki,S1,Menikah,Karyawan Swasta,1,Jakarta,10.8,148.0,24,488.0,Buruk,1,10,Ditolak
+N0099,49,Perempuan,SMA,Menikah,Wiraswasta,2,Jakarta,10.3,43.0,24,760.0,Baik,2,4,Disetujui
+N0168,28,Laki-laki,S2,Menikah,Wiraswasta,3,Jakarta,9.1,75.0,24,661.0,Baik,1,1,Disetujui
+N0497,26,Laki-laki,S1,Belum Menikah,Karyawan Swasta,1,Medan,8.5,39.0,48,845.0,Baik,2,4,Disetujui
+N0726,26,Perempuan,SMA,Belum Menikah,Karyawan Swasta,3,Surabaya,7.1,272.0,12,500.0,Buruk,1,2,Ditolak
+N0276,42,Laki-laki,S1,Belum Menikah,Wiraswasta,0,Yogyakarta,6.9,130.0,48,495.0,Buruk,0,6,Ditolak
+N0090,58,Laki-laki,S1,Cerai,Wiraswasta,2,Surabaya,18.3,68.0,36,661.0,Buruk,2,23,Ditolak
+N0715,62,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,3,Jakarta,9.6,65.0,24,713.0,Baik,0,20,Disetujui
+N0516,25,Perempuan,D3,Belum Menikah,Karyawan Swasta,2,Medan,10.6,71.0,24,573.0,Cukup,0,0,Ditolak
+N1016,58,Laki-laki,S1,Menikah,Karyawan Swasta,1,Bandung,5.3,84.0,24,611.0,Cukup,1,1,Ditolak
+N0332,37,Laki-laki,S1,Menikah,Karyawan Swasta,1,Jakarta,10.6,112.0,36,756.0,Baik,3,15,Disetujui
+N0988,35,Perempuan,S1,Menikah,Wiraswasta,4,Makassar,16.7,25.0,12,720.0,Baik,0,5,Disetujui
+N0434,26,Perempuan,S2,Menikah,Karyawan Swasta,3,Bandung,20.7,213.0,36,546.0,Buruk,1,0,Ditolak
+N1173,38,Perempuan,SMA,Cerai,PNS,2,Makassar,12.3,68.0,12,679.0,Baik,2,16,Disetujui
+N1042,59,Laki-laki,S1,Belum Menikah,Karyawan Swasta,2,Jakarta,6.5,217.0,36,599.0,Cukup,5,26,Ditolak
+N0487,36,Perempuan,S2,Belum Menikah,Karyawan Swasta,3,Makassar,19.2,94.0,48,641.0,Buruk,0,14,Ditolak
+N0659,24,Laki-laki,D3,Belum Menikah,PNS,1,Surabaya,9.2,55.0,48,680.0,Baik,3,0,Disetujui
+N0932,52,Laki-laki,D3,Belum Menikah,Karyawan Swasta,2,Jakarta,12.6,68.0,48,686.0,Cukup,1,6,Disetujui
+N0532,28,Laki-laki,D3,Menikah,Buruh,2,Semarang,6.5,47.0,12,569.0,Cukup,1,5,Ditolak
+N0841,43,Laki-laki,S1,Belum Menikah,Karyawan Swasta,1,Surabaya,16.1,91.0,60,771.0,Baik,2,4,Disetujui
+N1056,65,Laki-laki,S2,Belum Menikah,Buruh,1,Jakarta,9.1,57.0,12,741.0,Baik,1,2,Disetujui
+N0261,56,Perempuan,S2,Menikah,Karyawan Swasta,2,Bandung,8.1,17.0,60,617.0,Cukup,1,3,Disetujui
+N0811,22,Perempuan,S2,Menikah,Karyawan Swasta,1,Surabaya,11.1,61.0,36,570.0,Cukup,0,0,Disetujui
+N0306,27,Perempuan,S1,Menikah,Karyawan Swasta,3,Makassar,10.6,420.0,12,624.0,Cukup,1,1,Ditolak
+N0877,45,Laki-laki,S1,Menikah,Wiraswasta,2,Semarang,15.6,200.0,36,571.0,Cukup,2,13,Ditolak
+N1191,39,Perempuan,S1,Menikah,Wiraswasta,1,Bandung,15.7,74.0,48,443.0,Buruk,0,5,Ditolak
+N0703,28,Perempuan,S2,Menikah,Karyawan Swasta,1,Bandung,28.7,140.0,48,500.0,Buruk,1,5,Ditolak
+N0772,65,Perempuan,S1,Cerai,PNS,3,Bandung,10.8,135.0,36,714.0,Baik,0,17,Disetujui
+N1156,47,Perempuan,D3,Menikah,Buruh,2,Surabaya,6.9,452.0,36,577.0,Cukup,0,23,Ditolak
+N0197,36,Laki-laki,D3,Menikah,Karyawan Swasta,1,Bandung,11.3,222.0,24,674.0,Baik,1,2,Ditolak
+N0141,65,Laki-laki,SMA,Menikah,PNS,1,Medan,7.0,36.0,36,701.0,Baik,0,27,Disetujui
+N0595,35,Perempuan,S1,Menikah,Karyawan Swasta,1,Semarang,10.7,54.0,24,706.0,Baik,2,10,Disetujui
+N0123,50,Laki-laki,S1,Menikah,Wiraswasta,2,Denpasar,13.0,62.0,24,638.0,Cukup,2,24,Ditolak
+N0495,34,Perempuan,D3,Menikah,Karyawan Swasta,3,Bandung,10.4,517.0,36,819.0,Baik,1,7,Ditolak
+N0822,50,Perempuan,S2,Belum Menikah,Profesional,1,Medan,13.3,296.0,36,645.0,Baik,0,21,Disetujui
+N0111,33,Perempuan,SMA,Menikah,Wiraswasta,3,Denpasar,12.6,263.0,60,781.0,Baik,1,9,Disetujui
+N0085,49,Perempuan,D3,Belum Menikah,Buruh,0,Jakarta,7.2,59.0,48,607.0,Baik,3,4,Ditolak
+N1063,27,Perempuan,D3,Menikah,Karyawan Swasta,3,Surabaya,11.0,261.0,24,581.0,Cukup,0,4,Ditolak
+N0514,57,Laki-laki,SMA,Cerai,Buruh,2,Yogyakarta,5.3,98.0,36,759.0,Baik,0,9,Disetujui
+N0692,56,Perempuan,S1,Belum Menikah,Karyawan Swasta,2,Medan,10.6,96.0,60,563.0,Cukup,2,14,Disetujui
+N0483,32,Perempuan,D3,Belum Menikah,Profesional,0,Surabaya,14.4,64.0,12,850.0,Baik,2,8,Disetujui
+N0991,36,Laki-laki,S2,Cerai,Wiraswasta,1,Medan,25.8,141.0,24,689.0,Cukup,1,1,Disetujui
+N0612,41,Perempuan,S3,Menikah,Wiraswasta,0,Surabaya,33.6,53.0,48,714.0,Baik,0,14,Disetujui
+N0794,58,Laki-laki,SMA,Menikah,Karyawan Swasta,4,Semarang,5.7,257.0,24,522.0,Buruk,0,25,Ditolak
+N0075,51,Perempuan,S2,Belum Menikah,Karyawan Swasta,5,Medan,17.0,95.0,48,765.0,Baik,1,29,Disetujui
+N1200,48,Perempuan,SMA,Menikah,PNS,1,Surabaya,9.3,84.0,24,549.0,Cukup,2,22,Ditolak
+N1195,44,Perempuan,S1,Menikah,Karyawan Swasta,1,Medan,16.0,17.0,12,636.0,Baik,3,9,Disetujui
+N0927,45,Laki-laki,S1,Menikah,Karyawan Swasta,1,Medan,10.6,39.0,48,688.0,Baik,2,2,Disetujui
+N0274,64,Laki-laki,S2,Belum Menikah,Karyawan Swasta,0,Denpasar,20.5,368.0,12,725.0,Baik,1,12,Ditolak
+N0792,41,Perempuan,S2,Menikah,Buruh,2,Bandung,10.2,161.0,36,545.0,Cukup,0,13,Disetujui
+N0397,23,Perempuan,SMA,Menikah,Karyawan Swasta,2,Jakarta,8.4,52.0,60,706.0,Baik,1,0,Disetujui
+N0155,40,Perempuan,S2,Menikah,Buruh,1,Surabaya,8.6,76.0,24,510.0,Buruk,4,15,Ditolak
+N0192,49,Laki-laki,S1,Menikah,Profesional,1,Bandung,15.0,18.0,36,680.0,Cukup,2,25,Disetujui
+N0798,41,Perempuan,S1,Belum Menikah,Karyawan Swasta,2,Medan,8.4,94.0,36,731.0,Baik,0,8,Disetujui
+N1174,28,Perempuan,S2,Menikah,Wiraswasta,0,Jakarta,13.4,63.0,48,661.0,Baik,1,2,Disetujui
+N0188,38,Laki-laki,S1,Belum Menikah,Karyawan Swasta,3,Jakarta,12.3,47.0,36,626.0,Cukup,2,13,Disetujui
+N0051,55,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,0,Jakarta,10.6,154.0,12,671.0,Baik,2,9,Ditolak
+N0039,33,Perempuan,S1,Menikah,Wiraswasta,1,Jakarta,10.2,155.0,60,655.0,Baik,0,10,Disetujui
+N0419,34,Laki-laki,S2,Menikah,Karyawan Swasta,2,Medan,14.2,30.0,24,661.0,Baik,0,1,Disetujui
+N1150,59,Laki-laki,S2,Menikah,Karyawan Swasta,4,Surabaya,12.3,71.0,48,611.0,Baik,0,27,Disetujui
+N0209,32,Laki-laki,SMA,Menikah,Buruh,3,Medan,4.1,118.0,48,645.0,Baik,1,7,Disetujui
+N0376,25,Perempuan,S1,Menikah,Karyawan Swasta,4,Surabaya,11.6,26.0,36,774.0,Baik,0,3,Disetujui
+N0464,39,Perempuan,SMA,Menikah,PNS,3,Jakarta,12.2,45.0,48,624.0,Baik,1,17,Disetujui
+N0471,54,Perempuan,S1,Menikah,Karyawan Swasta,1,Semarang,14.5,49.0,24,732.0,Baik,1,26,Disetujui
+N0518,23,Perempuan,S1,Menikah,Wiraswasta,1,Jakarta,7.3,71.0,48,591.0,Cukup,1,0,Ditolak
+N0076,42,Laki-laki,S1,Cerai,PNS,2,Medan,12.2,95.0,36,668.0,Cukup,0,15,Disetujui
+N0911,55,Laki-laki,S3,Menikah,Karyawan Swasta,2,Bandung,22.4,36.0,36,779.0,Baik,2,9,Disetujui
+N0249,56,Laki-laki,SMA,Belum Menikah,Wiraswasta,1,Makassar,7.5,74.0,60,634.0,Baik,3,19,Disetujui
+N0560,59,Perempuan,SMA,Menikah,Buruh,2,Bandung,7.4,170.0,36,734.0,Baik,0,13,Disetujui
+N0303,21,Laki-laki,S2,Menikah,Wiraswasta,1,Medan,14.2,219.0,24,726.0,Baik,1,0,Disetujui
+N0583,25,Laki-laki,SMA,Menikah,Buruh,2,Bandung,3.1,170.0,36,656.0,Buruk,2,0,Ditolak
+N0900,48,Perempuan,S2,Menikah,Buruh,2,Medan,7.7,114.0,36,640.0,Cukup,2,22,Ditolak
+N1052,37,Laki-laki,S1,Belum Menikah,PNS,2,Yogyakarta,15.7,84.0,12,557.0,Buruk,1,8,Ditolak
+N0738,36,Perempuan,D3,Belum Menikah,Profesional,0,Bandung,15.4,74.0,36,621.0,Buruk,1,10,Disetujui
+N0799,35,Perempuan,S2,Menikah,Karyawan Swasta,1,Bandung,22.3,44.0,60,529.0,Buruk,1,12,Ditolak
+N0012,64,Perempuan,S1,Belum Menikah,Karyawan Swasta,5,Makassar,7.0,36.0,12,790.0,Baik,0,29,Disetujui
+N1183,52,Laki-laki,SMA,Belum Menikah,Profesional,2,Bandung,8.6,215.0,24,807.0,Baik,2,25,Disetujui
+N0486,31,Perempuan,SMA,Belum Menikah,Karyawan Swasta,2,Makassar,6.5,36.0,36,576.0,Cukup,1,8,Disetujui
+N0463,54,Laki-laki,S1,Menikah,Karyawan Swasta,4,Jakarta,7.2,70.0,36,720.0,Baik,2,15,Disetujui
+N0539,43,Laki-laki,S1,Menikah,PNS,2,Bandung,9.3,22.0,36,708.0,Cukup,2,21,Disetujui
+N0628,37,Laki-laki,S1,Belum Menikah,Karyawan Swasta,2,Jakarta,9.1,116.0,24,593.0,Cukup,0,10,Ditolak
+N0282,42,Perempuan,SMA,Menikah,Wiraswasta,3,Semarang,5.4,154.0,48,807.0,Baik,1,9,Disetujui
+N0254,35,Perempuan,S2,Menikah,Wiraswasta,2,Medan,25.1,14.0,48,630.0,Baik,0,12,Disetujui
+N0708,43,Perempuan,S2,Belum Menikah,PNS,2,Medan,18.4,133.0,48,657.0,Baik,0,12,Disetujui
+N1109,63,Perempuan,S2,Cerai,Karyawan Swasta,1,Surabaya,20.2,245.0,24,503.0,Cukup,0,28,Ditolak
+N0224,30,Perempuan,SMA,Belum Menikah,Karyawan Swasta,3,Surabaya,10.7,555.0,12,539.0,Buruk,0,7,Ditolak
+N0578,44,Laki-laki,S1,Menikah,PNS,1,Medan,12.7,108.0,12,491.0,Buruk,2,19,Ditolak
+N0673,49,Laki-laki,S1,Menikah,Wiraswasta,1,Jakarta,11.3,101.0,12,740.0,Baik,4,24,Ditolak
+N0814,33,Perempuan,S1,Menikah,Profesional,4,Semarang,20.4,57.0,24,790.0,Baik,1,10,Disetujui
+N0220,61,Laki-laki,D3,Menikah,Wiraswasta,1,Medan,8.7,60.0,24,727.0,Cukup,1,2,Disetujui
+N0426,29,Laki-laki,D3,Menikah,Wiraswasta,2,Surabaya,7.2,349.0,36,528.0,Cukup,0,4,Ditolak
+N0370,55,Laki-laki,S1,Menikah,Wiraswasta,2,Bandung,21.4,50.0,36,709.0,Baik,2,27,Disetujui
+N1130,43,Laki-laki,S1,Cerai,Karyawan Swasta,3,Bandung,9.0,28.0,36,726.0,Baik,1,26,Disetujui
+N0070,42,Laki-laki,S2,Menikah,Profesional,0,Jakarta,21.2,392.0,24,850.0,Baik,1,18,Disetujui
+N0581,25,Perempuan,S2,Belum Menikah,Karyawan Swasta,0,Denpasar,41.8,30.0,24,680.0,Cukup,1,2,Disetujui
+N0022,37,Laki-laki,S1,Belum Menikah,PNS,2,Yogyakarta,14.3,35.0,36,605.0,Cukup,1,9,Disetujui
+N0078,31,Laki-laki,D3,Belum Menikah,Buruh,2,Jakarta,10.6,33.0,48,581.0,Cukup,2,4,Ditolak
+N0548,47,Perempuan,S2,Cerai,Wiraswasta,2,Surabaya,21.1,175.0,36,724.0,Baik,1,9,Disetujui
+N0749,35,Laki-laki,D3,Menikah,Wiraswasta,1,Jakarta,12.5,33.0,24,566.0,Cukup,1,9,Ditolak
+N0406,43,Laki-laki,S1,Belum Menikah,Karyawan Swasta,0,Jakarta,13.7,50.0,48,713.0,Baik,3,9,Disetujui
+N1080,58,Laki-laki,SMA,Menikah,Profesional,0,Jakarta,10.2,88.0,36,721.0,Baik,0,21,Disetujui
+N0827,51,Laki-laki,S1,Menikah,Karyawan Swasta,2,Makassar,10.6,141.0,36,719.0,Baik,1,13,Disetujui
+N0126,46,Laki-laki,SMA,Menikah,Wiraswasta,0,Surabaya,9.9,47.0,24,840.0,Baik,1,7,Disetujui
+N0758,38,Laki-laki,D3,Menikah,Karyawan Swasta,0,Semarang,14.5,74.0,36,546.0,Buruk,3,14,Ditolak
+N0043,52,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,1,Jakarta,7.5,140.0,36,742.0,Baik,3,19,Disetujui
+N0517,60,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,5,Denpasar,5.5,67.0,36,771.0,Baik,1,22,Disetujui
+N0890,33,Laki-laki,S1,Menikah,Karyawan Swasta,3,Surabaya,11.8,38.0,60,666.0,Baik,2,11,Disetujui
+N0937,28,Perempuan,SMA,Menikah,PNS,1,Makassar,7.3,49.0,24,793.0,Baik,1,1,Disetujui
+N0909,37,Laki-laki,SMA,Menikah,Wiraswasta,0,Bandung,6.3,71.0,60,661.0,Baik,0,11,Disetujui
+N0573,33,Laki-laki,D3,Menikah,PNS,1,Surabaya,6.3,412.0,48,703.0,Baik,1,6,Ditolak
+N0577,62,Laki-laki,S2,Belum Menikah,Karyawan Swasta,1,Medan,18.9,256.0,36,686.0,Baik,2,8,Disetujui
+N1095,35,Perempuan,S3,Menikah,Profesional,3,Jakarta,43.2,117.0,12,671.0,Baik,0,12,Disetujui
+N0622,42,Laki-laki,SMA,Menikah,Karyawan Swasta,5,Semarang,7.9,112.0,24,766.0,Baik,1,18,Disetujui
+N0768,42,Laki-laki,SMA,Menikah,Karyawan Swasta,0,Bandung,7.6,30.0,24,648.0,Cukup,2,16,Disetujui
+N0744,33,Perempuan,SMA,Menikah,Pensiunan,1,Surabaya,6.1,227.0,60,663.0,Cukup,1,5,Ditolak
+N0375,60,Laki-laki,D3,Menikah,Buruh,5,Bandung,4.3,85.0,48,526.0,Buruk,1,21,Ditolak
+N0206,32,Laki-laki,S2,Menikah,Wiraswasta,2,Semarang,22.0,41.0,48,720.0,Cukup,0,6,Disetujui
+N0317,53,Laki-laki,D3,Belum Menikah,Karyawan Swasta,2,Denpasar,7.7,50.0,36,655.0,Cukup,1,18,Disetujui
+N0967,48,Laki-laki,S1,Menikah,Karyawan Swasta,2,Jakarta,8.0,20.0,24,507.0,Buruk,0,24,Ditolak
+N0007,24,Perempuan,SMA,Belum Menikah,Karyawan Swasta,0,Medan,6.6,47.0,36,795.0,Baik,3,0,Disetujui
+N1106,29,Perempuan,S1,Menikah,Wiraswasta,0,Surabaya,17.9,264.0,24,661.0,Cukup,2,2,Ditolak
+N0803,44,Perempuan,S1,Menikah,Profesional,1,Jakarta,16.7,89.0,48,535.0,Buruk,0,18,Ditolak
+N0845,21,Laki-laki,D3,Cerai,Karyawan Swasta,1,Surabaya,6.7,74.0,60,731.0,Baik,1,0,Disetujui
+N1032,28,Perempuan,S1,Menikah,Buruh,1,Surabaya,4.3,37.0,36,661.0,Cukup,1,2,Ditolak
+N1084,46,Laki-laki,D3,Menikah,Karyawan Swasta,1,Makassar,6.1,38.0,24,644.0,Baik,1,11,Disetujui
+N1103,62,Laki-laki,SMA,Menikah,Profesional,1,Jakarta,8.8,62.0,60,704.0,Baik,0,20,Disetujui
+N0260,47,Laki-laki,S1,Menikah,Profesional,1,Jakarta,13.4,94.0,24,696.0,Baik,2,1,Disetujui
+N0283,51,Perempuan,S1,Menikah,Profesional,0,Semarang,16.8,96.0,12,793.0,Baik,0,19,Disetujui
+N0635,29,Laki-laki,S1,Belum Menikah,Karyawan Swasta,0,Denpasar,14.7,42.0,24,519.0,Cukup,2,7,Ditolak
+N0475,49,Perempuan,S2,Menikah,Wiraswasta,1,Yogyakarta,13.8,36.0,36,606.0,Cukup,1,8,Disetujui
+N0456,45,Perempuan,S1,Belum Menikah,Buruh,2,Yogyakarta,3.2,174.0,36,534.0,Cukup,2,19,Ditolak
+N0321,35,Laki-laki,D3,Menikah,PNS,2,Bandung,10.2,82.0,36,697.0,Cukup,0,8,Disetujui
+N0435,40,Laki-laki,S1,Menikah,Wiraswasta,1,Jakarta,17.1,60.0,12,633.0,Cukup,1,8,Disetujui
+N1181,48,Laki-laki,S1,Belum Menikah,Karyawan Swasta,4,Denpasar,10.6,218.0,24,588.0,Cukup,0,8,Ditolak
+N0300,21,Laki-laki,SMA,Menikah,Profesional,3,Jakarta,10.8,78.0,24,827.0,Baik,2,0,Disetujui
+N0437,46,Laki-laki,SMA,Menikah,Karyawan Swasta,0,Yogyakarta,3.0,25.0,12,494.0,Buruk,0,17,Ditolak
+N1116,43,Perempuan,SMA,Menikah,Karyawan Swasta,2,Surabaya,21.5,83.0,24,655.0,Cukup,1,21,Disetujui
+N0439,24,Laki-laki,D3,Menikah,Karyawan Swasta,3,Medan,11.2,34.0,36,684.0,Cukup,2,0,Disetujui
+N0326,31,Laki-laki,D3,Belum Menikah,Wiraswasta,2,Jakarta,12.5,109.0,24,618.0,Buruk,4,6,Ditolak
+N0404,64,Laki-laki,SMA,Cerai,Wiraswasta,2,Makassar,16.6,127.0,24,578.0,Cukup,1,9,Ditolak
+N0565,61,Laki-laki,S1,Cerai,Karyawan Swasta,0,Semarang,21.1,81.0,36,558.0,Buruk,2,9,Ditolak
+N0293,63,Laki-laki,S1,Menikah,Pensiunan,1,Medan,6.2,126.0,36,748.0,Baik,1,17,Disetujui
+N0279,23,Laki-laki,D3,Menikah,Profesional,5,Yogyakarta,16.5,335.0,60,667.0,Cukup,1,0,Ditolak
+N0656,44,Perempuan,S1,Menikah,Pensiunan,0,Medan,10.6,214.0,48,694.0,Baik,0,4,Disetujui
+N0733,62,Laki-laki,S1,Menikah,Profesional,0,Medan,13.1,474.0,36,523.0,Buruk,1,9,Ditolak
+N0554,35,Laki-laki,S1,Menikah,Wiraswasta,1,Jakarta,13.6,184.0,24,547.0,Buruk,1,8,Ditolak
+N0095,61,Laki-laki,S1,Menikah,Profesional,0,Surabaya,17.7,80.0,48,595.0,Cukup,2,24,Disetujui
+N1157,26,Laki-laki,SMA,Cerai,Wiraswasta,1,Surabaya,7.6,181.0,24,658.0,Baik,1,4,Ditolak
+N0246,24,Perempuan,SMA,Menikah,Karyawan Swasta,0,Medan,10.6,331.0,24,673.0,Cukup,1,0,Ditolak
+N0946,26,Laki-laki,S1,Belum Menikah,Profesional,1,Semarang,19.9,470.0,12,721.0,Baik,2,4,Ditolak
+N0776,63,Laki-laki,S1,Menikah,Karyawan Swasta,3,Yogyakarta,10.3,60.0,12,661.0,Baik,1,27,Disetujui
+N0427,59,Perempuan,S1,Menikah,Buruh,4,Bandung,7.5,59.0,36,741.0,Baik,2,2,Disetujui
+N0150,23,Perempuan,S2,Menikah,Profesional,4,Surabaya,30.2,10.0,24,730.0,Baik,0,0,Disetujui
+N0227,57,Perempuan,S2,Belum Menikah,Karyawan Swasta,2,Denpasar,7.5,29.0,48,649.0,Cukup,0,29,Disetujui
+N0866,52,Perempuan,S2,Menikah,Wiraswasta,3,Surabaya,32.2,366.0,12,629.0,Cukup,2,3,Ditolak
+N0968,35,Laki-laki,S1,Menikah,Profesional,0,Semarang,30.9,57.0,36,499.0,Buruk,3,13,Ditolak
+N0901,21,Perempuan,S1,Menikah,Wiraswasta,1,Denpasar,5.7,64.0,12,528.0,Buruk,1,0,Ditolak
+N0700,25,Laki-laki,S1,Menikah,Profesional,2,Bandung,10.6,46.0,36,587.0,Cukup,2,3,Ditolak
+N0602,56,Perempuan,S1,Menikah,Karyawan Swasta,2,Jakarta,13.0,602.0,48,664.0,Cukup,1,9,Ditolak
+N1059,40,Laki-laki,S1,Menikah,Karyawan Swasta,4,Medan,17.6,137.0,12,614.0,Cukup,1,7,Ditolak
+N0218,43,Laki-laki,SMA,Menikah,PNS,2,Surabaya,4.7,22.0,12,615.0,Buruk,1,2,Ditolak
+N0818,25,Laki-laki,S2,Menikah,Wiraswasta,0,Medan,13.6,406.0,36,605.0,Cukup,0,2,Ditolak
+N0214,41,Laki-laki,S1,Belum Menikah,Karyawan Swasta,1,Jakarta,11.6,162.0,60,658.0,Cukup,5,16,Ditolak
+N1138,37,Laki-laki,SMA,Belum Menikah,Wiraswasta,2,Surabaya,13.5,91.0,60,596.0,Buruk,0,9,Ditolak
+N0908,28,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,4,Jakarta,5.0,39.0,36,496.0,Buruk,1,4,Ditolak
+N0395,53,Perempuan,S1,Belum Menikah,Karyawan Swasta,1,Denpasar,10.6,46.0,48,664.0,Baik,1,2,Disetujui
+N0368,35,Laki-laki,S1,Belum Menikah,PNS,2,Surabaya,7.2,283.0,36,794.0,Baik,1,10,Disetujui
+N0925,32,Perempuan,SMA,Menikah,Wiraswasta,2,Jakarta,4.5,47.0,60,766.0,Baik,3,10,Disetujui
+N0013,54,Perempuan,S1,Belum Menikah,Karyawan Swasta,2,Semarang,12.2,17.0,48,602.0,Cukup,1,12,Ditolak
+N1131,39,Perempuan,S1,Belum Menikah,Profesional,0,Denpasar,17.3,112.0,24,711.0,Baik,0,14,Disetujui
+N0235,43,Perempuan,SMA,Menikah,Wiraswasta,0,Jakarta,10.7,230.0,48,666.0,Cukup,1,21,Ditolak
+N0696,32,Laki-laki,S1,Menikah,Wiraswasta,3,Bandung,14.7,45.0,36,653.0,Baik,3,3,Disetujui
+N1149,52,Laki-laki,S2,Menikah,Wiraswasta,1,Jakarta,12.6,206.0,48,700.0,Baik,0,23,Disetujui
+N0064,43,Laki-laki,S1,Belum Menikah,Profesional,2,Semarang,11.6,134.0,24,709.0,Baik,1,11,Disetujui
+N0735,30,Perempuan,S2,Menikah,Wiraswasta,1,Jakarta,31.6,48.0,60,602.0,Cukup,1,4,Disetujui
+N1024,58,Laki-laki,S1,Cerai,PNS,2,Semarang,10.1,170.0,24,456.0,Buruk,1,10,Ditolak
+N0965,63,Perempuan,SMA,Menikah,Wiraswasta,3,Medan,10.6,33.0,24,688.0,Baik,1,7,Disetujui
+N0608,44,Laki-laki,D3,Menikah,Wiraswasta,2,Bandung,6.5,158.0,60,575.0,Buruk,1,21,Ditolak
+N0014,55,Perempuan,SMA,Belum Menikah,PNS,1,Makassar,4.6,10.0,60,735.0,Baik,2,1,Disetujui
+N0840,61,Perempuan,SMA,Menikah,Profesional,5,Surabaya,10.5,63.0,60,725.0,Baik,0,23,Disetujui
+N0436,26,Perempuan,S2,Menikah,PNS,3,Jakarta,22.6,124.0,48,638.0,Cukup,1,0,Disetujui
+N0018,26,Laki-laki,S1,Menikah,PNS,4,Bandung,21.7,41.0,36,640.0,Baik,1,2,Disetujui
+N0765,37,Laki-laki,S1,Menikah,Karyawan Swasta,1,Surabaya,9.2,121.0,36,806.0,Baik,1,14,Disetujui
+N0349,43,Perempuan,S1,Belum Menikah,Profesional,0,Jakarta,8.4,60.0,12,741.0,Baik,0,9,Disetujui
+N0208,64,Laki-laki,SMA,Menikah,Karyawan Swasta,1,Makassar,3.9,149.0,24,462.0,Buruk,1,7,Ditolak
+N0342,34,Perempuan,S1,Belum Menikah,PNS,3,Medan,13.3,127.0,36,666.0,Cukup,2,8,Disetujui
+N0345,61,Laki-laki,D3,Menikah,Karyawan Swasta,1,Jakarta,9.3,800.0,36,632.0,Cukup,1,10,Ditolak
+N1097,58,Laki-laki,S3,Belum Menikah,Pensiunan,2,Makassar,15.0,105.0,36,471.0,Buruk,2,19,Ditolak
+N1125,58,Laki-laki,SMA,Cerai,Karyawan Swasta,1,Makassar,5.4,47.0,48,608.0,Buruk,0,5,Ditolak
+N0552,38,Perempuan,S2,Menikah,Wiraswasta,0,Jakarta,37.8,169.0,24,540.0,Cukup,3,13,Ditolak
+N0599,49,Laki-laki,SMA,Cerai,Buruh,3,Jakarta,5.8,12.0,36,700.0,Baik,0,2,Disetujui
+N0033,25,Laki-laki,S1,Menikah,Profesional,1,Surabaya,20.8,69.0,24,678.0,Baik,1,0,Disetujui
+N0373,39,Laki-laki,S1,Belum Menikah,Karyawan Swasta,1,Surabaya,11.3,65.0,48,571.0,Cukup,3,15,Ditolak
+N0658,49,Perempuan,SMA,Menikah,Karyawan Swasta,4,Bandung,4.0,15.0,12,644.0,Baik,1,17,Disetujui
+N0173,55,Perempuan,S1,Belum Menikah,Wiraswasta,3,Semarang,15.8,66.0,24,530.0,Buruk,0,9,Ditolak
+N1087,57,Laki-laki,SMA,Menikah,Profesional,2,Bandung,10.4,110.0,60,610.0,Baik,1,3,Ditolak
+N0409,63,Perempuan,SMA,Menikah,PNS,1,Jakarta,7.0,46.0,36,503.0,Cukup,2,23,Disetujui
+N1051,43,Laki-laki,D3,Cerai,Karyawan Swasta,4,Jakarta,10.6,48.0,48,610.0,Cukup,1,2,Ditolak
+N1168,38,Laki-laki,S1,Menikah,Profesional,0,Makassar,17.2,214.0,36,661.0,Baik,3,6,Disetujui
+N0201,37,Perempuan,S2,Belum Menikah,Profesional,3,Semarang,10.6,44.0,48,627.0,Cukup,2,14,Disetujui
+N0861,64,Perempuan,S2,Menikah,Karyawan Swasta,4,Semarang,19.8,91.0,36,480.0,Cukup,1,16,Ditolak
+N1143,62,Laki-laki,S2,Menikah,Buruh,2,Bandung,9.4,23.0,12,670.0,Cukup,2,25,Disetujui
+N1126,58,Perempuan,S1,Menikah,Karyawan Swasta,1,Denpasar,11.9,287.0,36,652.0,Cukup,2,9,Ditolak
+N1153,40,Perempuan,SMA,Menikah,Wiraswasta,0,Jakarta,6.5,130.0,48,729.0,Baik,2,10,Disetujui
+N0490,48,Laki-laki,D3,Menikah,Profesional,1,Bandung,10.6,165.0,48,601.0,Baik,0,26,Disetujui
+N1151,37,Perempuan,SMA,Menikah,Buruh,4,Jakarta,8.2,110.0,48,796.0,Baik,2,3,Disetujui
+N0213,56,Perempuan,SMA,Belum Menikah,Profesional,2,Makassar,8.1,124.0,60,531.0,Cukup,3,1,Ditolak
+N0134,46,Laki-laki,S2,Menikah,Karyawan Swasta,3,Jakarta,25.4,612.0,36,536.0,Buruk,1,15,Ditolak
+N0061,62,Laki-laki,S1,Belum Menikah,Pensiunan,3,Jakarta,6.9,134.0,36,708.0,Baik,2,18,Disetujui
+N0691,65,Laki-laki,S2,Menikah,Karyawan Swasta,1,Makassar,13.7,210.0,48,632.0,Baik,1,3,Disetujui
+N0027,39,Perempuan,S1,Menikah,Wiraswasta,1,Surabaya,10.6,69.0,12,528.0,Buruk,1,17,Ditolak
+N0101,58,Laki-laki,S1,Cerai,Karyawan Swasta,0,Denpasar,6.9,210.0,24,490.0,Buruk,0,4,Ditolak
+N0975,27,Laki-laki,S1,Menikah,Karyawan Swasta,3,Denpasar,7.5,221.0,24,675.0,Baik,0,5,Ditolak
+N0777,40,Perempuan,S1,Belum Menikah,Karyawan Swasta,2,Bandung,12.0,172.0,48,587.0,Cukup,1,2,Ditolak
+N0789,45,Perempuan,S1,Menikah,Buruh,4,Medan,5.6,393.0,48,700.0,Cukup,0,19,Ditolak
+N0521,37,Perempuan,SMA,Menikah,Karyawan Swasta,0,Yogyakarta,5.1,21.0,24,661.0,Cukup,0,10,Disetujui
+N0364,61,Laki-laki,S1,Belum Menikah,Profesional,0,Denpasar,18.3,164.0,60,668.0,Baik,0,9,Disetujui
+N0310,25,Laki-laki,SMA,Menikah,Karyawan Swasta,3,Surabaya,6.9,59.0,48,661.0,Baik,0,0,Disetujui
+N0796,34,Laki-laki,S2,Belum Menikah,Karyawan Swasta,2,Surabaya,21.4,105.0,36,680.0,Cukup,2,7,Disetujui
+N0829,59,Perempuan,D3,Cerai,Wiraswasta,2,Makassar,10.6,139.0,24,535.0,Cukup,2,10,Ditolak
+N0545,58,Laki-laki,S1,Menikah,PNS,2,Jakarta,5.7,108.0,60,661.0,Baik,2,9,Disetujui
+N0940,43,Laki-laki,S1,Menikah,Buruh,2,Denpasar,7.4,106.0,60,707.0,Baik,2,4,Disetujui
+N0442,34,Perempuan,SMA,Menikah,PNS,1,Medan,4.3,190.0,36,609.0,Cukup,1,8,Ditolak
+N0648,45,Laki-laki,S1,Menikah,Wiraswasta,1,Makassar,9.2,75.0,48,462.0,Buruk,2,1,Ditolak
+N1004,60,Perempuan,S1,Menikah,Karyawan Swasta,3,Medan,18.0,65.0,24,626.0,Cukup,5,8,Disetujui
+N0477,59,Laki-laki,S1,Belum Menikah,PNS,0,Surabaya,9.9,63.0,12,743.0,Baik,0,1,Disetujui
+N1047,31,Laki-laki,SMA,Menikah,Wiraswasta,2,Surabaya,10.6,53.0,60,567.0,Cukup,2,4,Ditolak
+N0063,37,Laki-laki,S3,Menikah,Karyawan Swasta,1,Denpasar,12.5,34.0,36,639.0,Cukup,1,12,Disetujui
+N0484,56,Perempuan,S1,Menikah,Profesional,1,Semarang,23.1,64.0,24,661.0,Baik,2,23,Disetujui
+N1027,24,Laki-laki,S1,Belum Menikah,PNS,0,Makassar,11.5,21.0,48,590.0,Baik,2,0,Disetujui
+N0053,37,Perempuan,S1,Belum Menikah,Karyawan Swasta,2,Surabaya,15.5,150.0,48,764.0,Baik,2,2,Disetujui
+N0243,25,Laki-laki,S1,Cerai,Buruh,0,Bandung,9.7,11.0,36,738.0,Baik,0,3,Disetujui
+N0036,23,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,1,Jakarta,6.1,33.0,60,703.0,Baik,1,0,Disetujui
+N0739,54,Perempuan,SMA,Belum Menikah,Wiraswasta,3,Denpasar,7.8,55.0,48,682.0,Baik,0,5,Disetujui
+N0121,40,Laki-laki,S1,Menikah,Profesional,1,Bandung,11.4,126.0,36,536.0,Cukup,0,13,Disetujui
+N1176,36,Laki-laki,S1,Menikah,Wiraswasta,2,Bandung,28.2,230.0,60,678.0,Baik,0,12,Disetujui
+N1020,26,Laki-laki,S2,Belum Menikah,PNS,2,Semarang,15.0,215.0,36,697.0,Baik,0,4,Disetujui
+N0045,24,Laki-laki,SMA,Belum Menikah,Wiraswasta,0,Bandung,12.9,120.0,60,728.0,Baik,0,2,Disetujui
+N0837,57,Laki-laki,S1,Belum Menikah,Buruh,4,Jakarta,5.4,54.0,60,553.0,Buruk,2,26,Ditolak
+N0077,35,Perempuan,D3,Menikah,Karyawan Swasta,2,Semarang,7.8,399.0,60,681.0,Baik,0,9,Ditolak
+N0369,21,Perempuan,D3,Menikah,Wiraswasta,1,Jakarta,8.5,54.0,60,660.0,Baik,1,0,Disetujui
+N0907,39,Perempuan,S2,Belum Menikah,Karyawan Swasta,2,Surabaya,9.8,211.0,60,734.0,Baik,1,12,Disetujui
+N0268,36,Perempuan,S3,Belum Menikah,Wiraswasta,1,Yogyakarta,21.9,392.0,24,469.0,Buruk,2,10,Ditolak
+N0729,42,Laki-laki,S2,Belum Menikah,Wiraswasta,1,Yogyakarta,16.7,158.0,12,539.0,Buruk,0,20,Ditolak
+N0445,43,Laki-laki,D3,Belum Menikah,Karyawan Swasta,2,Makassar,11.3,43.0,36,718.0,Cukup,2,17,Disetujui
+N0504,60,Perempuan,S1,Belum Menikah,Karyawan Swasta,2,Bandung,13.0,240.0,48,592.0,Cukup,0,26,Ditolak
+N1058,55,Perempuan,S1,Cerai,Karyawan Swasta,2,Semarang,9.6,36.0,48,656.0,Baik,1,20,Disetujui
+N0286,63,Laki-laki,D3,Belum Menikah,Karyawan Swasta,2,Semarang,4.7,154.0,48,683.0,Baik,0,7,Disetujui
+N0296,44,Perempuan,D3,Cerai,Karyawan Swasta,1,Semarang,9.4,57.0,60,642.0,Baik,0,3,Ditolak
+N0626,31,Perempuan,S1,Menikah,Karyawan Swasta,1,Medan,9.6,97.0,60,686.0,Baik,2,7,Disetujui
+N0278,56,Laki-laki,SMA,Menikah,Karyawan Swasta,1,Makassar,6.7,137.0,36,745.0,Baik,2,1,Disetujui
+N1169,65,Laki-laki,S1,Menikah,Profesional,5,Medan,10.1,108.0,48,703.0,Baik,1,24,Disetujui
+N0485,41,Perempuan,SMA,Belum Menikah,Pensiunan,3,Surabaya,3.0,40.0,24,712.0,Cukup,2,7,Disetujui
+N0183,43,Laki-laki,S2,Menikah,Karyawan Swasta,0,Makassar,12.0,76.0,48,697.0,Cukup,4,21,Disetujui
+N0971,34,Laki-laki,SMA,Cerai,Wiraswasta,3,Surabaya,13.4,405.0,60,530.0,Cukup,3,9,Ditolak
+N1198,65,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,0,Medan,7.6,97.0,36,801.0,Baik,2,8,Disetujui
+N0685,28,Perempuan,S2,Menikah,Buruh,1,Makassar,7.1,82.0,60,579.0,Cukup,3,3,Ditolak
+N0037,59,Perempuan,SMA,Belum Menikah,Karyawan Swasta,3,Bandung,6.2,340.0,48,833.0,Baik,3,21,Disetujui
+N0003,50,Perempuan,SMA,Menikah,PNS,2,Denpasar,6.5,170.0,48,676.0,Baik,4,8,Disetujui
+N0755,45,Perempuan,D3,Menikah,Karyawan Swasta,1,Surabaya,7.5,73.0,60,743.0,Baik,1,23,Disetujui
+N0509,33,Perempuan,S1,Belum Menikah,Karyawan Swasta,3,Surabaya,10.2,129.0,36,784.0,Baik,4,6,Disetujui
+N0498,37,Perempuan,SMA,Belum Menikah,Karyawan Swasta,1,Bandung,5.6,26.0,48,664.0,Baik,2,12,Disetujui
+N0309,35,Laki-laki,D3,Belum Menikah,Profesional,1,Denpasar,8.4,281.0,60,503.0,Buruk,2,12,Ditolak
+N0142,30,Laki-laki,S1,Menikah,PNS,0,Makassar,19.1,119.0,60,487.0,Buruk,0,8,Ditolak
+N0865,59,Perempuan,S1,Cerai,Buruh,0,Medan,10.6,24.0,36,660.0,Cukup,0,9,Disetujui
+N0184,52,Perempuan,SMA,Menikah,Karyawan Swasta,0,Surabaya,10.6,183.0,36,577.0,Cukup,0,9,Ditolak
+N1188,47,Perempuan,S1,Menikah,Karyawan Swasta,3,Medan,9.3,143.0,60,749.0,Baik,2,11,Disetujui
+N1011,33,Laki-laki,SMA,Menikah,Karyawan Swasta,0,Jakarta,7.5,30.0,48,697.0,Baik,2,9,Disetujui
+N0913,37,Perempuan,SMA,Belum Menikah,Profesional,0,Semarang,15.6,53.0,12,593.0,Buruk,2,9,Ditolak
+N0849,57,Perempuan,S1,Menikah,Karyawan Swasta,5,Jakarta,11.4,105.0,60,696.0,Baik,1,12,Disetujui
+N0512,54,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,2,Yogyakarta,8.6,27.0,24,639.0,Baik,4,22,Disetujui
+N0732,39,Laki-laki,S1,Cerai,Wiraswasta,3,Denpasar,16.4,57.0,36,540.0,Buruk,2,15,Ditolak
+N0997,44,Laki-laki,S1,Menikah,Karyawan Swasta,1,Jakarta,6.5,134.0,60,651.0,Cukup,2,11,Disetujui
+N0888,43,Laki-laki,S1,Belum Menikah,Karyawan Swasta,2,Semarang,9.9,29.0,24,711.0,Baik,1,2,Disetujui
+N0118,27,Laki-laki,S1,Belum Menikah,Profesional,3,Medan,16.9,75.0,36,750.0,Baik,1,2,Disetujui
+N1026,23,Perempuan,S1,Cerai,Karyawan Swasta,3,Jakarta,13.5,119.0,36,784.0,Baik,1,0,Disetujui
+N0114,41,Perempuan,S1,Belum Menikah,Profesional,2,Bandung,30.4,38.0,36,589.0,Cukup,0,9,Disetujui
+N0546,23,Laki-laki,SMA,Menikah,PNS,3,Bandung,9.2,227.0,12,585.0,Cukup,2,0,Ditolak
+N0166,57,Laki-laki,SMA,Belum Menikah,PNS,2,Jakarta,11.8,43.0,60,682.0,Cukup,0,11,Disetujui
+N0185,43,Perempuan,S1,Menikah,Buruh,2,Denpasar,8.3,47.0,36,613.0,Cukup,1,16,Ditolak
+N0275,39,Perempuan,D3,Belum Menikah,Wiraswasta,3,Bandung,5.5,26.0,36,614.0,Cukup,0,12,Disetujui
+N1002,54,Laki-laki,S1,Menikah,Karyawan Swasta,1,Surabaya,16.2,112.0,12,734.0,Baik,2,12,Disetujui
+N0705,26,Perempuan,D3,Menikah,Wiraswasta,1,Medan,7.4,306.0,24,564.0,Buruk,2,2,Ditolak
+N1025,57,Laki-laki,S3,Belum Menikah,Wiraswasta,1,Medan,19.9,101.0,36,756.0,Baik,1,15,Disetujui
+N0384,31,Laki-laki,SMA,Menikah,Pensiunan,2,Surabaya,5.5,80.0,48,744.0,Baik,1,4,Disetujui
+N0562,22,Perempuan,SMA,Menikah,Wiraswasta,5,Surabaya,8.7,262.0,36,685.0,Baik,1,0,Ditolak
+N0863,26,Laki-laki,D3,Belum Menikah,Karyawan Swasta,0,Surabaya,10.6,43.0,36,738.0,Baik,2,4,Disetujui
+N1045,52,Laki-laki,SMA,Menikah,Karyawan Swasta,0,Yogyakarta,5.6,58.0,24,591.0,Cukup,3,23,Ditolak
+N0177,53,Perempuan,S1,Belum Menikah,Profesional,0,Jakarta,13.7,91.0,12,642.0,Baik,2,5,Ditolak
+N0380,32,Laki-laki,S2,Cerai,PNS,2,Surabaya,15.6,227.0,36,533.0,Cukup,3,7,Ditolak
+N1196,49,Laki-laki,S1,Menikah,Karyawan Swasta,0,Jakarta,12.7,68.0,60,582.0,Cukup,2,4,Ditolak
+N1017,38,Laki-laki,D3,Menikah,Karyawan Swasta,2,Medan,9.4,256.0,60,520.0,Buruk,4,2,Ditolak
+N0520,47,Perempuan,S2,Belum Menikah,Karyawan Swasta,1,Yogyakarta,11.3,41.0,24,547.0,Buruk,1,12,Ditolak
+N0831,32,Perempuan,SMA,Menikah,PNS,1,Jakarta,14.7,50.0,12,471.0,Buruk,0,6,Ditolak
+N0508,32,Laki-laki,S1,Belum Menikah,Karyawan Swasta,2,Denpasar,9.3,116.0,24,726.0,Baik,1,8,Disetujui
+N1177,35,Perempuan,S1,Belum Menikah,Karyawan Swasta,1,Jakarta,11.1,46.0,24,661.0,Cukup,5,4,Ditolak
+N0414,26,Perempuan,S1,Menikah,Karyawan Swasta,0,Surabaya,14.1,26.0,48,568.0,Cukup,1,0,Ditolak
+N0623,28,Perempuan,S1,Menikah,Wiraswasta,3,Medan,18.0,45.0,12,540.0,Cukup,2,6,Ditolak
+N0873,26,Laki-laki,D3,Menikah,Karyawan Swasta,3,Denpasar,12.4,234.0,36,556.0,Buruk,1,0,Ditolak
+N0859,51,Perempuan,SMA,Belum Menikah,Wiraswasta,1,Semarang,9.1,142.0,36,759.0,Baik,2,14,Disetujui
+N0642,62,Laki-laki,SMA,Menikah,Karyawan Swasta,2,Surabaya,9.8,19.0,36,527.0,Buruk,2,18,Ditolak
+N0259,28,Laki-laki,SMA,Menikah,PNS,0,Surabaya,5.3,235.0,48,621.0,Cukup,3,5,Ditolak
+N0835,59,Laki-laki,S1,Menikah,Wiraswasta,1,Jakarta,7.1,70.0,12,770.0,Baik,0,5,Disetujui
+N0663,22,Laki-laki,SMA,Belum Menikah,Karyawan Swasta,1,Bandung,10.6,45.0,24,673.0,Cukup,0,0,Ditolak
+N0338,35,Laki-laki,S1,Belum Menikah,Buruh,1,Jakarta,6.0,372.0,36,689.0,Baik,1,12,Ditolak
+N0399,33,Perempuan,D3,Belum Menikah,Karyawan Swasta,0,Denpasar,5.1,136.0,48,762.0,Baik,1,9,Disetujui
+N0606,43,Laki-laki,SMA,Menikah,Profesional,1,Jakarta,14.3,371.0,24,533.0,Buruk,0,19,Ditolak
+N1144,59,Perempuan,SMA,Menikah,Wiraswasta,1,Jakarta,10.6,123.0,12,555.0,Buruk,0,4,Ditolak
+N0918,56,Perempuan,S3,Menikah,Profesional,3,Medan,10.6,177.0,60,524.0,Cukup,0,4,Ditolak
+N1018,43,Perempuan,S1,Menikah,PNS,0,Surabaya,20.4,651.0,36,643.0,Cukup,0,2,Ditolak
+N0876,43,Laki-laki,S1,Menikah,Karyawan Swasta,3,Surabaya,8.8,46.0,60,583.0,Cukup,1,7,Ditolak
+N0660,33,Perempuan,S1,Menikah,Karyawan Swasta,1,Jakarta,9.5,187.0,36,772.0,Baik,4,6,Disetujui
+N1022,24,Laki-laki,S1,Menikah,Wiraswasta,4,Jakarta,10.2,110.0,48,615.0,Cukup,1,1,Ditolak
+N0790,21,Laki-laki,S1,Belum Menikah,PNS,0,Medan,10.6,169.0,24,527.0,Buruk,1,0,Ditolak
+N0257,51,Perempuan,S3,Menikah,Karyawan Swasta,0,Medan,10.6,339.0,24,546.0,Buruk,1,9,Ditolak
+N0969,62,Laki-laki,S2,Menikah,PNS,2,Jakarta,16.5,57.0,36,490.0,Buruk,0,21,Ditolak
+N0953,48,Laki-laki,S2,Cerai,Karyawan Swasta,2,Medan,16.0,75.0,36,530.0,Cukup,3,16,Ditolak
